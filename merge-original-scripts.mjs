@@ -54,11 +54,13 @@ async function main() {
     // Narration entries (no `name`) become a plain {message} line.
     const lines = [];
     for (const entry of entries) {
+      // Strip \r\n sequences that appear in some source messages.
+      const message = entry.message.replace(/\r\n/g, "");
       if (entry.name) {
         lines.push(`＃${entry.name}`);
-        lines.push(entry.message);
+        lines.push(message);
       } else {
-        lines.push(entry.message);
+        lines.push(message);
       }
     }
 
