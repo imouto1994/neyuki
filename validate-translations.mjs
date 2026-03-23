@@ -46,6 +46,7 @@ function lineType(line, isTranslated) {
     if (line.startsWith("[") && line.endsWith("]")) return "speech-bracket";
   } else {
     if (line.startsWith("「") && line.endsWith("」")) return "speech-quote";
+    if (line.startsWith("『") && line.endsWith("』")) return "speech-quote";
     if (line.startsWith("（") && line.endsWith("）")) return "speech-paren";
     if (line.startsWith("【") && line.endsWith("】")) return "speech-bracket";
   }
@@ -59,10 +60,10 @@ const SPEAKER_MAP = new Map([
   ["華穂", "Kaho"],
   ["桔梗", "Kikyou"],
   ["撫子", "Nadeshiko"],
-  ["藤子", "Fujiko"],
+  ["藤子", "Touko"],
   ["筋肉質のオッサン", "Muscular Old Man"],
   ["尚人", "Naoto"],
-  ["新聞を読むオッサン", "Newspaper Old Man"],
+  ["新聞を読むオッサン", "Man Reading Newspaper"],
   ["調教師のオッサン", "Trainer Old Man"],
   ["オッサンＢ", "Old Man B"],
   ["オッサンＡ", "Old Man A"],
@@ -78,7 +79,7 @@ const SPEAKER_MAP = new Map([
   ["客席のオッサンＤ", "Audience Old Man D"],
   ["オッサンＣ", "Old Man C"],
   ["重明＆華穂", "Shigeaki & Kaho"],
-  ["太ったオッサン", "Fat Old Man"],
+  ["太ったオッサン", "Fat Old Guy"],
   ["？？？Ａ", "??? A"],
   ["華穂＆桔梗", "Kaho & Kikyou"],
   ["客席のオッサンＨ", "Audience Old Man H"],
@@ -93,7 +94,7 @@ const SPEAKER_MAP = new Map([
   ["真面目そうなオッサン", "Serious-looking Old Man"],
   ["撫子＆華穂", "Nadeshiko & Kaho"],
   ["オッサン達", "Old Men"],
-  ["アナウンス", "Announcement"],
+  ["アナウンス", "Announcer"],
   ["客席のオッサン達", "Audience Old Men"],
   ["京香", "Kyouka"],
   ["？？？Ｆ", "??? F"],
@@ -195,7 +196,7 @@ async function main() {
     if (origLines.length !== transLines.length) {
       // Step 2b: Non-empty line counts must match.
       sectionErrors.push(
-        `Line count mismatch: original has ${origLines.length} lines, translated has ${transLines.length} lines`
+        `Line count mismatch: original has ${origLines.length} lines, translated has ${transLines.length} lines`,
       );
 
       const minLen = Math.min(origLines.length, transLines.length);
@@ -209,7 +210,7 @@ async function main() {
               i + 1
             } (${origType} vs. ${transType}):\n     original:   ${
               origLines[i]
-            }\n     translated: ${transLines[i]}`
+            }\n     translated: ${transLines[i]}`,
           );
           break;
         }
@@ -227,7 +228,7 @@ async function main() {
           sectionErrors.push(
             `Line ${
               i + 1
-            }: type mismatch (${origType} vs. ${transType})\n     original:   ${origLine}\n     translated: ${transLine}`
+            }: type mismatch (${origType} vs. ${transType})\n     original:   ${origLine}\n     translated: ${transLine}`,
           );
           break;
         } else if (origType === "source") {
@@ -240,14 +241,14 @@ async function main() {
             sectionErrors.push(
               `Line ${
                 i + 1
-              }: unknown speaker "${origName}" — add to SPEAKER_MAP`
+              }: unknown speaker "${origName}" — add to SPEAKER_MAP`,
             );
           } else if (transName !== expectedEN) {
             if (firstErrorLineIdx === -1) firstErrorLineIdx = i;
             sectionErrors.push(
               `Line ${
                 i + 1
-              }: speaker name mismatch\n     expected: $${expectedEN}\n     got:      ${transLine}`
+              }: speaker name mismatch\n     expected: $${expectedEN}\n     got:      ${transLine}`,
             );
           }
         }
@@ -256,10 +257,14 @@ async function main() {
 
     if (sectionErrors.length > 0) {
       mismatched++;
-      const origErrLine = firstErrorLineIdx >= 0 && origLineNos[firstErrorLineIdx]
-        ? origLineNos[firstErrorLineIdx] : origStart;
-      const transErrLine = firstErrorLineIdx >= 0 && transLineNos[firstErrorLineIdx]
-        ? transLineNos[firstErrorLineIdx] : transStart;
+      const origErrLine =
+        firstErrorLineIdx >= 0 && origLineNos[firstErrorLineIdx]
+          ? origLineNos[firstErrorLineIdx]
+          : origStart;
+      const transErrLine =
+        firstErrorLineIdx >= 0 && transLineNos[firstErrorLineIdx]
+          ? transLineNos[firstErrorLineIdx]
+          : transStart;
       errors.push({
         header: `✗  ${origChunk}:${origErrLine} | ${transChunk}:${transErrLine} > ${fileName}`,
         details: sectionErrors.map((e) => `   ${e}`),
@@ -269,7 +274,7 @@ async function main() {
 
   // Step 3: Warn about extra sections in translated that have no original.
   const extraInTranslated = [...transSections.keys()].filter(
-    (f) => !origSections.has(f)
+    (f) => !origSections.has(f),
   );
   if (extraInTranslated.length > 0) {
     const details = extraInTranslated.map((f) => {

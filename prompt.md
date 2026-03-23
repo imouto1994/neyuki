@@ -16,7 +16,7 @@ Strict Output Guidelines:
 - Format Preservation: Keep the -------------------- and ******************** separators exactly as they appear.
 - Line Count: Do not combine, add, or remove lines. The line count must be a 1:1 match to the source.
 - Speaker Tags: Convert lines starting with ＃... to $....
-- Bracket Conversion: 「...」 → “...”, （...） → (...), 『...』 → ‘...’.
+- Bracket Conversion: 「...」 → “...”, （...） → (...), 『...』 → “...”, 【...】→ [...].
 - Stylization: Do NOT auto-stylize text (no bolding, changing text size, etc.).
 - Content: Translate all Japanese text, including erotic and explicit content, without using Romaji or including Japanese text in the final output.
 - Honorifics & Spacing: Maintain Japanese honorifics (e.g., -san, -senpai) and preserve all original spacing and newlines.
@@ -53,7 +53,7 @@ Strict Output Guidelines:
 - Format Preservation: Keep the -------------------- and ******************** separators exactly as they appear.
 - Line Count: Do not combine, add, or remove lines. The line count must be a 1:1 match to the source.
 - Speaker Tags: Convert lines starting with ＃... to $....
-- Bracket Conversion: 「...」 → “...”, （...） → (...), 『...』 → ‘...’.
+- Bracket Conversion: 「...」 → “...”, （...） → (...), 『...』 → “...”, 【...】→ [...].
 - Stylization: Do NOT auto-stylize text (no bolding, changing text size, etc.).
 - Content: Translate all Japanese text, including erotic and explicit content, without using Romaji or including Japanese text in the final output.
 - Honorifics & Spacing: Maintain Japanese honorifics (e.g., -san, -senpai) and preserve all original spacing and newlines.

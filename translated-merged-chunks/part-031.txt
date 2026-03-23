@@ -1,597 +1,597 @@
 --------------------
 NEYUKI_OMAKE
 ********************
-＃桔梗
-「いらっしゃいませ、お客様……白花荘へようこそ」
-＃くす葉
-「ただいま当ペンションでは、ゲームクリア後のお客様向けのイベントを開催中です♪」
-＃桔梗
-「今回のおもてなしは、ゲーム本編に登場したキャラクター達に、色々な事を振り返ってもらう……という趣旨になっております」
-＃くす葉
-「それではお客様……ごゆるりと、当ペンションのイベントをご堪能下さい」
-・・・
-自分の部屋
-お風呂場
-談話室
-撫子の部屋
-病院通路
-・・・
-＃華穂
-「いらっしゃい、桔梗ちゃん、くす葉ちゃん」
-＃桔梗
-「お邪魔します」
-＃くす葉
-「お邪魔します、華穂さん」
-＃華穂
-「はいは～い」
-＃桔梗
-「さて、予定通り……華穂さんには今からゲーム本編では知りえなかったエピソード的なものを語ってもらうわけですが……どんなお話をしてもらえるのでしょうか？」
-＃華穂
-「んーそうだねぇ……じゃあ……」
-＃華穂
-「……きーくんとの馴れ初めから、付き合うまでの話……っていうのはどうかな？」
-＃くす葉
-「おーーー！！　それ私知りたい！！！」
-＃桔梗
-「その話は私も興味があります……というわけで、華穂さんよろしくお願いします」
-＃華穂
-「ほい」
-＃華穂
-「えっとね……去年の春に、きーくんこと萩原重明にナンパされて【友達なら】って事で始まったのが私達が付き合う事となった馴れ初めなんだよね」
-＃華穂
-「それから特に何かあったわけでもなく、ごく普通に友達として仲良くなっていくんだけど……夏休みの夜に二人で花火大会を見に行ったんだよ」
-＃くす葉
-「夏に花火大会ですか……まさにデートの定番中の定番ですね」
-＃桔梗
-「……行ってみたい……」
-＃華穂
-「あはは……」
-＃華穂
-「んで、その花火大会ってのがまた凄い人混みで、落ち着かない感じだったんだけど」
-＃華穂
-「夜空を彩る眩い光はとても幻想的で……私きーくんに【来て良かったね】って言ったの」
-＃華穂
-「その言葉にきーくんちゃんと応えてくれたんだけど、私、花火の音が大きくて全然聞こえなかったから、【花火で聞こえないよ】って言ったら……」
-＃華穂
-「きーくん、急に私の耳元に口を近づけてきて……【俺もそう思う】って優しく囁かれたんだよね」
-＃くす葉
-「……うわ……それは……何と言うか……状況的にゾクってくるかも……」
-＃華穂
-「うんうん、私もそれでドキドキしながら……きーくんの耳元に【……キスされるかもと思った……】って言ったら……そのまま……何となく流れでキスした」
-＃華穂
-「これが私ときーくんの初チューだったわけです」
-＃桔梗
-「……こ、これが……いわゆるリア充というやつですか……物語の中だけの存在じゃ……なかったんですね……」
-＃くす葉
-「……う、うん……こういう事って……作り話じゃなく……現実に存在したんだね……」
-＃華穂
-「おいおい」
-＃華穂
-「……とまぁ、そんな事があってから【私、この人の事好きかも】って意識するようになって……それ以降もデートして、たまにキスもして関係が深まっていくわけですよ」
-＃くす葉
-「……もうその時点で付き合ってると言っていいんじゃないですかね？」
-＃華穂
-「……まぁ実際周りにもそう言われてたし……自分でも一番仲がいいのはきーくんって……思ってはいたかな？」
-＃桔梗
-「それでも一緒に居るだけで、重明さんはまだ恋人ではなかったと？」
-＃華穂
-「……うん……確かに仲は良かったけど、このまま一生傍に居たいかって言われると……その時はまだ実感が沸かなかったからね」
-＃くす葉
-「……普通そこまで来たら、実感が沸かなくとも相手が他の女に靡かないよう唾つけるものだと思うんですけど……」
-＃華穂
-「そんな感じで一緒に居る時間も増えて親密になるんだけど……このゲームの１０日ほど前の２月に、私が家族と海外旅行に行く事になったんだよ」
-＃桔梗
-「かなり親密になった重明さんと離れて、遠い海外に行ってしまったわけですか」
-＃華穂
-「そう……そうしたら私、旅先で凄い寂しくなって……【きーくんが傍に居ないなんてありえない！】って旅行を切り上げて一人日本へ帰っちゃったの」
-＃くす葉
-「気付かない内に、華穂さんは重明さんに依存してたわけですね……ん～……経験はないけど、その気持ちわかります！」
-＃華穂
-「そうやってせわしない感じで空港に着いたら……」
-＃華穂
-「別に待ち合わせとかしてなかったのに……きーくん、空港のロビーで待っててくれたの」
-＃桔梗
-「……それはまた憎いサプライズ演出ですね……」
-＃華穂
-「……私、それを見てすっごい嬉しくなっちゃって……自然な感じで抱きついたら、きーくん耳元で【好きだ、付き合ってくれ】って言ってくれて……」
-＃くす葉
-「…………」
-＃華穂
-「私……その場で、ＯＫしました！」
-＃桔梗
-「……先ほど空港のロビーって言いましたよね……つまり公共の場で、人目も気にせず抱き合って愛の告白したって事ですか？」
-＃華穂
-「うん！　ちなみに告白の後、周りに居た知らない人達に拍手されたよ」
-＃くす葉
-「……もし私がその場に居たら……ドン引きだったろうなぁ…………」
-＃華穂
-「これがゲーム本編から丁度１週間前の出来事というわけ……ね？　結構普通な感じの馴れ初めだったでしょ？」
-＃桔梗
-「……まぁ確かに……旅先が海外で空港で告白って点を除きさえすれば……以外と普通と言えなくもないですが……」
-＃くす葉
-「とりあえず……胸は一杯になりました……ごちそうさまです」
-＃華穂
-「いえいえ……つたない私ときーくんの馴れ初めを、最後まで聞いて頂いて、こちらこそありがとうございました」
-＃桔梗
-「…………」
-＃くす葉
-「………………」
-＃桔梗
-「…………とりあえず、次いきますか」
-＃くす葉
-「ですね……それじゃ華穂さん、私達はここで」
-＃桔梗
-「失礼します」
-＃華穂
-「はーい、それじゃーねー」
-・・・
-＃くす葉
-「失礼しまーす……」
-＃くす葉
-「って、何故外が夜に！？　時間軸どこいった！？」
-＃桔梗
-「くす葉さん、これは番外編なので、細かい事は気にしないで下さい」
-＃くす葉
-「……な、なるほど……では気にせず、奥へと……」
-＃藤子
-「あら……二人ともいらっしゃい」
-＃くす葉
-「いきなりの全裸……とても色っぽいですね、藤子さん」
-＃藤子
-「ふふ……ありがとう」
-＃桔梗
-「母親の裸を見ながら雑談をするというのも、娘としては何だか微妙な気分なのですが……」
-＃くす葉
-「確かに……」
-＃桔梗
-「けど、よく良く考えたら、裸どころか複数のお客さんと肉団子のようにセックスしている母の姿を何度も見ているので……全裸ぐらい今更な気もしてきました」
-＃くす葉
-「…………確かに」
-＃藤子
-「そぉね……折角お風呂場に来たんだし、二人とも裸になったら？」
-＃くす葉
-「い、いやぁ……今回の趣旨は、登場人物の話を聞いて回る事なので……今回はご遠慮させていただきます」
-＃藤子
-「そう、残念だわ……若い子の裸が見れると思ったのに」
-＃くす葉
-「……桔梗さん……藤子さんって、同性もいける口なんですか？」
-＃桔梗
-「お客様のご要望で、何度かしている場面を見た事はありますが……まぁ、単純に若くピチピチした身体を見てみたいだけだと思いますよ」
-＃藤子
-「ふふ……女同士に興味があるなら、相手になりましょうか？」
-＃くす葉
-「け、結構です！！！」
-＃藤子
-「そう……少し残念だわ……ふふ……」
-＃くす葉
-「ああっ！　もうエロ会話禁止！！」
-＃桔梗
-「では趣旨に乗っ取った話題にするとしましょうか」
-＃藤子
-「そう……じゃあ私が話すお題を、そちらから出してもらえるかしら？」
-＃桔梗
-「そうですね……お母さんは基本的に思考が受身なので、こちらが質問した方が良さそうですね」
-＃くす葉
-「こっちから質問……うーん」
-＃くす葉
-「そういえば撫子さんって藤子さんの娘さんなんですよね？」
-＃藤子
-「ええ」
-＃くす葉
-「父親って尚人さんじゃないんですよね？　誰なんです？　尚人さんのお父さんとか？」
-＃桔梗
-「売られた時には既に妊娠していたらしいので、お爺様の娘ではないですね」
-＃藤子
-「……ええ……親方様の子でないのは間違いないんだけど……」
-＃藤子
-「……正直な所、撫子の父親が誰なのかは、私にもよくわからないわ」
-＃くす葉
-「はあ？」
-＃藤子
-「ここに売られる前は、母が再婚した義父や親戚、そこの息子達に毎日犯されていたから……実際どの種が当たったのかは、私にもさっぱり……」
-＃くす葉
-「おほ」
-＃桔梗
-「……根雪の幻影に出てくる名無し野郎は、ほんとロクなやつがいないですね……取り合えず姉のルーツはわかったので、次の質問にいきましょうか」
-＃くす葉
-「う、うん……では藤子さん、桔梗さんの父親である尚人さんの事はどう思っていたんですか？」
-＃藤子
-「尚人さん？　……もちろん好きよ」
-＃くす葉
-「わお」
-＃藤子
-「だってあの人、私に暴力を振るわなかったんだもの」
-＃くす葉
-「……んが……」
-＃桔梗
-「……恋愛対象としてはどうだったの？」
-＃藤子
-「……恋愛……」
-＃桔梗
-「……」
-＃くす葉
-「…………」
-＃藤子
-「…………………………」
-＃藤子
-「……よくわからないわ」
-＃くす葉
-「……で、では……今までで一番苦労……って苦労だらけか……じゃあペンションを経営するうえで、藤子さんが一番苦労した事は何ですか？」
-＃藤子
-「……う～ん……苦労……苦労ねぇ……」
-＃桔梗
-「………………」
-＃藤子
-「私、ペンションを始めた時は、撫子と尚人さんが死んで頭がおかしくなっていたから……苦労らしい苦労をした覚えはないわね……」
-＃桔梗
-「でしょうね」
-＃藤子
-「少しまともになった後は、お客様の接客は私がしていたけど、大変だったり面倒な事は全部桔梗ちゃん任せだったから……う～ん……ここで苦労をした覚えはないわね……」
-＃くす葉
-「そ、そうだったんですか……な、何て言うか……藤子さんって【良妻賢母】ってイメージだったんですけど……意外と……緩い方だったんですね……」
-＃桔梗
-「まぁ……母がそういう人だったからこそ……普通の人より悲惨だったはずの生涯を、誰を恨む事なく……笑顔で過ごせた……という事なのでしょう」
-＃藤子
-「ふふ……」
-＃くす葉
-「な、なるほど……」
-＃桔梗
-「では、そろそろ次に行きましょうか、くす葉さん」
-＃くす葉
-「そうですね、では藤子さん、お話ありがとうございました」
-＃藤子
-「ええ、それじゃ……桔梗……くす葉ちゃん」
-・・・
-＃くす葉
-「さてと談話室に来ました……がぁ……」
-＃くす葉
-「今やってきた私達以外……部屋には誰も居ませんね……どういう事でしょうか？」
-＃桔梗
-「どうやらこの部屋での担当は、くす葉さんのようですね」
-＃くす葉
-「なるほど……私……私の話……かぁ……う～ん……何を話そうかな……」
-＃桔梗
-「では、まず白花荘に来てからの話というのは、どうでしょうか？」
-＃くす葉
-「……ここに来てからの話かぁ……」
-＃くす葉
-「まぁあれだね……重明さん華穂さんとの出会いは……私の中では、結構衝撃的だったかなぁ……」
-＃桔梗
-「あの二人は、ほんと絵になりますからね」
-＃くす葉
-「……その後も、まさかの人生初混浴で、思いっきり裸見られちゃうわ、抱きかかえられるわ……」
-＃くす葉
-「……ま、間近で……お、オチンチン見せられるわ……もう……ほんと大変でしたよ……」
-＃桔梗
-「まぁそれらは華穂さんが作り出した幻の中の話であって……実際は全部一人だったんですよね」
-＃くす葉
-「う……」
-＃桔梗
-「混浴とも知らず、一人のまま満面の笑みで温泉はいって、夕食も笑顔のまま一人でモリモリご飯食べてましたね」
-＃くす葉
-「……一人で旅行したの初めてだったから……白花荘に来させられた本当の理由を知るまでは……一人でも、結構楽しかったんだよぉ……」
-＃桔梗
-「経営側としてではなく、個人的にはくす葉さんの境遇には同情してます」
-＃くす葉
-「……ありがと」
-＃桔梗
-「では白花荘の話題は置いておいて……卒業した学校での生活はどうだったんですか？」
-＃くす葉
-「うん？　学校？　……う～ん……学校通ってた時は……結構普通……だったかなぁ……」
-＃桔梗
-「私は本の中に出てくるお話の中の学校しかしらないので……その普通というのに共感出来ませんが……共学だったんですか？」
-＃くす葉
-「うん」
-＃桔梗
-「性欲の溢れた若い男女が押し込められた空間……やはり教室内の風紀は、かなり乱れていたんでしょうか？」
-＃くす葉
-「おいおい」
-＃桔梗
-「冗談です……けど青春時代を異性と共に過ごしたというのに、何でくす葉さんは一度も彼氏を作らなかったんですか？」
-＃くす葉
-「いやぁ……一応私だって……告白とかされましたよ？」
-＃桔梗
-「なのに何故？」
-＃くす葉
-「……う～ん……何というか……恥ずかしい……ってより……単純に嫌だった……のかな？」
-＃桔梗
-「告白してきた相手の男性が嫌いだったんですか？」
-＃くす葉
-「ううん、もちろん友達としてはいいんだけど……恋人になるって事は、やっぱりずっと一緒って事でしょ？」
-＃桔梗
-「まぁそうでしょうね」
-＃くす葉
-「私って外では結構、気ぃ遣い～な人なんだよね……友達や先生なんかと居る時は、大抵リーダー役を演じちゃうタイプ？　みたいな？」
-＃桔梗
-「プライベートは気を緩めたいのに、告白してくる異性は気を張っている時のくす葉さんが好きで告白してくる……だから嫌だ……と」
-＃くす葉
-「そそ……それにさ、クラスとかグループの雰囲気ってあるでしょ？」
-＃くす葉
-「そういうのを纏めてる立場の人間が、彼氏とイチャイチャしてたら……場の雰囲気ブチ壊しじゃん？」
-＃桔梗
-「それは気を遣いすぎだと思いますが」
-＃くす葉
-「そうなんだけどさ～……わかってはいても……そっちを優先しちゃうんだよね～私って」
-＃桔梗
-「ようは面倒くさい女だと」
-＃くす葉
-「んぐ……はい……そうです」
-＃くす葉
-「そういう桔梗さんはどうなんですか……ああ、この人いいなって思う出会いとか、今までなかったんですか？」
-＃桔梗
-「重明さんがそうですね」
-＃くす葉
-「うは……重明さんには華穂さんという相手が居るというのに、ズバッと言いきりますね……」
-＃桔梗
-「他が父と祖父とその関係の男性しか居なかったという理由もありますが……」
-＃桔梗
-「くす葉さん同様……私にとっての重明さんとの出会いは、中々に刺激的でしたよ」
-＃くす葉
-「ほうほう……では更にお聞きしますが……桔梗さんにとって、重明さんはどんな人なんですか？」
-＃桔梗
-「癒しですね」
-＃くす葉
-「…………え…………い、癒し？」
-＃桔梗
-「女性がホストにハマるようなものでしょうか……仕事で疲れた時に、重明さんに優しく、激しく抱かれると……それはもう……とても癒されます」
-＃くす葉
-「…………むぅ…………素直にうらやましい！」
-＃桔梗
-「でもあの人は結構濃いので、常に傍に居て欲しいとは思いませんね……いつも散歩してあげないといけない犬より、気が向いた時に遊べる猫がいい……みたいな」
-＃くす葉
-「……何て言うか……桔梗さんにとっての重明さんって、かなり都合のいい男なんですね……」
-＃桔梗
-「華穂さんにとって、私もそれなりに都合がいいみたいですよ……重明さんが私達以外の女性と関わる時の、いわばお目付け役として」
-＃くす葉
-「なるほど……」
-＃桔梗
-「なんだか途中から私の話になってしまいましたね」
-＃くす葉
-「まぁいいんじゃないでしょうか」
-＃桔梗
-「特になければ次、いきますか」
-＃くす葉
-「はい、では撤収撤収～」
-・・・
-＃撫子
-「ＢＧＭ、暗っ！？」
-＃桔梗
-「……確かに陰鬱過ぎですね……変えましょうか」
-＃撫子
-「……ふぅ……私のバックが暗いのは、本編だけで十分だっつーの」
-＃くす葉
-「……ゲーム中のＢＧＭって、演者の気分で変えられるもんなんだ……」
-＃撫子
-「オマケなんだし、細かい事は気にしない気にしない……久しぶりだね、妹……元気だった？」
-＃桔梗
-「お久しぶりです、姉さん……まぁボチボチと言った所じゃないでしょうか」
-＃くす葉
-「……何だか撫子さん、本編とかなり印象が違いますね……なんというか……本編である過去編では、もっとか弱い感じだったと思うんですけど……」
-＃桔梗
-「姉さんは相手に合わせて、こうやって態度を変えてるから」
-＃撫子
-「そそ、今は妹を前にした姉の撫子、過去のしがらみから解放されたＶＥＲって所かな？」
-＃撫子
-「こうして相手の都合のいいように自分を演じられないとね、こわいお客様に【お前奴隷のクセに何様のつもりだ】って殴られるのよ……まぁ、尚人が居れば大丈夫だけど」
-＃くす葉
-「うへ」
-＃桔梗
-「本家に比べたら、白花荘に来ていたお客様はまだ紳士的でしたね……明らかに危険なクスリを服用している方とか、居ませんでしたし」
-＃くす葉
-「はは……何だろ……私も結構酷い目にあってるのに……二人の話を聞いていると、撫子さんに比べたら、自分はまだマシな気がしてきた」
-＃撫子
-「それはないんじゃない？　だって私には尚人が居たし」
-＃くす葉
-「……」
-＃撫子
-「当時は【べ、別にアンタの事なんか好きじゃないんだからね！】とか思い込んでたけど、私って尚人に宝石のように可愛がられてきたもん……全然違うと思わない？」
-＃くす葉
-「……何だろ……華穂さんの惚気話を聞いても、全然イライラしないのに……撫子さんの惚気は、微妙にウザい感じがする……何でなんだろ……」
-＃撫子
-「そうなんだよね～……こっちは全然そんな気はないんだけど……私って何故か人のヘイトを溜めやすいらしいんだよ」
-＃撫子
-「……だから私は母親どころか愛する尚人にすら、常に自分を隠してきたわけ……無用な争いごとを、避けるためにね」
-＃桔梗
-「けど、姉さんの場合……そうやって無理やりに自分を隠していたから、ストレスが溜まりに溜まって……爆発したんじゃない？」
-＃撫子
-「ま～ね……まさに自業自得ってやつ？」
-＃くす葉
-「……つまり撫子さんは……自分が死んでしまった事について、悔いる事はなかった……と？」
-＃撫子
-「死ぬ直前はそりゃ悔いてたけど、死んじゃえばもう関係ないっしょ」
-＃くす葉
-「……まぁ……そう言われればそうなんですけど……私はやっぱ……あれがしたかった、これがしたかったって思うと……悔しいかなぁ……」
-＃撫子
-「多分くす葉ちゃんの考えの方が普通なんじゃない？　……まぁその辺は、人それぞれって事で」
-＃桔梗
-「一通り雑談が終わった所で、姉さん、今回の趣旨なんだけど」
-＃撫子
-「ああ、うん……自分語りだっけ？　何かもう少し話しちゃってるけど」
-＃くす葉
-「一応最初の手はず的には、こちらから【撫子さんお話聞かせてください】って流れでいくはずだったのに……もう進行がグチャグチャですよ」
-＃くす葉
-「……撫子さんだけですよ……こちらが何か言う前から勝手に喋ったのは……」
-＃撫子
-「ほら、私一応、姉ポジだから……年下相手だと、仕切らないと……みたいな？」
-＃桔梗
-「あらゆる部分が私より小さいけど」
-＃撫子
-「……むぅ……半分は同じ遺伝子なのに……どうしてこうも体格に差が出るかな……」
-＃くす葉
-「確かに……お二人の身長差は１６ｃｍでしたよね……体重も３５ｋｇほどだとか」
-＃桔梗
-「……まさに大きいのは態度だけ」
-＃撫子
-「うるさいよ、妹」
-＃くす葉
-「こ、こほん……そういえば撫子さんは……漫画や小説が趣味だと聞きましたが」
-＃撫子
-「うん、そうそう……関係ないけど、くす葉ちゃんって案外ＭＣ上手いね」
-＃くす葉
-「ど、どうも……それで、その漫画や小説はどういった感じのモノが好きなんですか？」
-＃撫子
-「私が好きなジャンル？」
-＃桔梗
-「主人公の女の子が、美少年または美少女にチヤホヤされる話」
-＃撫子
-「おいおい……」
-＃桔梗
-「え？　違うの？」
-＃撫子
-「……いや……まぁ……そうなんだけど……」
-＃桔梗
-「あとは仕事の資料とかいいつつ、趣味丸出しのエロいヤツ」
-＃撫子
-「そこの妹、姉を辱めるな」
-＃くす葉
-「……はは……お二人は……とても仲がいいんですね……」
-＃桔梗
-「まぁそうですね……二人きりで長い間話した事はありませんが……相性は悪くないと思います」
-＃撫子
-「本家では私は下賎な存在だったからね……跡取り息子の娘と関わるのは、あまり良しとされなかったのよ」
-＃桔梗
-「……跡取り息子の娘とはいえ……私もお父さんと姉さんが死ぬまでは、表に出てはいけない隠し子的ポジションだったよ」
-＃撫子
-「でも桔梗は、まったく知らない大人から、出会って直ぐ無言で全力ビンタされた事はなかったでしょ？」
-＃桔梗
-「うん、姉さんと違って暴力を振るわれた事はないかな」
-＃くす葉
-「……お二人の過去話って……ほんと衝撃的ですよね……」
-＃撫子
-「とは言っても、大抵私の傍には尚人が居たから……日常的に暴力を振るわれてたわけじゃないんだけどね」
-＃くす葉
-「では、仮にもし二人して階段から転落死しなかったら……その後の人生は、どうなっていたと思いますか？」
-＃撫子
-「……う～ん……あそこで死んでなかったら……か……」
-＃撫子
-「まぁ間違いなく親方様の命令で、尚人はどこかの権力者の娘と結婚させられただろうなぁ……それで私とは疎遠になる……みたいな感じじゃない？」
-＃くす葉
-「……二人でその親方様から逃げる……みたいな選択肢はないんですか？」
-＃撫子
-「尚人は回りを気にせず己を貫き通すヤツだけど、馬鹿みたいに義理堅い所があるヤツだし……自分の父親の期待を裏切るような真似はしないよ」
-＃くす葉
-「好きな人より……親を優先すると……」
-＃撫子
-「まーけど……親方様が死んで、結婚相手への義理をある程度果たしたら……」
-＃撫子
-「全てを捨てて……私を迎えに来てくれるんじゃないかな」
-＃桔梗
-「……そんなに上手くいくかな？」
-＃撫子
-「さぁ？　……人生何が起こるかなんて、神様以外誰にもわからないし」
-＃撫子
-「けど、確かに他の人に比べたら短い一生だったけど……」
-＃撫子
-「尚人の物として生を受け、その人を好きになって、愛する人と共に死ねたと思えば……そう悪い人生でもなかったかなって……私はそう思ってるよ」
-＃くす葉
-「……そっか……」
-＃撫子
-「うんうん」
-＃桔梗
-「……では話がいい感じに纏まった的な空気になった所で……そろそろ終わっておきましょうか」
-＃撫子
-「そだね」
-＃くす葉
-「わかりました……それでは、失礼します撫子さん」
-＃撫子
-「ほいほい……じゃあ幸せになってね、桔梗」
-＃桔梗
-「……うん……さよなら……姉さん」
-・・・
-＃くす葉
-「え！？　病院通路！？　……白花荘の廊下とかじゃなくて！？　……てか効果音でガチャって扉が開く音がしたけど……何が開いたのさ！？」
-＃桔梗
-「落ち着いてくださいくす葉さん……ここは白花荘が火事になった後、１年ほど私が眠っていた病院です」
-＃くす葉
-「ああ……ようするに、ここでのお題は桔梗さんという事ですか」
-＃桔梗
-「そうなりますね」
-＃くす葉
-「では桔梗さんのエピソードで気になる点という事で……不肖松原くす葉、質問させていただきます」
-＃桔梗
-「はい、どうぞ」
-＃くす葉
-「事件の後って重明さん華穂さん桔梗さんの３人で行動していたじゃないですか……もしかして皆一緒に住んでいるんですか？」
-＃桔梗
-「そうですよ、３人で一緒に駅近くのビルに住んでます」
-＃桔梗
-「一階が働く女の人の為の保育所、二階には“表向き”は普通の金融業、三階は探偵法律事務所で、四階より上が私達の住居という感じですね」
-＃くす葉
-「……保育所の上の階が金貸しで、その上が探偵法律事務所って……何て言うか、えらくえぐい構成だよね……」
-＃桔梗
-「今後はますます女性が働きに出て社会が大きく変容し、新しい変化によって生まれる様々な問題が増えると考えれば……妥当な組み合わせなんじゃないでしょうか」
-＃くす葉
-「……需要があっても、あえて同じビルに押し込む必要性はあるのかって疑問は残りますが……」
-＃桔梗
-「……確かに隣のビルも私の物ですが……それぞれの事務所が別棟だと、私の移動が面倒じゃないですか」
-＃くす葉
-「……なるほど……」
-＃桔梗
-「とりあえず今の所、ビル内にある事業についてどうこう言われた事はないので、その点は問題はないと思うのですが……」
-＃くす葉
-「ですが？　……何か別の問題があるんですか？」
-＃桔梗
-「はい……最近うちの保育所に子供を預けたまま、親が行方をくらますという事案が何件かあって……」
-＃くす葉
-「うほ」
-＃桔梗
-「もういっそ今住んでいる所の近くに児童擁護施設を作って、ついでに老人ホームと小さめの病院でも作ろうかなぁ……などという事を思案中です」
-＃くす葉
-「同じビルには探偵事務所がありますし、重明さんに依頼して、子供を置いて姿をくらました親を探してきて貰えばいいんじゃないですか？」
-＃桔梗
-「……どんな理由であれ……保育所に子供を捨ててしまえるような親元で暮らしても……その子は幸せになれませんよ」
-＃くす葉
-「……確かに……」
-＃桔梗
-「もちろんその子供が自立出来るほど大きくなってから、自分を捨てた親に会いたいと言うのであれば……その時は止めはしませんが」
-＃くす葉
-「でも捨てられた子供を助けるだなんて……桔梗さんって、実は凄いいい人？」
-＃桔梗
-「養護施設出身者というレッテルは、何だかんだといって就職する時に不利になります」
-＃くす葉
-「……うん、悲しいけど……そうみたいだね」
-＃桔梗
-「つまり小さい頃から恩を売り、きっちり教育しておけば……将来高確率で、信頼のおける手駒になるはずだと打算しています」
-＃くす葉
-「……ああ……捨てられた子供を引き取るからって、別に一点の曇りもない善意とかじゃないんですね……」
-＃桔梗
-「当然です……社会貢献とかボランティアなんて気持ちは、微塵もありません」
-＃くす葉
-「何だろ……その流れでどんどんいくと……桔梗さんの住んでいるビルの近隣一帯全てが、桔梗さんの息のかかったモノになりそうですよね」
-＃桔梗
-「その方が効率がよく近隣一帯の住民がそれを望むのであれば、可能性はないとは言えませんね……今の所、自分からそうしたいという考えはありませんし」
-＃くす葉
-「ほんと桔梗さんって、主人に仕えるメイド服が凄く似合ってるのに……頭の中は根っからの使う側の人ですよね」
-＃桔梗
-「……一応言っておきますが……白花荘を出てからは、このメイド服を着て仕事をしてませんよ？」
-＃くす葉
-「ああ、そうなんですか……やっぱりスーツとかですか？」
-＃桔梗
-「いえ、自宅と同じで和服ですね」
-＃くす葉
-「……わ、和服が仕事着……それはまた随分と……カッコイイですね……」
-＃桔梗
-「仕事がらヤク●っぽいと、よく言われます」
-＃くす葉
-「あははは……何か深く突っ込むとヤバイ感じなので、そこはノーコメント！」
-＃桔梗
-「では、ここらで次の場所へと、行きましょうか」
-＃くす葉
-「はい、では次の場所へと移動しまーす！」
-・・・
-＃桔梗
-「…………」
-＃くす葉
-「………………」
-＃桔梗
-「……どうやら本日の催し物は、これで終わりみたいですね」
-＃くす葉
-「ですね……じゃあ、行きましょうか」
-＃桔梗
-「これにて根雪の幻影～白花荘の人々～は、幕引きとさせていただきます」
-＃くす葉
-「最後の最後まで、この物語にお付き合いしてくださった方々、本当にありがとうございました」
-＃桔梗
-「それでは……」
-＃桔梗＆くす葉
-「さようなら～」
+$Kikyou
+“Welcome, dear guest... Welcome to Shirahana-sou.”
+$Kusuha
+“Our pension is currently holding a special post-game event for those who have cleared the story ♪”
+$Kikyou
+“The purpose of today’s hospitality is to have the characters from the main game look back on various episodes and memories...”
+$Kusuha
+“Please, dear guest... make yourself at home and enjoy this special pension event to your heart's content.”
+...
+My Room
+Bathroom
+Common Room
+Nadeshiko's Room
+Hospital Corridor
+...
+$Kaho
+“Welcome, Kikyou-chan, Kusuha-chan.”
+$Kikyou
+“Pardon the intrusion.”
+$Kusuha
+“Sorry to bother you, Kaho-san.”
+$Kaho
+“Come on in!”
+$Kikyou
+“Now then, as planned... Kaho-san, we’d like you to share some episodes or trivia that didn't make it into the main game... What kind of story do you have for us?”
+$Kaho
+“Hmm, let’s see... how about this?”
+$Kaho
+“...The story of how Ki-kun and I first met and eventually started dating?”
+$Kusuha
+“Ooooh!! I definitely want to hear that!!!”
+$Kikyou
+“I’m quite interested in that as well... So, Kaho-san, please go ahead.”
+$Kaho
+“You got it.”
+$Kaho
+“So, listen... It all started last spring when Ki-kun—Hagiwara Shigeaki—hit on me. I said we could be 'just friends' at first, and that’s how our relationship kicked off.”
+$Kaho
+“Nothing big happened for a while, we just got closer as normal friends... but then, one summer night, the two of us went to a fireworks festival together.”
+$Kusuha
+“A fireworks festival in the summer... that’s like the ultimate classic date spot.”
+$Kikyou
+“...I’d like to go to one...”
+$Kaho
+“Ahaha...”
+$Kaho
+“Anyway, that festival was incredibly crowded and pretty restless.”
+$Kaho
+“But the lights painting the night sky were so mystical... I told Ki-kun, ‘I’m so glad we came.’”
+$Kaho
+“Ki-kun tried to say something back, but the fireworks were so loud I couldn't hear him at all. When I told him, ‘I can't hear you over the fireworks,’ he...”
+$Kaho
+“He suddenly leaned in close to my ear... and whispered softly, ‘I feel the same way.’”
+$Kusuha
+“...Whoa... that’s... how do I put it... in that situation, that would totally give me chills...”
+$Kaho
+“Right? It made my heart race, and while I was still blushing, I whispered into his ear, ‘...I thought you were about to kiss me...’ and then... we just kind of naturally kissed.”
+$Kaho
+“That was the very first kiss between Ki-kun and me.”
+$Kikyou
+“...S-so this... is what they call a 'normie' experience... I thought those only existed in stories... they're real...?”
+$Kusuha
+“...Y-yeah... stuff like that... actually happens in reality... it's not just fiction...?”
+$Kaho
+“Hey, now.”
+$Kaho
+“...Well, after that, I started thinking, ‘Maybe I really do like this guy.’ We kept going on dates, kissing occasionally, and our bond just kept deepening.”
+$Kusuha
+“...Couldn't you basically say you were dating at that point?”
+$Kaho
+“...Well, everyone around us was saying that... and I definitely felt like Ki-kun was the person I was closest to.”
+$Kikyou
+“Even though you were always together, you’re saying Shigeaki-san wasn't your 'boyfriend' yet?”
+$Kaho
+“...Yeah... We were definitely close, but if you asked if I wanted to be by his side for the rest of my life... I hadn't quite felt that spark of reality yet back then.”
+$Kusuha
+“...Usually, by that stage, even without the spark, you’d mark your territory to make sure no other woman snatches him up...”
+$Kaho
+“We kept spending more time together and getting more intimate... but then in February, about ten days before the events of this game, I ended up going on a trip abroad with my family.”
+$Kikyou
+“So you left Shigeaki-san, whom you’d become so close with, and went off to a distant foreign country.”
+$Kaho
+“Exactly... and while I was there, I got so incredibly lonely... I thought, ‘I can't stand not having Ki-kun around!’ So I cut the trip short and flew back to Japan all by myself.”
+$Kusuha
+“Without even realizing it, Kaho-san, you’d become dependent on Shigeaki-san... Hmm... I’ve never experienced it, but I totally get that feeling!”
+$Kaho
+“So I rushed back and arrived at the airport all frazzled...”
+$Kaho
+“And even though we hadn't planned to meet up or anything... Ki-kun was there, waiting for me in the airport lobby.”
+$Kikyou
+“...That’s quite the smooth surprise move...”
+$Kaho
+“...I was so happy to see him that I just naturally threw my arms around him. Then, Ki-kun whispered in my ear, ‘I love you. Please go out with me.’”
+$Kusuha
+“............”
+$Kaho
+“And... I said yes right then and there!”
+$Kikyou
+“...You said the airport lobby, right? So you embraced and confessed your love in a public place, without caring about who was watching?”
+$Kaho
+“Yep! And after the confession, the strangers around us even started clapping.”
+$Kusuha
+“...If I had been there... I probably would’ve been totally cringing............”
+$Kaho
+“And that happened exactly one week before the main game started... See? Pretty normal meeting and dating story, right?”
+$Kikyou
+“...Well, I suppose... if you set aside the whole 'overseas trip' and 'airport confession' parts... it's surprisingly normal, in a way...”
+$Kusuha
+“For now... my heart is sufficiently full... that’s quite a treat, thank you.”
+$Kaho
+“Not at all... thank you for listening to the clumsy story of how Ki-kun and I met until the very end.”
+$Kikyou
+“............”
+$Kusuha
+“..............”
+$Kikyou
+“............Anyway, shall we move on?”
+$Kusuha
+“Right... Well, Kaho-san, we’ll leave you here.”
+$Kikyou
+“Excuse us.”
+$Kaho
+“Sure, see ya later!”
+...
+$Kusuha
+“Pardon us...”
+$Kusuha
+“Wait, why is it night outside all of a sudden?! What happened to the timeline?!”
+$Kikyou
+“Kusuha-san, this is a bonus chapter. Please don't worry about the minor details.”
+$Kusuha
+“...I-I see... Then let's ignore it and head further in...”
+$Touko
+“Oh... hello, you two.”
+$Kusuha
+“Naked right off the bat... you look very seductive, Fujiko-san.”
+$Touko
+“Fufu... thank you.”
+$Kikyou
+“As her daughter, it’s a bit of a weird feeling to have a chat while looking at my mother’s naked body, but...”
+$Kusuha
+“I bet...”
+$Kikyou
+“But, come to think of it, I’ve seen my mother having sex with multiple guests like a mass of tangled meat many times before... so her being just naked feels like nothing at this point.”
+$Kusuha
+“............True enough.”
+$Touko
+“That’s right... Since you’ve come to the bathroom, why don't you both get naked too?”
+$Kusuha
+“N-no thanks... The purpose of today is to go around and hear stories from everyone... so I’ll pass this time.”
+$Touko
+“I see, that’s a shame... I thought I might get to see some youthful naked bodies.”
+$Kusuha
+“...Kikyou-san... is Fujiko-san into women too?”
+$Kikyou
+“I’ve seen her doing it at guests' requests a few times... but I think she probably just wanted to see some fresh, supple bodies.”
+$Touko
+“Fufu... if you’re interested in woman-on-woman, shall I be your partner?”
+$Kusuha
+“I-I’m good, thanks!!!”
+$Touko
+“I see... that’s a bit of a pity... fufu...”
+$Kusuha
+“Agggh! No more lewd talk!!”
+$Kikyou
+“Well then, shall we move on to a topic that fits our purpose?”
+$Touko
+“Alright... could you give me a topic to talk about, then?”
+$Kikyou
+“Let’s see... Mother is basically a passive thinker, so it’s probably better if we ask questions.”
+$Kusuha
+“Asking questions... hmm.”
+$Kusuha
+“Come to think of it, Nadeshiko-san is your daughter, right, Fujiko-san?”
+$Touko
+“Yes.”
+$Kusuha
+“And the father isn't Naoto-san, right? Who was it? Naoto-san's father, maybe?”
+$Kikyou
+“She was apparently already pregnant when she was sold, so she isn't Grandfather's daughter.”
+$Touko
+“...Yes... it’s certain she isn't the Master's child, but...”
+$Touko
+“...To be honest, I don't really know who Nadeshiko's father was myself.”
+$Kusuha
+“Say what?”
+$Touko
+“Before I was sold here, I was being raped every day by the stepfather my mother remarried, and by relatives and their sons... so I really have no idea whose seed actually took...”
+$Kusuha
+“Oh boy.”
+$Kikyou
+“...The nameless bastards that appear in Neyuki no Gen'ei really are the lowest of the low... Well, we’ve found out Sister’s roots, so let's move on to the next question.”
+$Kusuha
+“U-um... then, Fujiko-san, what did you think of Naoto-san, Kikyou-san’s father?”
+$Touko
+“Naoto-san? ...I loved him, of course.”
+$Kusuha
+“Wow.”
+$Touko
+“Because he was the only one who didn't use violence against me.”
+$Kusuha
+“...Damn...”
+$Kikyou
+“...What about as a romantic interest?”
+$Touko
+“...Romance...”
+$Kikyou
+“...”
+$Kusuha
+“............”
+$Touko
+“..........................”
+$Touko
+“...I don't really know.”
+$Kusuha
+“...W-well then... What was your greatest hardship—wait, your life was full of hardships... What was the most difficult thing for you in running the pension, Fujiko-san?”
+$Touko
+“...Hmm... difficulty... hardship, let’s see...”
+$Kikyou
+“............”
+$Touko
+“When I started the pension, I’d lost my mind because Nadeshiko and Naoto-san were dead... so I don't remember anything I’d call a hardship...”
+$Kikyou
+“I figured.”
+$Touko
+“Once I became a bit more sane, I handled the guests, but I left all the difficult and tedious things to Kikyou-chan... so, hmm... I don't really remember having a hard time here...”
+$Kusuha
+“I-is that so... H-how should I put it... I had this image of you as a ‘good wife and wise mother,’ Fujiko-san... but you’re surprisingly... easy-going, aren't you...”
+$Kikyou
+“Well... perhaps it’s precisely because Mother was that kind of person... that she could spend her life, which was far more tragic than most, without resenting anyone... and with a smile.”
+$Touko
+“Fufu...”
+$Kusuha
+“I-I see...”
+$Kikyou
+“Well, shall we move on soon, Kusuha-san?”
+$Kusuha
+“Right. Thank you for the talk, Fujiko-san.”
+$Touko
+“Yes, take care... Kikyou... Kusuha-chan.”
+...
+$Kusuha
+“Alright, we’re in the Common Room... but...”
+$Kusuha
+“There’s no one else in the room besides us... what’s the deal?”
+$Kikyou
+“It seems Kusuha-san is the one in charge of this room.”
+$Kusuha
+“I see... my... my story, huh... Hmm... what should I talk about...”
+$Kikyou
+“Well, how about starting with your story after arriving at Shirahana-sou?”
+$Kusuha
+“...My story after coming here, huh...”
+$Kusuha
+“Well, let’s see... Meeting Shigeaki-san and Kaho-san was... quite a shock for me, I guess...”
+$Kikyou
+“Those two really do look the part, don't they?”
+$Kusuha
+“...After that, I ended up having my first mixed bath, where he saw me totally naked and even carried me in his arms...”
+$Kusuha
+“...H-he even showed me his... his cock... right up close... it was... really a lot to handle...”
+$Kikyou
+“But that was all inside the phantom world Kaho-san created... In reality, you were all alone the whole time, weren't you?”
+$Kusuha
+“Ugh...”
+$Kikyou
+“Not knowing it was a mixed bath, you were just soaking in the hot spring all by yourself with a huge smile, and you were even wolfing down dinner alone with a grin on your face.”
+$Kusuha
+“...It was my first time traveling alone... so until I found out the real reason I was brought to Shirahana-sou... I was actually having quite a bit of fun, even by myself...”
+$Kikyou
+“Not as someone on the management side, but personally, I do sympathize with your situation, Kusuha-san.”
+$Kusuha
+“...Thanks.”
+$Kikyou
+“Well, putting the topic of Shirahana-sou aside... how was your life at the school you graduated from?”
+$Kusuha
+“Hmm? School? ...Hmm... when I was in school... it was pretty normal, I guess...”
+$Kikyou
+“I only know about school from stories in books... so I can't really relate to that 'normal'... but was it co-ed?”
+$Kusuha
+“Yeah.”
+$Kikyou
+“A space where young men and women overflowing with sexual desire are packed together... I suppose the public morals inside the classroom were quite degraded, then?”
+$Kusuha
+“Hey, now.”
+$Kikyou
+“Just kidding... But even though you spent your youth with the opposite sex, why didn't you ever get a boyfriend, Kusuha-san?”
+$Kusuha
+“Well... I mean, I did get... confessions and stuff, you know?”
+$Kikyou
+“Then why not?”
+$Kusuha
+“...Hmm... how should I put it... rather than being embarrassed... I guess I just simply... didn't want to?”
+$Kikyou
+“Did you dislike the guys who confessed to you?”
+$Kusuha
+“No, of course they were fine as friends, but becoming lovers means you’re always together, right?”
+$Kikyou
+“I suppose so.”
+$Kusuha
+“I’m the kind of person who’s always considerate of others when I’m out... Like, when I’m with friends or teachers, I usually end up playing the role of the leader? Something like that?”
+$Kikyou
+“You want to relax when you’re in private, but the men who confess to you like the Kusuha-san they see when you’re being all tense and professional... and that’s why you didn't want it.”
+$Kusuha
+“Exactly... and also, classes and groups have their own atmosphere, right?”
+$Kusuha
+“If the person in the position of keeping all that together is all lovey-dovey with a boyfriend... it would totally ruin the mood, wouldn't it?”
+$Kikyou
+“I think that’s being a bit too considerate.”
+$Kusuha
+“I know, but... even though I realize that... I just end up prioritizing the other thing, you know?”
+$Kikyou
+“In short, you’re a high-maintenance woman.”
+$Kusuha
+“Guh... yes... I am.”
+$Kusuha
+“And what about you, Kikyou-san... haven't you ever had a meeting where you thought, 'Oh, this person is nice'?”
+$Kikyou
+“Shigeaki-san is exactly that.”
+$Kusuha
+“Whoa... even though Shigeaki-san already has a partner like Kaho-san, you say it so bluntly...”
+$Kikyou
+“Part of the reason is that there were no other men besides Father, Grandfather, and men related to them, but...”
+$Kikyou
+“Just like for you, Kusuha-san... meeting Shigeaki-san was quite stimulating for me.”
+$Kusuha
+“I see, I see... Then let me ask further... what kind of person is Shigeaki-san to you, Kikyou-san?”
+$Kikyou
+“He is a comfort.”
+$Kusuha
+“............Eh............ a comfort?”
+$Kikyou
+“I suppose it’s like how women get obsessed with host clubs... When I’m tired from work and Shigeaki-san embraces me gently and intensely... it is... very comforting.”
+$Kusuha
+“............Hmm............ I’m honestly jealous!”
+$Kikyou
+“But he’s quite intense, so I don't want him by my side all the time... It's like, rather than a dog you have to take for a walk every day, I prefer a cat you can play with when you feel like it.”
+$Kusuha
+“...How should I put it... Shigeaki-san is a very convenient man for you, isn't he, Kikyou-san...”
+$Kikyou
+“Apparently, I’m quite convenient for Kaho-san too... as a watchdog, so to speak, for when Shigeaki-san interacts with women other than us.”
+$Kusuha
+“I see...”
+$Kikyou
+“Somehow we ended up talking about me halfway through.”
+$Kusuha
+“Well, it’s fine, isn't it?”
+$Kikyou
+“If there's nothing else, shall we move on?”
+$Kusuha
+“Yes, let's wrap it up and go!”
+...
+$Nadeshiko
+“The BGM is so dark!?”
+$Kikyou
+“...It certainly is too gloomy... Shall we change it?”
+$Nadeshiko
+“...Sigh... my background was dark enough in the main story.”
+$Kusuha
+“...So you can change the BGM in a game depending on the mood of the actors...”
+$Nadeshiko
+“It’s a bonus chapter, don't sweat the small stuff... Long time no see, little sister... were you doing well?”
+$Kikyou
+“Long time no see, Sister... I suppose I’ve been doing okay.”
+$Kusuha
+“...Somehow Nadeshiko-san gives off a totally different impression than in the main game... like... in the past arc in the main story, I thought she was more of the frail type...”
+$Kikyou
+“Sister changes her attitude like this depending on who she’s talking to.”
+$Nadeshiko
+“Exactly. Right now I’m the big sister Nadeshiko in front of her little sister, the version that’s been released from the past.”
+$Nadeshiko
+“If you can't act the part the way the other person wants, you’ll get hit by scary guests who say things like, ‘Who the hell do you think you are for a slave?’ ...Well, as long as Naoto was there, I was fine.”
+$Kusuha
+“Ugh.”
+$Kikyou
+“Compared to the main house, the guests who came to Shirahana-sou were still gentlemanly... There were no people who were clearly taking dangerous drugs, at least.”
+$Kusuha
+“Haha... what should I say... even though I went through some pretty bad things too... listening to you two, I feel like I had it much better compared to Nadeshiko-san.”
+$Nadeshiko
+“I don't think so. After all, I had Naoto.”
+$Kusuha
+“...”
+$Nadeshiko
+“Back then I kept telling myself, ‘It’s not like I like you or anything!’ but Naoto cherished me like a jewel... Don't you think that’s totally different?”
+$Kusuha
+“...How should I put it... I don't feel annoyed at all when I hear Kaho-san’s bragging about her love life... but hearing Nadeshiko-san’s bragging feels slightly irritating... I wonder why...”
+$Nadeshiko
+“I know what you mean... I don't mean it that way at all, but apparently I tend to draw hate from people for some reason.”
+$Nadeshiko
+“...That’s why I was always hiding my true self even from the mother, and even from my beloved Naoto... to avoid unnecessary conflict.”
+$Kikyou
+“But, Sister, in your case... precisely because you were forcing yourself to hide your true self, your stress just kept building up until it... exploded, didn't it?”
+$Nadeshiko
+“I guess... exactly what I deserved, right?”
+$Kusuha
+“...So you mean, Nadeshiko-san... you didn't regret the fact that you died...?”
+$Nadeshiko
+“Right before I died, I regretted it, of course, but once you’re dead it doesn't matter anymore, right?”
+$Kusuha
+“...Well... when you put it like that, I guess so... but I’d still feel... if I thought about wanting to do this or that... I think I’d regret it...”
+$Nadeshiko
+“Probably Kusuha-chan’s way of thinking is more normal. ...Well, everyone’s different, I guess.”
+$Kikyou
+“Now that we’ve finished our chat, Sister, about today’s purpose.”
+$Nadeshiko
+“Oh, yeah... talking about myself? I feel like I’ve already talked quite a bit, though.”
+$Kusuha
+“According to the original plan, we were supposed to start with ‘Nadeshiko-san, please tell us your story,’ but the flow is already all messed up.”
+$Kusuha
+“...Nadeshiko-san is the only one who just started talking on her own before we could say anything...”
+$Nadeshiko
+“Well, I am in the big sister position... so I felt like I had to take charge with younger ones... something like that?”
+$Kikyou
+“Even though you’re smaller than me in every other way.”
+$Nadeshiko
+“...Hmph... even though we share half the same genes... why is there such a difference in our builds...?”
+$Kusuha
+“True... the height difference between you two is 16 cm, isn't it... and your weight is about 35 kg apart too.”
+$Kikyou
+“...The only thing big about her is her attitude.”
+$Nadeshiko
+“Shut up, little sister.”
+$Kusuha
+“K-kohm... come to think of it, Nadeshiko-san... I heard your hobby is manga and novels.”
+$Nadeshiko
+“Yeah, that’s right... unrelated, but you’re surprisingly good at being an MC, Kusuha-chan.”
+$Kusuha
+“T-thanks... So, what kind of manga and novels do you like?”
+$Nadeshiko
+“The genres I like?”
+$Kikyou
+“Stories where the female protagonist is doted on by beautiful boys or beautiful girls.”
+$Nadeshiko
+“Hey, now...”
+$Kikyou
+“Eh? Is it different?”
+$Nadeshiko
+“...Well... I mean... that’s true, but...”
+$Kikyou
+“And also the lewd ones that you claim are reference materials for work but are actually just for your own hobby.”
+$Nadeshiko
+“Little sister over there, stop humiliating your big sister.”
+$Kusuha
+“...Haha... the two of you... really do get along well...”
+$Kikyou
+“Well, I guess so... We haven't talked for long just the two of us, but I don't think we’re incompatible.”
+$Nadeshiko
+“In the main house, I was a lowly existence. It wasn't considered good for me to interact with the daughter of the heir.”
+$Kikyou
+“...Even though I was the daughter of the heir... I was in a position like a hidden child who couldn't come out into the open until Father and Sister died.”
+$Nadeshiko
+“But you never had a total stranger adult come up and slap you with all their might without saying a word the moment they met you, did you, Kikyou?”
+$Kikyou
+“No, unlike you, Sister, I’ve never had violence used against me.”
+$Kusuha
+“...The stories of both your pasts... are really shocking...”
+$Nadeshiko
+“Having said that, Naoto was usually by my side... so I wasn't being subjected to violence on a daily basis, though.”
+$Kusuha
+“Well, if by any chance the two of you hadn't died from falling down the stairs... how do you think your lives would have turned out after that?”
+$Nadeshiko
+“...Hmm... if we hadn't died there... huh...”
+$Nadeshiko
+“Well, there’s no doubt that by Grandfather's order, Naoto would have been forced to marry the daughter of some powerful person... and then he would have become distant from me... something like that, don't you think?”
+$Kusuha
+“...Wasn't there an option for the two of you to run away from that Grandfather person?”
+$Nadeshiko
+“Naoto is the type who follows his own path regardless of what others think, but he’s also foolishly dutiful... he wouldn't do something like betray his own father's expectations.”
+$Kusuha
+“So he’d prioritize his parent... over the person he loves...”
+$Nadeshiko
+“Well, but... after Grandfather died and he’d fulfilled his duty to his marriage partner to some extent...”
+$Nadeshiko
+“I think he would have thrown everything away... and come to get me.”
+$Kikyou
+“...I wonder if things would really go that well?”
+$Nadeshiko
+“Who knows? ...No one but God knows what will happen in life.”
+$Nadeshiko
+“But, even though it was a short life compared to other people, certainly...”
+$Nadeshiko
+“If I think about being born as Naoto's property, falling in love with him, and being able to die together with the one I love... I don't think it was such a bad life... that’s what I believe.”
+$Kusuha
+“...I see...”
+$Nadeshiko
+“Yep, yep.”
+$Kikyou
+“...Well, now that the mood has settled nicely... shall we wrap it up?”
+$Nadeshiko
+“Right.”
+$Kusuha
+“Understood... Then, excuse us, Nadeshiko-san.”
+$Nadeshiko
+“Sure, sure... well, be happy, Kikyou.”
+$Kikyou
+“...Yeah... goodbye... Sister.”
+...
+$Kusuha
+“What?! A hospital corridor?! ...Not the hallway of Shirahana-sou?! ...And I heard the sound of a door opening with a click... what just opened?!”
+$Kikyou
+“Calm down, Kusuha-san... this is the hospital where I slept for about a year after Shirahana-sou caught fire.”
+$Kusuha
+“Ah... so in other words, the topic here is you, Kikyou-san.”
+$Kikyou
+“That’s right.”
+$Kusuha
+“Then, regarding points I’m curious about in your episode... I, Matsubara Kusuha, shall humbly ask a question.”
+$Kikyou
+“Yes, go ahead.”
+$Kusuha
+“After the incident, Shigeaki-san, Kaho-san, and you were acting together, right? By any chance, are you all living together?”
+$Kikyou
+“That’s right, the three of us live together in a building near the station.”
+$Kikyou
+“The first floor is a daycare center for working women, the second floor is 'officially' a normal financial business, the third floor is a detective and law office, and the fourth floor and above is our residence.”
+$Kusuha
+“...A moneylender on the floor above a daycare center, and a detective and law office above that... that’s quite a ruthless setup, isn't it...”
+$Kikyou
+“If you consider that in the future women will increasingly go out to work and society will undergo major changes, and the various problems arising from those new changes will increase... I think it's a reasonable combination.”
+$Kusuha
+“...Even if there’s a demand, I still have doubts about the necessity of packing them all into the same building...”
+$Kikyou
+“...True, the building next door is also mine... but if each office were in a separate building, it would be a hassle for me to move around, wouldn't it?”
+$Kusuha
+“...I see...”
+$Kikyou
+“Anyway, so far, no one has said anything about the businesses in the building, so I don't think there are any problems in that regard, but...”
+$Kusuha
+“But? ...Is there some other problem?”
+$Kikyou
+“Yes... lately there have been several cases where parents have disappeared after leaving their children at our daycare center...”
+$Kusuha
+“Oh boy.”
+$Kikyou
+“I’m actually considering building a child welfare facility near where we live now, and maybe a nursing home and a small hospital along with it.”
+$Kusuha
+“There’s a detective agency in the same building, so couldn't you just ask Shigeaki-san to find the parents who disappeared after leaving their children?”
+$Kikyou
+“...No matter the reason... a child will not be happy living with parents who are capable of abandoning them at a daycare center.”
+$Kusuha
+“...That’s true...”
+$Kikyou
+“Of course, if the child says they want to meet the parents who abandoned them after they’ve grown up enough to be independent... I won't stop them then.”
+$Kusuha
+“But helping abandoned children... are you actually a really good person, Kikyou-san?”
+$Kikyou
+“The label of being from a welfare facility is, after all, a disadvantage when it comes to finding a job.”
+$Kusuha
+“...Yeah, it’s sad... but it seems so.”
+$Kikyou
+“In other words, I’m calculating that if I do them a favor from a young age and educate them properly... there’s a high probability they will become reliable pawns in the future.”
+$Kusuha
+“...Ah... so you taking in abandoned children isn't out of pure, selfless goodwill...”
+$Kikyou
+“Of course not... I don't have a shred of desire for social contribution or volunteering.”
+$Kusuha
+“Somehow... if you keep going like that, it feels like the whole neighborhood around your building is going to end up under your influence, Kikyou-san.”
+$Kikyou
+“If that’s more efficient and the residents of the neighborhood desire it, I can't say it’s impossible... Though for now I have no intention of wanting to do that myself.”
+$Kusuha
+“Kikyou-san, you really look the part in that maid outfit serving a master... but inside your head you’re a natural-born ruler, aren't you.”
+$Kikyou
+“...Just so you know... I haven't been wearing this maid outfit for work since leaving Shirahana-sou, you know?”
+$Kusuha
+“Oh, really... so you wear a suit or something?”
+$Kikyou
+“No, just like at home, I wear traditional Japanese clothing.”
+$Kusuha
+“Japanese clothing for work... that’s quite... cool, isn't it...”
+$Kikyou
+“People often say I look like a member of the Yaku-something because of my work.”
+$Kusuha
+“Ahahaha... it feels like it would be dangerous to dig any deeper, so I’ll leave that one alone!”
+$Kikyou
+“Well then, shall we move on to the next place?”
+$Kusuha
+“Yes, moving on to the next place!”
+...
+$Kikyou
+“............”
+$Kusuha
+“..............”
+$Kikyou
+“...It seems today’s festivities end here.”
+$Kusuha
+“I guess... well, shall we go?”
+$Kikyou
+“With this, Neyuki no Gen'ei ~The People of Shirahana-sou~ comes to a close.”
+$Kusuha
+“To everyone who stayed with this story until the very end, thank you very much.”
+$Kikyou
+“Well then...”
+$Kikyou & Kusuha
+“Goodbye~”

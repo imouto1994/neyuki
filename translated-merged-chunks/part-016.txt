@@ -1,781 +1,781 @@
 --------------------
 NEYUKI05_02
 ********************
-＃重明
-「さてと……藤子さん、どこに居るのかなぁ……」
-風呂場
-ロビー
-談話室
-外
-部屋に戻る
-撫子の部屋
-くす葉の部屋
-廊下へ移動する
-そこに見える窓から飛び降りる
-服を脱ぐ
-＃重明
-「お風呂場か……藤子さん居ないと思うけど……一応行ってみるか」
-＃重明
-「脱衣所の前に到着っと」
-＃重明
-「……あれ……張り紙が張られてるぞ？」
-……張り紙には清掃中という文字……
-つまり、いま中では藤子さんか桔梗ちゃんが掃除をしているという事。
-＃重明
-「んじゃ、とりあえず中に入ってみますか」
-＃桔梗
-「あれ？　重明さん……おはようございます」
-＃重明
-「やあ桔梗ちゃん、おはよう」
-＃桔梗
-「あの……お風呂は今清掃中ですが……」
-＃重明
-「うん、知ってる」
-＃桔梗
-「では他に何か御用でしょうか？」
-＃重明
-「実は華穂が少し体調を崩しちゃって……」
-＃桔梗
-「……そうでしたか……」
-＃重明
-「それで朝食用に消化の良さそうなモノを作ってもらえないかなと……頼みに来たんだけど何とかなるかな？」
-＃桔梗
-「それでしたら母にお願いします……今ならロビーか談話室のどちらかに居ると思います」
-＃重明
-「わかった、ありがとう……掃除頑張ってね」
-＃桔梗
-「ありがとうございます、重明さん」
-＃重明
-「さてと……早速ロビーに行くとするか」
-＃重明
-「あ、藤子さん」
-＃藤子
-「あら……おはようございます、重明さん」
-＃重明
-「おはようございます……雪、凄いですね……」
-＃重明
-「ロビーか……取り合えず行ってみますか」
-＃藤子
-「あら……おはようございます、重明さん」
-＃重明
-（おっ、一発で藤子さんに会えた……ラッキー♪）
-＃重明
-「おはようございます……しかし雪、凄いですね……」
-＃重明
-「……おいおい、さっき窓の外に見えた景色をもうわすれたのか？　……吹雪いてただろうが……」
-＃重明
-「……こんな悪天候の中、藤子さんが外に居るはずなんてないし……しかも俺は春先に着るような服装なんだぜ？」
-＃重明
-「……そんな中、ちょっと行ってみようかなぁ～何て思ったからといって、どうして律儀に行かなきゃならないんだよ……ハハッ……意味わかんねーぞ？」
-＃重明
-「さっっっみぃいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいい！！！」
-＃重明
-「はあっ！　はっ！　……ふうぅ……さみぃいいい……」
-＃藤子
-「……重明さん？」
-＃重明
-「うおっ！？」
-＃藤子
-「こんな天気に外へ出るだなんて……どうしたんですか？」
-＃重明
-「いえ……実は建物の中からだと、実際どの程度天候が悪いのか正確な事がわからないと思いまして……試しに出てみたんですよ」
-＃重明
-（……まぁ実際は単にテンションが上がって、何となくノリで外に出ただけなんだけどね……）
-＃藤子
-「……あら……それで何かわかったのかしら？」
-＃重明
-「……はい」
-＃重明
-「……とても……寒い事が……よくわかりました……」
-＃藤子
-「……ふふっ……あらあら……ふふっ……」
-＃重明
-（……当然だけど……笑われてしまった……）
-＃重明
-「しかし、雪……凄いですね……」
-＃重明
-「まてい」
-＃重明
-「よし……じゃあ藤子さんを探しに、撫子の部屋に行くとするか……」
-＃重明
-「……」
-＃重明
-「…………」
-＃重明
-「………………」
-＃重明
-「いや待て！？　……何だよその部屋……この宿のドコにあるんだよ！！？」
-＃重明
-「……」
-＃重明
-「……とまぁ冗談はこの辺にしておいて……どこへ行くかな」
-＃重明
-「くす葉の部屋か……」
-＃重明
-「……」
-＃重明
-「…………」
-＃重明
-「………………」
-＃重明
-「あれ……そういえばくす葉がどの部屋に泊まってるか……聞いてなかったっけ……」
-＃重明
-「……」
-＃重明
-「……他の場所に行くか」
-＃重明
-「よぉし……じゃあ廊下へ行くぞ」
-＃重明
-「とお！　くるくるっ！！」
-＃重明
-「ふぅ、到着……」
-＃重明
-「……まぁ……ただその場で回転しただけなんだけどな」
-＃重明
-「はっはっは」
-＃重明
-「おい」
-＃藤子
-「ええ……ここでこんなに降り積もったのは何時以来かしら……」
-＃重明
-「天気予報ってどうなってます？　何時ぐらいまで降って積もる感じですかね？」
-＃藤子
-「予報では……雪が止むのは今日の夜って事になってたけど……」
-＃重明
-「……うわ……マジかよ……」
-大雪と言えば、去年の２月……記録的な積雪があった時の状況が、頭に思い浮かぶ。
-……都市部はまだマシだったが、場所によっては交通が遮断され陸の孤島になったらしい。
-＃重明
-「……俺達……今日家に帰れるのかな……」
-＃藤子
-「都心も凄くて交通が麻痺し始めているらしいし……」
-＃藤子
-「これだけ雪が積もって視界の悪くなった山道を降りるのは危険よ？」
-＃重明
-「……ですよね……」
-＃藤子
-「雪が止んだら宿から公道までの道を軽く除雪してくれるよう今朝電話で頼んだから……今日は無理せず宿に残った方が懸命だと思うの」
-＃重明
-「わかりました……藤子さん、すみませんが雪が落ち着くまでよろしくお願いします」
-＃藤子
-「ええ、何もない宿だけどゆっくりしていってね」
-＃重明
-「ありがとうございます」
-＃重明
-「……あと……実は華穂が少し体調崩してしまいまして……すみませんが何か消化の良さそうなものを頼めないでしょうか？」
-＃藤子
-「あら……そうなの」
-＃藤子
-「わかったわ……貴方が朝食を済ませている間に、華穂さんのご飯、準備しておくわね」
-＃重明
-「お手数かけます」
-朝食のため藤子と共に隣の部屋へと移動すると……談話室には、昨日知り合ったばかりの少女、くす葉が居た。
-＃重明
-「よぉ、くす葉」
-＃くす葉
-「……」
-＃くす葉
-「……おはよう……ございます……重明さん」
-＃重明
-（……うん？　……何か昨日に比べて妙にテンションが低いな……）
-……夜更かしでもしたのか……それとも低血圧とかなのだろうか？
-もっとハキハキとした印象だったのだが……今朝の彼女からは昨日の勢いのようなものが感じられない。
-＃重明
-「……何か体調が悪そうだけど……平気なのか？」
-＃くす葉
-「……うん……平気……」
-＃くす葉
-「ところで華穂さんは？　昨日みたいに一緒じゃないの？」
-＃重明
-「ああ、実はアイツ今朝になって体調を崩しちゃってな……今は部屋でダウンしてるよ」
-＃くす葉
-「……そうだったんですか……お大事にと伝えておいてください」
-＃重明
-「わかった……所でくす葉、お前も朝食をとりにきたのか？」
-＃くす葉
-「うん……重明さんも？」
-＃重明
-「ああ、じゃあ今から二人で一緒に食べるか」
-＃くす葉
-「……いいよ」
-・・・
-朝食らしく簡単に用意出来そうな料理を藤子から受け取ると……俺達は昨日と同じ場所に移動し、椅子に腰を下ろしていく。
-メニューはオムレツにサラダ、紅鮭にひじきの煮物におしんことスープに白米……まさに宿の朝食といった感じのラインナップ。
-……そんな俺に比べ、くす葉の方はサラダとスープ……そしてコーヒーのみ。
-＃重明
-「おい、くす葉……お前それだけでお腹すかないのか？」
-＃くす葉
-「…………」
-＃くす葉
-「……昨日私がここに来たのは仕事っていったでしょ？」
-＃重明
-「ああ、親の紹介だとか何とか……」
-＃くす葉
-「……うん……」
-＃くす葉
-「それでね……炭水化物とかお肉は、仕事に影響するから……極力取らないでって言われてるんだよね」
-＃重明
-「……はあ……」
-食事制限のある仕事と言われて真っ先に思いつくのがモデル業。
-だがこの宿にスタジオがあるとは思えない……もしかしてこの近場に、誰かのアトリエでもあるのだろうか？
-＃重明
-（……仮にそうだとしても……健康診断じゃあるまいし……一食程度でそう変わるもんか？）
-＃重明
-「仕事って……この宿でやってるのか？」
-＃くす葉
-「……うん……そうだよ」
-＃重明
-「どんな仕事をしているのか……聞いてもいいかな？」
-＃くす葉
-「……」
-＃くす葉
-「……ナイショ……」
-……山奥の宿で行われる、食事制限のあるナイショの仕事……
-＃重明
-（……どう考えても……マトモな仕事じゃないよな……）
-もしかしてくす葉は……この宿で何かろくでもない事に巻き込まれているのではないだろうか？
-＃重明
-（けどろくでもない事って何だ？　……安直だけど、やっぱりエロい事か？）
-だがもし性的な仕事だというなら、くす葉は仕事を紹介した自分の【親】に売られたという事になる。
-昨日会ったばかりで事情も良く知らない相手の複雑な家庭の事情を根掘り葉掘り聞くほど、俺も向こう見ずな性格ではない。
-……そもそも……くす葉が酷い目に遭っているというのは、単なる俺の妄想でしかないのだ。
-そんな感じでこっちが色々と勝手な憶測を働かせていた所……気だるそうに食事をしていたくす葉の手から、箸がスルッと零れ落ちた。
-＃くす葉
-「……あぁ……床に落ちちゃった……」
-＃重明
-「おいおい、何やってんだよ……」
-箸を拾わない
-直ぐに箸を拾ってやる
-落とした箸を拾ってやろうかと考えたものの……机の下に潜り込んでしまうと、下着を見てしまうかもしれない。
-気持ちに余裕のある時なら、パンツを見る程度ギャグで済ませられるのだが……見た感じくす葉は明らかに気落ちしている。
-ここは年上として、少しばかり気を使ってやるべきだろう。
-＃重明
-「待ってろ……代わりの箸、すぐ貰ってきてやるよ」
-＃くす葉
-「……ありがと……」
-＃重明
-「おう、気にすんな」
-・・・
-くす葉と朝食を済ませた後……
-俺は藤子が用意してくれた華穂の朝食を片手に、自分の部屋へと向かい歩いていた。
-＃重明
-「まってな……」
-ボケッと箸を床に落としたくす葉に軽く呆れつつ……俺は机の下へと自分の身体をもぐりこませる。
-＃くす葉
-「……あ……自分で拾う……」
-＃重明
-「いいって、もう潜っちゃったし」
-＃くす葉
-「……わかった……」
-……机の下の薄暗い空間の中に見える、くす葉の白く細い足。
-ふとセクハラかなとは思ったものの……こうして既に潜り込んでしまった以上、さっと用事を済ませてしまうべきだろう。
-俺はスカートの中へと向きそうになる視線を下げ、キョロキョロと彼女が落とした箸を探していく。
-＃くす葉
-「……重明さん……箸……見つかりましたか？」
-＃重明
-「ああ、ちょうどお前の足元にあったぞ……今、手を伸ばして取る所だ」
-＃くす葉
-「…………」
-箸を取るため手を伸ばし、ほんの少し顔を彼女の下半身に近づけた所……
-くす葉の足がわずかに動き……彼女のスカートの内側が、視界に飛び込んできた。
-＃くす葉
-「……………………」
-＃重明
-「……………………」
-＃くす葉
-「……重明さん」
-＃重明
-「……うん？」
-＃くす葉
-「何だか驚いた顔してますけど……机の下で……変なモノでも見えましたか？」
-＃重明
-（……見えたよ……そりゃモロ見えたけどさ……）
-今見せている力のない笑顔から察するに……実はくす葉には露出趣味があり、自分の恥部を見て楽しんでいる……という線はかなり薄いだろう。
-＃重明
-（望んでしていないとなると……やっぱりくす葉は……何かいかがわしい事に巻き込まれているっていう事になるのか？）
-もしそうなら、どうにか助けてやりたい……もちろん俺が出来る範囲の事までだが。
-それに助けるとしても、当然くす葉が俺を頼り、助けられる事を強く望んでいる事が大前提……
-俺はさっと状況を考えた結果……あえて直接的な返答を避け、くす葉にこう声を掛けた。
-＃重明
-「おい、くす葉」
-＃くす葉
-「……何ですか……重明さん……」
-＃重明
-「何かあったら遠慮なく言え……どんな相談だろうと、聞くだけならいくらでも聞いてやるぞ」
-＃くす葉
-「…………ぇ……」
-恐らく、まずはノーパンである事を指摘し、どうしたと聞いてくると思い込んでいたのだろう。
-……ただ【話を聞いてやる】という言葉は相当意外だったらしく……くす葉は呆然と俺の事を見つめている。
-＃くす葉
-「………………」
-＃くす葉
-「……ごめん、重明さん……私、用事思い出した……もういくね……」
-＃重明
-「ああ、またな」
-＃くす葉
-「……うん……また……」
-＃重明
-「………………」
-肩を落とし立ち去るくす葉の姿を、無言のまま見守った後……
-……俺はモヤモヤとした気分のまま……一人朝食を済ませたのだった……
-・・・
-途中から一人となった朝食を終えた俺は……藤子が用意してくれた華穂の朝食を片手に、自分の部屋へと向かい歩いていた。
+$Shigeaki
+“Now then... where could Touko-san be...”
+The bathroom
+The lobby
+The common room
+Outside
+Return to the room
+Nadeshiko's room
+Kusuha's room
+Move to the hallway
+Jump out of the window over there
+Take off my clothes
+$Shigeaki
+“The bathroom, huh... I don't think Touko-san would be there, but... I'll check it out just in case.”
+$Shigeaki
+“Arrived at the front of the dressing room.”
+$Shigeaki
+“...Hm? There’s a notice posted here.”
+...The notice says "Cleaning in Progress"...
+In other words, either Touko-san or Kikyou-chan is currently cleaning inside.
+$Shigeaki
+“Well, I'll just head inside for now.”
+$Kikyou
+“Oh? Shigeaki-san... good morning.”
+$Shigeaki
+“Hey, Kikyou-chan. Good morning.”
+$Kikyou
+“Um... the bath is currently being cleaned...”
+$Shigeaki
+“Yeah, I know.”
+$Kikyou
+“Then, is there something else I can help you with?”
+$Shigeaki
+“Actually, Kaho's feeling a bit under the weather...”
+$Kikyou
+“...I see...”
+$Shigeaki
+“So I was wondering if I could get something easy to digest for breakfast... I came to see if that would be possible.”
+$Kikyou
+“In that case, please ask my mother... I believe she’s in either the lobby or the common room right now.”
+$Shigeaki
+“Got it, thanks... Good luck with the cleaning.”
+$Kikyou
+“Thank you, Shigeaki-san.”
+$Shigeaki
+“Now then... let's head straight to the lobby.”
+$Shigeaki
+“Ah, Touko-san.”
+$Touko
+“Oh... good morning, Shigeaki-kun.”
+$Shigeaki
+“Good morning... The snow is incredible, isn't it...”
+$Shigeaki
+“The lobby, huh... I'll try going there for now.”
+$Touko
+“Oh... good morning, Shigeaki-kun.”
+$Shigeaki
+(Oh, found Touko-san on the first try... Lucky me♪)
+$Shigeaki
+“Good morning... But man, the snow is incredible, isn't it...”
+$Shigeaki
+“...Hey now, did I already forget the view from the window? ...It was a total blizzard out there...”
+$Shigeaki
+“...There’s no way Touko-san would be outside in this kind of weather... and besides, I’m wearing clothes meant for early spring, you know?”
+$Shigeaki
+“...Just because I thought 'maybe I'll take a quick look,' why do I have to be so dutiful about actually going... Haha... makes no sense at all, right?”
+$Shigeaki
+“S-S-SOOOO COOOOOOOLDDDDDDDDDDD!!”
+$Shigeaki
+“Haa! Hah! ...Fuuu... so cold...”
+$Touko
+“...Shigeaki-kun?”
+$Shigeaki
+“Whoa!?”
+$Touko
+“What on earth are you doing, going outside in this weather?”
+$Shigeaki
+“No... well, I thought I couldn't really tell exactly how bad the weather was from inside the building... so I decided to test it out.”
+$Shigeaki
+(...Well, the truth is I just got a bit hyped up and went out on a whim...)
+$Touko
+“...I see... and did you find anything out?”
+$Shigeaki
+“...Yes.”
+$Shigeaki
+“...I found out... that it is... very cold...”
+$Touko
+“...Fufu... Oh my... fufu...”
+$Shigeaki
+(...Naturally... she laughed at me...)
+$Shigeaki
+“But still, the snow... it’s incredible, isn't it...”
+$Shigeaki
+“Hold it.”
+$Shigeaki
+“Alright... let's head to Nadeshiko's room to look for Touko-san...”
+$Shigeaki
+“...”
+$Shigeaki
+“............”
+$Shigeaki
+“..................”
+$Shigeaki
+“Wait, what!? ...What room is that... and where the hell is it in this inn!!?”
+$Shigeaki
+“...”
+$Shigeaki
+“...Well, jokes aside... where should I go?”
+$Shigeaki
+“Kusuha's room, huh...”
+$Shigeaki
+“...”
+$Shigeaki
+“............”
+$Shigeaki
+“..................”
+$Shigeaki
+“Wait... come to think of it... did I ever hear... which room Kusuha is staying in...?”
+$Shigeaki
+“...”
+$Shigeaki
+“...Guess I'll go somewhere else.”
+$Shigeaki
+“Alright... heading to the hallway now.”
+$Shigeaki
+“Hah! Spin, spin!!”
+$Shigeaki
+“Phew, I’ve arrived...”
+$Shigeaki
+“...Well... I just spun around in place, though.”
+$Shigeaki
+“Hah-hah-hah.”
+$Shigeaki
+“Hey.”
+$Touko
+“Yes... I wonder how long it’s been since we’ve had this much snow accumulate here...”
+$Shigeaki
+“What’s the weather forecast say? How long is it going to keep falling and piling up?”
+$Touko
+“The forecast says... the snow is supposed to stop tonight...”
+$Shigeaki
+“...Whoa... you're serious...”
+Speaking of heavy snow, I’m reminded of last February... the situation when there was record-breaking snowfall.
+...The city centers were still okay, but apparently some places were completely cut off and became isolated islands on land.
+$Shigeaki
+“...Are we... going to be able to go home today...”
+$Touko
+“I hear the city center is also hit hard and transportation is starting to be paralyzed...”
+$Touko
+“It would be dangerous to go down mountain roads with this much snow and such poor visibility, don't you think?”
+$Shigeaki
+“...You're right...”
+$Touko
+“I called this morning to ask them to lightly plow the road from the inn to the main road once the snow stops... so I think it’s wiser to stay at the inn today without overextending yourselves.”
+$Shigeaki
+“Understood... I’m sorry for the trouble, Touko-san, but please take care of us until the snow settles.”
+$Touko
+“Of course. It’s an inn with nothing much to offer, but please take your time and relax.”
+$Shigeaki
+“Thank you very much.”
+$Shigeaki
+“...Also... actually Kaho's feeling a bit under the weather... sorry, but could I ask for something easy to digest for her?”
+$Touko
+“Oh... I see.”
+$Touko
+“I understand... I'll prepare something for Kaho-san while you're finishing your breakfast.”
+$Shigeaki
+“Sorry for the trouble.”
+When I moved to the next room with Touko for breakfast... Kusuha, the girl I’d only met yesterday, was in the common room.
+$Shigeaki
+“Yo, Kusuha.”
+$Kusuha
+“...”
+$Kusuha
+“...Good... morning... Shigeaki-san.”
+$Shigeaki
+(...Hm? ...She seems to have a strangely low energy compared to yesterday...)
+...Did she stay up late... or is she just a person with low blood pressure?
+She’d given me a more energetic impression... but from her this morning, I can't feel the same momentum she had yesterday.
+$Shigeaki
+“...You look like you're not feeling well... are you okay?”
+$Kusuha
+“...Yeah... I'm fine...”
+$Kusuha
+“By the way, where's Kaho-san? Isn't she with you like yesterday?”
+$Shigeaki
+“Ah, well, she actually started feeling unwell this morning... She’s down in the room right now.”
+$Kusuha
+“...I see... please tell her to take care.”
+$Shigeaki
+“Got it... So Kusuha, did you come to get breakfast too?”
+$Kusuha
+“Yeah... and you too, Shigeaki-san?”
+$Shigeaki
+“Yeah. Want to eat together, then?”
+$Kusuha
+“...Sure.”
+...
+Receiving some simple dishes from Touko that looked easy to prepare for breakfast... we moved to the same spot as yesterday and sat down in the chairs.
+The menu consisted of an omelet, salad, sockeye salmon, simmered hijiki, pickles, soup, and white rice... a lineup that was exactly what you'd expect for an inn's breakfast.
+...Compared to mine, Kusuha only had a salad, soup... and coffee.
+$Shigeaki
+“Hey, Kusuha... aren't you going to be hungry with just that?”
+$Kusuha
+“............”
+$Kusuha
+“...I told you yesterday that I came here for work, didn't I?”
+$Shigeaki
+“Yeah, something about your parents introducing you...”
+$Kusuha
+“...Yeah...”
+$Kusuha
+“And, well... I was told not to take in carbohydrates or meat as much as possible... because it affects the work.”
+$Shigeaki
+“...I see...”
+When told about work with dietary restrictions, the first thing that comes to mind is modeling.
+But I don't think there’s a studio in this inn... maybe there’s someone's atelier nearby?
+$Shigeaki
+(...Even if that were the case... it’s not like a medical checkup... does one meal really change that much?)
+$Shigeaki
+“The work... are you doing it at this inn?”
+$Kusuha
+“...Yeah... that's right.”
+$Shigeaki
+“Could I ask... what kind of work you're doing?”
+$Kusuha
+“...”
+$Kusuha
+“...It’s a secret...”
+...A secret job with dietary restrictions, taking place at an inn deep in the mountains...
+$Shigeaki
+(...No matter how you think about it... it doesn't sound like a normal job, does it...)
+Is it possible Kusuha is... caught up in something no-good at this inn?
+$Shigeaki
+(But what would 'no-good' mean? ...It’s a bit of a leap, but maybe something erotic?)
+But if it were sexual work, it would mean Kusuha had been sold to it by her own [Parents] who introduced the job.
+I’m not the kind of reckless person who digs into the complicated family circumstances of someone I only met yesterday.
+...In the first place... the idea that Kusuha is being subjected to something terrible is just my own delusion.
+While I was speculating on various things like that... a chopstick slipped from Kusuha's hand as she ate listlessly, falling to the floor.
+$Kusuha
+“...Ah... it fell on the floor...”
+$Shigeaki
+“Hey now, what are you doing...”
+Don't pick up the chopstick
+Pick up the chopstick for her immediately
+I thought about picking up the dropped chopstick for her... but if I crawl under the table, I might see her underwear.
+When I’m feeling relaxed, I can pass off seeing panties as a joke, but Kusuha clearly looks depressed.
+As the older one here, I should probably show a little consideration.
+$Shigeaki
+“Hang on... I'll go get you a replacement chopstick right away.”
+$Kusuha
+“...Thanks...”
+$Shigeaki
+“Yeah, don't mention it.”
+...
+After finishing breakfast with Kusuha...
+I was walking toward my room with the breakfast Touko had prepared for Kaho in one hand.
+$Shigeaki
+“Hold on a sec...”
+While feeling a bit appalled at Kusuha for listlessly dropping her chopstick on the floor... I crawled under the table.
+$Kusuha
+“...Ah... I'll pick it up myself...”
+$Shigeaki
+“It’s fine, I’m already under here.”
+$Kusuha
+“...Okay...”
+...Kusuha's pale, slender legs visible in the dim space under the table.
+I suddenly thought it might be sexual harassment, but since I’d already crawled in, I should just finish the task quickly.
+I lowered my gaze from where it was about to face the inside of her skirt, and looked around for the chopstick she’d dropped.
+$Kusuha
+“...Shigeaki-san... did you find the chopstick?”
+$Shigeaki
+“Yeah, it was right by your feet... I'm just reaching for it now.”
+$Kusuha
+“............”
+As I reached for the chopstick, bringing my face just a little closer to her lower body...
+Kusuha's leg moved slightly... and the inside of her skirt flashed into my field of vision.
+$Kusuha
+“........................”
+$Shigeaki
+“........................”
+$Kusuha
+“...Shigeaki-san.”
+$Shigeaki
+“...Yeah?”
+$Kusuha
+“You have a surprised look on your face... did you see... something strange under the table?”
+$Shigeaki
+(...I saw it... I saw it all, clear as day...)
+Judging from the weak smile she’s showing now... the possibility that Kusuha actually has an exhibitionist fetish and is enjoying having her private parts seen... is likely very thin.
+$Shigeaki
+(If she’s not doing it because she wants to... then does it mean Kusuha really is... caught up in something shady?)
+If that’s the case, I want to help her somehow... of course, only within the range of what I can do.
+And even if I were to help, the premise would naturally have to be that Kusuha relies on me and strongly desires to be helped...
+After a quick assessment of the situation... I decided to avoid a direct response and spoke to Kusuha like this.
+$Shigeaki
+“Hey, Kusuha.”
+$Kusuha
+“...What is it... Shigeaki-san...”
+$Shigeaki
+“If anything happens, don't hesitate to tell me... No matter what kind of trouble it is, I'm willing to listen as much as you need.”
+$Kusuha
+“............Eh...”
+Presumably, she’d assumed I would first point out that she wasn't wearing panties and ask what happened.
+...The words [I'm willing to listen] must have been quite unexpected... as Kusuha is staring at me, dazed.
+$Kusuha
+“..................”
+$Kusuha
+“...Sorry, Shigeaki-san... I just remembered I have something to do... I have to go now...”
+$Shigeaki
+“Sure, see you later.”
+$Kusuha
+“...Yeah... see you...”
+$Shigeaki
+“..................”
+After watching Kusuha leave with her shoulders slumped in silence...
+...I finished the rest of my breakfast alone... feeling a sense of unease...
+...
+Having finished the breakfast that I ended up eating alone halfway through... I was walking toward my room with the breakfast Touko had prepared for Kaho in one hand.
 --------------------
 NEYUKI05_03
 ********************
-＃重明
-「……ん？」
-ロビーから階段を上がると、昨夜会った男……尚人が、こちらへと近づいてきた。
-＃重明
-（……あれ？　……こいつって……こんな顔だったっけ……）
-昨日もマジマジと見たわけではないので、確かな事は言えないのだが……何だか前に見た時より妙に表情がハッキリしているような気がしないでもない。
-＃重明
-（まぁ別人ってわけでもなさそうだし……どうでもいいか）
-＃尚人
-「何だお前……まだここに居たのか」
-＃重明
-「……まだってまだ午前中だぞ？　チェックアウトしてるわけないだろうが……そもそも天候を考えろ」
-＃尚人
-「雪がかなり降っているな」
-＃重明
-「そうだよ……３月だって言うのに外は去年の２月みたいな大雪……視界不良な上に除雪が必要なほど積もった山道なんぞ、気安く帰れるかボケ」
-＃尚人
-「ふむ……そう……なるか……まぁまだ残りたいと言うなら、別に止めはしない」
-＃重明
-「……別にお前に命じられたからと言って……ハイそうですかと出て行きやしないけどな」
-この男は年上で華穂の元先生。
-立場だけで考えたら、当然目上という事でもう少し丁重な感じで話すような相手。
-だが、俺は初対面で相手を見下すような野郎に尽くす礼など持ち合わせてはいない。
-＃尚人
-「ところで」
-＃重明
-「なんすか」
-＃尚人
-「昨日は色々と思う所あって少々気が立っていたとはいえ……大人気なくキミに当たってしまった……すまなかったな」
-＃重明
-「……はぁ……そうなんすか……まぁ別にいいっすけど」
-横柄なヤツだと思い込んでいたので、こうもあっさり謝られるとは思わなかった。
-相変わらず上からなのは少し気になるが……まぁそこまで悪いヤツではないのかもしれない。
-＃尚人
-「これで昨日の事は水に流したとして……だ」
-＃重明
-「……何でしょうか」
-＃尚人
-「お前、華穂くんと別れる気はないか」
-＃重明
-「ハアッ！？」
-＃尚人
-「今のでわからなかったのか？　……馬鹿だな……仕方がない、もう一度いってやろう」
-＃重明
-「いやいや！　わかったよ！　十分わかったけど！！　……俺がわかんねぇのは、何で俺が華穂と別れなきゃいけないんだって事だよ！」
-＃尚人
-「……まさか二股をかけるきか？　……お前にそれが出来る甲斐性があるのか？」
-＃重明
-「だから甲斐性以前に、何でいきなり俺が二股をかけるって話になってるんだよ……」
-＃尚人
-「ふむ……少し結論を急ぎすぎて言葉が足りなかったようだな……謝罪しよう」
-＃重明
-「……ああ、足りなすぎだ……お前は本当に教師なのかと問いただしたいぐらい言葉が足りなかったよ……という事で、きっちり説明してくれ」
-＃尚人
-「桔梗は気に入ったか？」
-＃重明
-「だから説明しろって！！　ぜんっぜん説明になってねえよ！？」
-＃尚人
-「当然だ……足りない言葉を言っただけで、説明をする気など、はなからない」
-＃重明
-「あんた無茶苦茶自分勝手っすね……今の、俺じゃなきゃキレて会話終わってますよ？」
-そう……確かに尚人の自分勝手な物言いに呆れてはいるものの……俺はその程度で頭にきて会話を打ち切るような、気の短い人間ではない。
-それに見下すような物言いのクセに、何だか尚人の言葉にはトゲトゲしさがない……言葉に敵意を感じないのだ。
-敵意もない上に、多少この男の意図も気になる……なら無理に会話を打ち切らず、もう少し付き合ってやるとしよう。
-＃尚人
-「それでどうなんだ？」
-＃重明
-「……どうって……桔梗ちゃんとは昨日会ったばかりで、ほとんど話してないんだよなぁ……」
-＃重明
-「まぁ……外見だけって話なら、華穂には及ばないけど美人だし……風呂場でみたかぎりじゃ身体もムッチリといやらしい感じではあったな」
-＃尚人
-「……チッ……このエロガキが……」
-＃重明
-「ろくな接点もないのに、外見以上のどんな感想を述べればいいんだよ」
-＃尚人
-「まぁいい……つまり気に入ったって事だな」
-＃重明
-「気に入ったか気に入ってないかで言えば、気に入ったよ……９０点前後だな」
-＃重明
-「けど俺には華穂が居るし、何の理由もなしに二股なんてかけるわけねーだろうが」
-＃尚人
-「まぁそうだろうな……女二人を幸せにする甲斐性など、お前にはなさそうだしな」
-＃重明
-「……いや甲斐性とかそういう話じゃなく、単なる誠実さの問題なんだけど……」
-＃重明
-「つーか、ほんとアンタ何が言いたいわけ？　……要は俺に華穂と別れて桔梗ちゃんと付き合えって言いたいって事？」
-＃尚人
-「その通りだ」
-＃重明
-「断る」
-＃尚人
-「つまり桔梗を幸せにする気はないと？」
-＃重明
-「いやだから、まず何で俺が桔梗ちゃんを幸せにしなきゃいけないんだ……やりたいなら自分でやれ……というか、そもそもお前桔梗ちゃんの何なわけ？」
-＃尚人
-「出来ない事情がある……それと僕が桔梗の何なのかも、この場で説明する気はない」
-＃重明
-「あ～ハイハイ……そうかよ……まあいいや……」
-＃重明
-「仮にもし、今ので俺に桔梗ちゃんの事を頼んでるとしたら……そんな説明で納得出来るヤツなんて居ないと思うぞ？」
-＃尚人
-「ならお前は納得のいく説明があったら、誰だろうとそいつの面倒を一生見るのか？」
-＃重明
-「見ない」
-＃重明
-「……けどまぁ友達ぐらいにはなるだろうさ……あくまで桔梗ちゃんが望めばだけど」
-＃尚人
-「確かに……お前の存在自体を桔梗が生理的に断固受け入れられない可能性もあるな」
-＃重明
-「アンタってほんと呆れるぐらい失礼なヤツだな……そんなんでよく教師なんて出来るな」
-＃尚人
-「教師だからといって、必ずしも人として出来ているわけでもあるまい」
-＃重明
-「確かに」
-＃尚人
-「それに思った事をそのまま口にしなければいい」
-＃重明
-「なら俺にも気を使えよ」
-＃尚人
-「断る……僕に気を使われたければ、それなりの対価を払え」
-＃重明
-「なら気を使わなくていいや、俺も使わねーし」
-＃尚人
-「とにかくだ……桔梗の事、考えておいてくれ」
-＃重明
-「……いや、考える前にもう少し情報をだな……」
-＃尚人
-「それと桔梗と話す時は僕の名前を出すな……わかったな？」
-＃重明
-「……ああ？　……まぁ、いいけど……」
-言いたい事を言い終えたのだろう……尚人は勝手に会話を打ち切ると、さっさと俺の元から離れ、どこかへと立ち去っていってしまった。
-＃重明
-「……なんて自己中なヤツだ……しかしあの野郎……ホント何が言いたかったんだ？」
-……もしかして尚人は、藤木親子の親戚か何かなのだろうか？
-＃重明
-（若くして母親の仕事を手伝う桔梗ちゃんには友達が居ない……親戚のオジサンの尚人としては、心配なので仲良くして欲しい……とか……）
-もしそうなら、普通に仲良くなってくれそうな同性の華穂やくす葉に頼むべきではないだろうか？
-それにそもそも……俺に華穂と別れて欲しいと言う理由がない。
-＃重明
-「うん、わからん」
-何にしろ尚人が桔梗の事を、とても気に掛けているというのは良く分かった。
-かと言って、こちらとしては桔梗自身が望まないかぎり、積極的に何かやろうという気にもなれない。
-……何故なら俺は……よそ様の悩みを勝手に嗅ぎつけ解決してやるほど……善人でもヒマを持て余しているわけでもないのだから。
-・・・
+$Shigeaki
+“...Hm?”
+When I went up the stairs from the lobby, the man I met last night... Naoto, approached me.
+$Shigeaki
+(...Wait? ...Was this... what his face looked like...?)
+I hadn't looked at him very closely yesterday either, so I can't say for sure, but... I can't help but feel his expression is strangely more distinct than when I saw him before.
+$Shigeaki
+(Well, it doesn't seem like he’s a different person... so whatever.)
+$Naoto
+“What are you... still doing here?”
+$Shigeaki
+“...What do you mean 'still,' it’s still the morning, you know? There’s no way we’ve checked out yet... and besides, look at the weather.”
+$Naoto
+“It is snowing quite heavily.”
+$Shigeaki
+“Exactly... it’s March and yet it’s like that record snow from last February out there... Who the hell could just casually head home on mountain roads that are piled high enough to need plowing and have zero visibility, you moron.”
+$Naoto
+“Hmm... I suppose... that’s true... well, if you say you want to stay longer, I won't stop you.”
+$Shigeaki
+“...It’s not like I’m going to just say 'Oh, okay' and leave just because you ordered me to, though.”
+This man is older and is Kaho's former teacher.
+Thinking only of positions, he’s naturally someone I should speak to more politely as a superior.
+However, I don't possess any courtesy to waste on a guy who looks down on others from the first meeting.
+$Naoto
+“By the way.”
+$Shigeaki
+“What is it?”
+$Naoto
+“I was a bit on edge yesterday for various reasons... and I ended up taking it out on you in an immature way... I apologize for that.”
+$Shigeaki
+“...Hah... is that so... well, whatever, I don't mind.”
+I’d assumed he was an arrogant prick, so I didn't expect him to apologize so easily.
+The fact that he’s still talking down to me is a bit bothersome... but maybe he’s not such a bad guy after all.
+$Naoto
+“Now that we’ve let bygones be bygones regarding yesterday... well.”
+$Shigeaki
+“...What is it?”
+$Naoto
+“Do you have any intention of breaking up with Kaho-kun?”
+$Shigeaki
+“HA-AH!?”
+$Naoto
+“Did you not understand that? ...How stupid... fine, I'll say it again.”
+$Shigeaki
+“No, no! I understood! I understood perfectly!! ...What I don't understand is why the hell I have to break up with Kaho!”
+$Naoto
+“...Are you planning to two-time her? ...Do you have the capacity to do that?”
+$Shigeaki
+“That’s why I'm saying, before we even talk about capacity, why has it suddenly become a story about me two-timing anyone...”
+$Naoto
+“Hmm... it seems I was a bit too quick to reach a conclusion and lacked sufficient words... I apologize.”
+$Shigeaki
+“...Yeah, you lacked them way too much... You lacked them so much I want to cross-examine you on whether you’re really a teacher... so go ahead and explain it properly.”
+$Naoto
+“Did you take a liking to Kikyou?”
+$Shigeaki
+“I TOLD YOU TO EXPLAIN!! That doesn't explain a damn thing!?”
+$Naoto
+“Naturally. I only spoke the words that were lacking; I had no intention of explaining from the start.”
+$Shigeaki
+“You're incredibly selfish, aren't you... if it weren't me, this conversation would have ended with someone snapping, you know?”
+Right... I certainly was appalled by Naoto's selfish way of speaking, but I’m not a short-tempered person who would get angry over that and cut off the conversation.
+Besides, despite his looking-down-on-me way of speaking, somehow there’s no thorniness in Naoto's words... I don't feel any hostility in them.
+Since there’s no hostility and I’m also a bit curious about this man's intentions... I'll play along for a bit more without forcing an end to the talk.
+$Naoto
+“So, how about it?”
+$Shigeaki
+“...What do you mean, 'how'... I only met Kikyou-chan yesterday, and I’ve hardly talked to her...”
+$Shigeaki
+“Well... if it’s just about looks, she’s not on Kaho's level but she’s a beauty, and from what I saw in the bath, her body was plump and lewd-looking.”
+$Naoto
+“...Tch... you erotic brat...”
+$Shigeaki
+“We have no real connection, so what kind of impression other than looks do you expect me to give?”
+$Naoto
+“Fine... in short, you liked her, then.”
+$Shigeaki
+“If you're asking if I liked her or not, I liked her... about a 90, I guess.”
+$Shigeaki
+“But I have Kaho, so there’s no way I’m going to two-time for no reason, is there?”
+$Naoto
+“I suppose so... you don't look like you have the capacity to make two women happy, anyway.”
+$Shigeaki
+“...No, it’s not about capacity or anything like that, it’s just a simple matter of sincerity...”
+$Shigeaki
+“Seriously, what are you trying to say? ...Are you basically telling me to break up with Kaho and date Kikyou-chan?”
+$Naoto
+“That is correct.”
+$Shigeaki
+“I refuse.”
+$Naoto
+“In other words, you have no intention of making Kikyou happy?”
+$Shigeaki
+“No, first of all, why do I have to be the one to make Kikyou-chan happy... if you want to do it, do it yourself... I mean, what the hell are you to Kikyou-chan anyway?”
+$Naoto
+“There are circumstances that prevent me from doing so... and I have no intention of explaining my relationship to Kikyou here either.”
+$Shigeaki
+“Ah~ yeah, yeah... fine then... whatever...”
+$Shigeaki
+“Even if you're asking me to take care of Kikyou-chan just now... I don't think there’s anyone who would be convinced by an explanation like that, you know?”
+$Naoto
+“Then would you take care of someone for the rest of their life as long as there was a convincing explanation?”
+$Shigeaki
+“I wouldn't.”
+$Shigeaki
+“...But well, I might become friends at least... provided Kikyou-chan wanted that.”
+$Naoto
+“True... there is also the possibility that Kikyou herself could not biologically or psychologically accept your very existence.”
+$Shigeaki
+“You're an appallingly rude guy, aren't you... how the hell can you even be a teacher like that.”
+$Naoto
+“Being a teacher does not necessarily mean one is a fully-formed human being.”
+$Shigeaki
+“True enough.”
+$Naoto
+“Besides, one simply has to not speak exactly what one thinks.”
+$Shigeaki
+“Then show some consideration for me too.”
+$Naoto
+“I refuse... if you want my consideration, you must pay a suitable price.”
+$Shigeaki
+“Fine, forget it then. I won't show you any either.”
+$Naoto
+“At any rate... keep Kikyou in mind.”
+$Shigeaki
+“...No, before I do that, how about a bit more info...”
+$Naoto
+“And don't mention my name when you talk to Kikyou... understood?”
+$Shigeaki
+“...Hah? ...Well, fine, I guess...”
+Having presumably finished saying what he wanted to say... Naoto unilaterally cut off the conversation and quickly left me, walking off somewhere.
+$Shigeaki
+“...What a self-centered guy... seriously, what the hell was that bastard trying to say?”
+...Is it possible Naoto is a relative of the Fujiki mother and daughter or something?
+$Shigeaki
+(Kikyou-chan, who’s young and helping with her mother's work, doesn't have any friends... and as Naoto, her middle-aged relative, he’s worried about her and wants me to be friends... or something...)
+If that were the case, wouldn't it be more appropriate to ask Kaho or Kusuha, who are the same gender and seem likely to get along with her normally?
+And besides... there’s no reason for him to want me to break up with Kaho.
+$Shigeaki
+“Yeah, I don't get it.”
+In any case, I understood well that Naoto cares about Kikyou very much.
+That being said, I don't feel like proactively doing anything unless Kikyou herself wants it.
+...Because I’m not such a good person or someone with so much time on my hands that I’d go sniffing out and resolving other people's troubles on my own initiative.
+...
 --------------------
 NEYUKI05_04
 ********************
-＃重明
-「ただいま華穂……ご飯もって来たぞ」
-＃華穂
-「ありがとう、きーくん」
-＃重明
-「身体、起きれそうか？」
-＃華穂
-「うん……」
-・・・
-＃華穂
-「ふう……」
-藤子さんが用意してくれた朝食を済ませた後……華穂は再びベッドへ横になり、身体を休めていた。
-＃重明
-「どうだ？　寒気とかはないか？」
-＃華穂
-「今の所は平気……ご飯も食べたし」
-＃重明
-「そっか……」
-額の熱を測るついでにサラサラの華穂の髪の毛を指先ですくい、ワシャワシャと軽く頭を撫で回していく。
-＃重明
-（……う～ん……熱っぽい感じは……なさそうかな……）
-＃華穂
-「……ぁ……きーくん……髪の毛、ぐしゃぐしゃになっちゃうよ……」
-＃重明
-「髪の毛がくしゃくしゃでも可愛いぞ」
-＃華穂
-「……ふふ……ありがと」
-軽いスキンシップを終え立ち上がると、俺は窓の外の景色に視線を移していく。
-＃重明
-「藤子さんに聞いた話だと、この雪、夜まで降るらしいしぞ」
-＃華穂
-「うわ、まだ止まないんだ……今日中に家に帰れるかな……」
-＃重明
-「無理だろうな……とりあえず明日までお世話になりますって、藤子さんには言っておいたよ」
-＃華穂
-「ありがと」
-＃重明
-「しかし、昨日の夜から降り続けているせいか……室温も昨日より下がってきた感じはあるよな」
-＃華穂
-「そうだね……まだ平気だけど、これ以上下がると少し厳しいかも」
-＃重明
-「よし……じゃあ食器を戻すついでに、何か暖房器具をゲットしてくるよ」
-＃華穂
-「……ごめんね……今朝からきーくんばかりに色々とやらせちゃって」
-＃重明
-「気にすんな……華穂は俺の彼女で、しかも体調が悪い……彼氏から一方的に甘やかされる権利が、今のお前にはある」
-＃華穂
-「では……彼女の権限を、遠慮なく活用させてもらおうかな」
-＃重明
-「使え使え」
-＃華穂
-「じゃあ、きーくん……キスしてほしい」
-＃重明
-「おう」
-＃華穂
-「んっ、ちゅっ……んぁ……ちゅっ、ちゅぷ……」
-彼女の願い通りキスを交わしつつ……俺は華穂の体調を探るため、唇を押し付け柔らかな粘膜の具合を確かめていく。
-＃華穂
-「ちゅ、ちゅぷっ……んふぅ……んっ、ちゅっ、ちゅぱっ、ちゅぅ……」
-＃重明
-（よし、いつも通りの瑞々しさだ……確かに風邪とかじゃなさそうだな……）
-＃華穂
-「はぁ、ん、ちゅっ、ちゅぷ……んあ、ちゅっ、んちゅぅ……ぷはぁ」
-＃華穂
-「へへ……元気の元、充填完了」
-＃重明
-「それじゃ、ちょっと行ってくるよ」
-＃華穂
-「うん、いってらっしゃい」
-最後に軽く華穂の頭を撫でると……
-俺は食器の乗ったトレイを片手に廊下へ向け歩き出したのだった……
-・・・
+$Shigeaki
+“I'm home, Kaho... I brought you some food.”
+$Kaho
+“Thank you, Ki-kun.”
+$Shigeaki
+“Do you think you can sit up?”
+$Kaho
+“Yeah...”
+...
+$Kaho
+“Phew...”
+After finishing the breakfast Touko-san had prepared... Kaho lay back down on the bed to rest her body.
+$Shigeaki
+“How is it? Any chills or anything?”
+$Kaho
+“I'm okay for now... I ate my food, after all.”
+$Shigeaki
+“I see...”
+While I was at it, I measured the heat of her forehead, scooped up Kaho's silky hair with my fingertips, and lightly patted and rumpled her head.
+$Shigeaki
+(...Hmm... she doesn't seem to have a fever...)
+$Kaho
+“...Ah... Ki-kun... my hair's going to get all messy...”
+$Shigeaki
+“You're cute even with messy hair.”
+$Kaho
+“...Fufu... thanks.”
+After finishing our light skinship and standing up, I shifted my gaze to the view outside the window.
+$Shigeaki
+“According to what I heard from Touko-san, this snow is supposed to keep falling until tonight.”
+$Kaho
+“Whoa, it’s still not going to stop... I wonder if we can get home today...”
+$Shigeaki
+“Unlikely... for now, I told Touko-san we'll be in her care until tomorrow.”
+$Kaho
+“Thanks.”
+$Shigeaki
+“But man, maybe because it’s been falling since last night... I feel like the room temperature has dropped since yesterday, too.”
+$Kaho
+“Yeah... it’s okay for now, but if it drops any more, it might be a bit tough.”
+$Shigeaki
+“Alright... then when I go back to return the dishes, I'll see if I can get some kind of heating equipment.”
+$Kaho
+“...Sorry... I’ve been making you do everything since this morning, Ki-kun.”
+$Shigeaki
+“Don't worry about it... you're my girlfriend, Kaho, and you're not feeling well... right now, you have the right to be unilaterally pampered by your boyfriend.”
+$Kaho
+“Then... maybe I'll take advantage of my girlfriend's authority without hesitation.”
+$Shigeaki
+“Go right ahead.”
+$Kaho
+“Then, Ki-kun... I want you to kiss me.”
+$Shigeaki
+“Sure.”
+$Kaho
+“Nn, chu... n-aa... chu, chupu...”
+Trading kisses as she wished... I pressed my lips against hers to check the state of her soft mucous membranes and gauge her physical condition.
+$Kaho
+“Chu, chupu... nfu... nn, chu, chupa, chuuu...”
+$Shigeaki
+(Alright, it’s the same moisture as usual... it certainly doesn't seem like a cold...)
+$Kaho
+“Haa, nn, chu, chupu... n-ah, chu, nchuu... puha.”
+$Kaho
+“Hehe... recharge complete. I feel more energetic now.”
+$Shigeaki
+“Well then, I'll be off for a bit.”
+$Kaho
+“Okay, see you later.”
+After patting Kaho's head one last time...
+I headed out into the hallway with the tray of dishes in one hand...
+...
 --------------------
 NEYUKI05_05
 ********************
-２階から階段を下りる最中……俺は風呂場へと続く通路に、チラりと人影を見つけ、視線を動かしていく。
-すると少し離れた場所に、くす葉と見知らぬ男が立ち話をしている姿が見えた。
-＃重明
-（あれって……昨日の夜、談話室でくす葉と雑談してた所にやって来た男……かな？）
-顔は印象が薄くハッキリとは覚えていないものの……髪型と服装を見た限り、恐らく昨晩くす葉を連れていった男に違いないだろう。
-＃重明
-（……さっき一緒に朝食も食べたし、雪で今日は帰れそうもない……ここで無意味に会話に割り込む感じで声を掛ける必要もないか……）
-俺はくす葉達から視線を外すと、目的地である談話室へと再び歩き始めたのだった……
-・・・
-ふと脳裏に、朝食の時の疲弊したくす葉の顔と、ノーパンだった事が浮かび上がる。
-……俺は彼女の身に何が起きたのかを軽く探るため……二人に気付かれぬよう足音を殺し、傍へと近づいてみた。
-＃オッサン
-「……では、彼に下半身を見られたのですか？」
-＃くす葉
-「……多分……見られました……」
-＃オッサン
-「……ほうほう……彼はなんと言ってましたか？」
-＃くす葉
-「……何かあったら……相談しろって……言ってきました……」
-＃オッサン
-「……ノーパンである事は何も言わなかったんですか？」
-＃くす葉
-「……はい……」
-＃重明
-（……ああ……これはもう……くす葉はこのオッサンにエロい事をされてるって事で……どうやら間違いなさそうだな……）
-おせっかいしない
-おせっかいする
-＃重明
-（え！　……ま、マジ！？）
-本当におせっかいしない
-やっぱりおせっかいする
-＃重明
-（……む、むぅ……ここは少し冷静になって考えるか……）
-……昨日くす葉は、親に紹介された仕事で宿に来たと言っていた。
-つまり彼女は自分の親により、あのオッサンに身体を売られてしまったと考えるべきだろう。
-＃重明
-（……しかも二人きりだった朝食の時、求められたのに助けて欲しいとは言わなかった……ようするに全ては同意の上って事なんだろうな……）
-そうなると俺が一人勇ましく拳を振るい、悪いオッサンを倒せば全部解決……なんて単純な流れで終わるとは、到底考えにくい。
-＃重明
-（……親が子供を売る……借金、かな……やっぱり……）
-……もちろん法的に考えれば、遺産を受け取っていない限り子は親の借金を払う義務はない。
-だがそれでも、本人が返済を望んでいる場合……法や義務の有無など関係はないのだ。
-心情的に言えば、今すぐ彼女を助けてやりたい。
-だが問題は恐らく金……そして俺は何の力もない学生風情。
-もちろん興味本位で首を突っ込む事は簡単だが……それでくす葉が傷つく事や、華穂や自分の家族に迷惑がかかるリスクの事も、ある程度考慮しなければならない。
-＃重明
-（……そうだな……何か行動を起こす前に……少し華穂の意見も聞いてみるとするか……）
-＃重明
-「……はぁ……」
-自分の結論にモヤモヤとしたものを感じつつも……俺は気を取り直し、再び談話室へと歩き始めたのだった。
-・・・
-＃重明
-（俺に何が出来るかはわからないけど……とりあえず話だけでも、聞いてみるか……）
-俺はくわしい事情を知るため、二人の傍へと近づいていった。
-＃くす葉
-「……重明……さん」
-＃オッサン
-「……おや貴方は……ククッ……おはようございます、どうしましたか？」
-出会ったばかりの相手に対し、いきなり蔑むような態度を取る人種が俺はとても嫌いだったりする。
-その基準を満たすオッサンの言い回しに軽くカチンと来た俺は……軽く敵意を混じらせた口調で、目的を言葉で表していく。
-＃重明
-「オッサン……くす葉と少し話がしたいんだけど……借りてもいいかな？」
-＃オッサン
-「……おいおい、彼女は今仕事中だ……悪いが乳繰り合いたいなら、自分の彼女とするべきなんじゃないかな？」
-＃重明
-「オッサン、俺は今、くす葉と話がしたいって言ったんだぜ？　……いいから快く貸してもらえないかな？」
-口元は微笑みを浮かべつつも……俺は笑っていない目で【別に荒事にしてもいいぞ？】と、プレッシャーを強めていく。
-＃重明
-（……もしぶん殴るとしても……手か足だろうな……顔とか胴体は、後々面倒そうだし）
-そんなＤＱＮ丸出しの態度に、呆れたのか恐れたのかはわからないが……オッサンは降参だと言わんばかりに、態度を軟化させる。
-＃オッサン
-「……はは、参ったな……まぁ話ぐらいなら駄目……というわけでもないんだが……」
-＃重明
-（……よし……）
-相手が少しでも折れれば、威圧の必要などない。
-俺は自分が話をすれば分かり合える相手と思わせる為……今度は力を抜き、オッサンに語り掛けていく。
-＃重明
-「勘違いして欲しくないんだけど……これでも一応、俺はアンタのする事を邪魔しに来たつもりはないんですよ？」
-＃オッサン
-「ほう……そうなのかね？」
-＃重明
-「言い方は乱暴だったけど、ようは最初に言った通り、俺はくす葉と話をさせて欲しいだけなんですよ」
-＃重明
-「……今の所は」
-＃オッサン
-「ではその話の内容次第では……邪魔をする可能性もあると？」
-＃重明
-「まぁ心情的にはそうしたい気持ちもありますけど……所詮は他人事ですから」
-＃重明
-「……ただ単に金で買われたって話で、くす葉もキチンと納得済みという話であれば……別によくある話ですし、どうこうする気なんてありませんよ」
-＃重明
-（まぁ当然、くす葉が納得してなきゃ……邪魔をする気なんだけど）
-＃オッサン
-「ならその通り、そのままだ……あえてくす葉くんと話をする必要もないんじゃないかな？」
-＃重明
-「まぁその辺の事とかを、本人から色々聞いたり話したりしたいわけで……どうですかね？　時間……もらえませんか？」
-＃オッサン
-「ちなみに……私が駄目と言ったら……キミはどうするんだい？」
-＃重明
-「まぁそう言われたら……仕方がないので取り合えず諦めます」
-＃重明
-「その上でここで聞く事の出来なかった彼女の事情や、貴方の素性を……ここを出た後、ちょっと頑張って色々と調べる事になるでしょうね」
-くす葉のような素人娘を買うような男……手馴れている感もあるし、叩けば埃が出るような人間だというのは、容易に想像がつく。
-だがたとえそうだとしても、学生風情に何が出来ると向こうに高を括られてしまったら……この交渉は即座に決裂してしまう。
-＃重明
-（……つまる所……このオッサンが、現状の落とし所をどうしたいのかで決まるってわけだ……）
-＃オッサン
-「……あまり関わらない方が……キミとキミの彼女の為だと、私は思うのだけれど……」
-＃重明
-「貴方の言いたい事は、何となくだけど察しは付きますよ？」
-＃重明
-「けど俺は貴方本人じゃない……だから関わった事で何がどう問題なのかなんて……わかる訳ないんですよ、そもそも」
-＃重明
-「けど事態を良く知って自分でどうにかなる問題じゃないと分かれば……昨日会ったばかりの関係ですし、関わるのを止めるとは……思いませんか？」
-＃オッサン
-「……ふむ……」
-＃オッサン
-「つまり君はくす葉くんを助けたいからというより、何より自分が納得したいから話をしたい……そういう事なのかな？」
-＃重明
-「まぁ大体そんな感じです」
-＃オッサン
-「くす葉くん……彼と……話をしたいかい？」
-＃くす葉
-「………………」
-＃くす葉
-「話……したいです」
-＃オッサン
-「彼に助ける気はない……惨めな思いをするだけかもしれませんよ？」
-＃くす葉
-「……それでも……いい」
-＃オッサン
-「……ふむ……」
-＃オッサン
-「まぁいいでしょう……調教はほぼ済んでますし、始まるのは３時頃の予定ですから」
-＃重明
-（……調教はほぼ済んだ……ねぇ……）
-オッサンの口から出た言葉から察するに……どうやらくす葉のヤツは、昨晩談話室で別れてから今朝再会するまでの間……散々酷い事をされまくったのだろう。
-＃重明
-（……それで今朝は昨日の元気が無かったのか……そりゃ気落ちするのも当然だよな……）
-＃オッサン
-「ああ、そうそう……話をする以外の事をしてもいいですけど……処女膜だけは破かないで下さいね？」
-＃オッサン
-「……彼女の価値は膜込みなので……破損したら商品価値が下がって、もっとキツい目に遭わせる事になってしまいますから」
-＃重明
-「はあ……」
-別にくす葉と淫らな事をする気などないが……あとで他にも禁止事項があったなどとイチャモンをつけられてはたまらない。
-……他に問題のある行為がないか、俺は確認の為、オッサンに疑問をぶつけてみる。
-＃重明
-「……じゃあ例えばですけど……膜さえ破かなきゃ、どんなエッチな事をしちゃってもいいんですか？」
-＃オッサン
-「……はは、いいですよ……膜さえ破かなければ……ご自由に……」
-最後にどこか楽しげにそう言い残し……オッサンは一人、この場を離れていった。
-＃くす葉
-「…………」
-＃重明
-「じゃあ、行くか」
-＃くす葉
-「……うん」
-＃重明
-「少しここで待っていてくれ……トレイを片付けてくるから」
-＃くす葉
-「……わかった」
-誰も居ない談話室に入り、適当な場所に食器の乗ったトレイを置くと……俺は早足でくす葉の元へと戻っていく。
-＃重明
-「お待たせ」
-＃くす葉
-「別に……全然、待たされてないけどね」
-＃重明
-「確かに……んじゃ、行きますか」
-＃くす葉
-「うん」
-・・・
+While going down the stairs from the second floor... I caught a glimpse of a figure in the passage leading to the bath and shifted my gaze.
+I saw Kusuha and a man I didn't know talking a short distance away.
+$Shigeaki
+(Is that... the man who came to the common room while I was chatting with Kusuha last night... maybe?)
+His face didn't leave much of an impression and I don't remember it clearly... but judging by his hairstyle and clothes, he must be the man who took Kusuha away last night.
+$Shigeaki
+(...I just ate breakfast with her earlier, and we won't be able to leave today because of the snow... there’s no need to force a conversation by interrupting them here...)
+I averted my eyes from Kusuha and the man and began to walk toward the common room, my destination...
+...
+Suddenly, Kusuha's exhausted face from breakfast and the fact that she wasn't wearing panties came to mind.
+...To lightly probe what had happened to her... I killed my footsteps so they wouldn't notice and approached them.
+$Old Man
+“...So, he saw your lower body?”
+$Kusuha
+“...Probably... he saw it...”
+$Old Man
+“...Ho-ho... and what did he say?”
+$Kusuha
+“...He said... if anything happens... I should talk to him...”
+$Old Man
+“...He didn't say anything about you not wearing panties?”
+$Kusuha
+“...No...”
+$Shigeaki
+(...Ah... this is it... there’s no doubt that Kusuha is having erotic things done to her by this old guy...)
+Don't meddle
+Meddle
+$Shigeaki
+(What! ...S-Seriously!?)
+Seriously, don't meddle
+I'll meddle after all
+$Shigeaki
+(...M-Mm... I should take a moment to think this through calmly...)
+...Yesterday Kusuha said she came to the inn for work introduced by her parents.
+In other words, I should assume she was sold by her own parents to that old guy.
+$Shigeaki
+(...On top of that, even during breakfast when it was just the two of us, she didn't ask for help even though I offered... in short, it’s all consensual, isn't it...)
+If that’s the case, it’s hard to imagine it ending in a simple flow where I heroically swing my fists and defeat the bad old man to solve everything.
+$Shigeaki
+(...Parents selling a child... a debt, maybe... after all...)
+...Of course, thinking legally, a child has no obligation to pay a parent's debt unless they receive an inheritance.
+But even so, if the person themselves wants to pay it back... the presence or absence of law or obligation doesn't matter.
+Emotionally, I want to help her right away.
+But the problem is likely money... and I’m just a student with no power.
+Of course, it’s easy to poke my nose in out of curiosity... but I also have to consider the risk of Kusuha being hurt because of that, or trouble spreading to Kaho or my own family to some extent.
+$Shigeaki
+(...Right... before I take any action... maybe I'll hear Kaho's opinion for a bit...)
+$Shigeaki
+“......Haaaa...”
+While feeling a sense of unease about my conclusion... I pulled myself together and began to walk toward the common room once again.
+...
+$Shigeaki
+(I don't know what I can do... but for now, I'll at least listen to what she has to say...)
+To find out the detailed circumstances, I approached the two of them.
+$Kusuha
+“...Shigeaki...-san.”
+$Old Man
+“...Oh, you're... kuku... good morning. Is something the matter?”
+I personally really dislike the breed of people who take a condescending attitude right away toward someone they just met.
+Getting a bit ticked off by the old guy's phrasing which met that criteria... I expressed my purpose in a tone mixed with a bit of hostility.
+$Shigeaki
+“Old man... I want to talk to Kusuha for a bit... could I borrow her?”
+$Old Man
+“...Hey now, she’s in the middle of work... sorry, but if you want to flirt, shouldn't you do it with your own girlfriend?”
+$Shigeaki
+“Old man, I just told you I want to talk to Kusuha, didn't I? ...So just hand her over nicely, okay?”
+While wearing a smile on my face... I strengthened the pressure with eyes that weren't laughing, as if to say [I don't mind making this a rough affair, you know?]
+$Shigeaki
+(...Even if I were to punch him... it’d be a hand or a foot... the face or body seems like it’d be a hassle later on.)
+I don't know if he was appalled or afraid of such an obviously punk-like attitude, but the old guy softened his stance as if to say he surrendered.
+$Old Man
+“...Haha, you've got me there... well, if it’s just a talk, it's not as if it’s forbidden, but...”
+$Shigeaki
+(...Alright...)
+If the opponent yields even a little, there’s no need for intimidation.
+To make him think I’m someone he can talk to and reach an understanding with... I relaxed and spoke to the old guy.
+$Shigeaki
+“I don't want you to misunderstand... even if I look like this, I didn't come here to get in the way of what you're doing, okay?”
+$Old Man
+“Oh... is that so?”
+$Shigeaki
+“My way of speaking was rough, but basically as I said at first, I just want to let Kusuha and me talk.”
+$Shigeaki
+“...For now, at least.”
+$Old Man
+“Then depending on the content of that talk... is there a possibility you might interfere?”
+$Shigeaki
+“Well, emotionally I’d like to do that, but... after all, it’s someone else's business.”
+$Shigeaki
+“...If it’s just a story about her being bought for money and Kusuha having properly consented... well that happens all the time, and I have no intention of doing anything about it.”
+$Shigeaki
+(Well, of course if Kusuha hasn't consented... I’m going to interfere.)
+$Old Man
+“Then it’s exactly as you say... there’s no need to go out of your way to talk to Kusuha-kun, then?”
+$Shigeaki
+“Well, I want to hear and talk about those kinds of things directly from her... so how about it? Could I have... some time?”
+$Old Man
+“By the way... if I said no... what would you do?”
+$Shigeaki
+“Well, if you said that... it can't be helped, so I'll give up for now.”
+$Shigeaki
+“On top of that, after leaving here, I'll probably put in some effort to investigate her circumstances and your identity that I couldn't hear about here.”
+A man who buys an amateur girl like Kusuha... he looks experienced, and I can easily imagine he’s someone who would have skeletons in his closet if I went digging.
+But even so, if he dismisses me as just a student and thinks I can't do anything... this negotiation will break down immediately.
+$Shigeaki
+(...In the end... it depends on where this old guy wants to settle the current situation...)
+$Old Man
+“...I think it would be for your sake and your girlfriend's sake... if you didn't get too involved, though...”
+$Shigeaki
+“I have a vague idea of what you're trying to say, you know?”
+$Shigeaki
+“But I'm not you... so there’s no way for me to know exactly what kind of problem involvement would cause in the first place.”
+$Shigeaki
+“But if I get to know the situation well and find out it’s not a problem I can do anything about myself... since we only met yesterday, don't you think I'd stop being involved?”
+$Old Man
+“...Hmm...”
+$Old Man
+“In other words, you want to talk not so much because you want to help Kusuha-kun, but because more than anything you want to be convinced yourself... is that it?”
+$Shigeaki
+“Yeah, something like that.”
+$Old Man
+“Kusuha-kun... do you want to... talk with him?”
+$Kusuha
+“..................”
+$Kusuha
+“I want to... talk.”
+$Old Man
+“He has no intention of helping you... you might only end up feeling miserable, you know?”
+$Kusuha
+“...Even so... it’s okay.”
+$Old Man
+“...Hmm...”
+$Old Man
+“Very well... the training is mostly finished, and we're scheduled to start around 3:00 anyway.”
+$Shigeaki
+(...The training is mostly finished... huh...)
+Judging from the words that came out of the old guy's mouth... apparently Kusuha had been subjected to all sorts of terrible things between our parting in the common room last night and our reunion this morning.
+$Shigeaki
+(...So that’s why she didn't have her energy from yesterday this morning... it’s only natural she’d be depressed...)
+$Old Man
+“Oh, and by the way... you can do other things besides talking, but... just don't break her hymen, okay?”
+$Old Man
+“...Her value includes the membrane, so... if it’s damaged, her product value will drop and we’ll have to put her through even harsher things.”
+$Shigeaki
+“I see...”
+I have no intention of doing lewd things with Kusuha, but it would be unbearable if he made a false accusation later saying there were other forbidden things.
+...To check if there were any other problematic acts, I threw a question at the old guy.
+$Shigeaki
+“...Just for example, though... as long as I don't break the membrane, is it okay if I do any kind of erotic things to her?”
+$Old Man
+“...Haha, sure... as long as you don't break the membrane... feel free...”
+Leaving those words with a somewhat amused tone... the old guy left the area alone.
+$Kusuha
+“............”
+$Shigeaki
+“Well then, shall we go?”
+$Kusuha
+“...Yeah.”
+$Shigeaki
+“Wait for me here for a second... I'll just go put this tray away.”
+$Kusuha
+“...Okay.”
+Entering the deserted common room and placing the tray of dishes on a suitable spot... I hurried back to Kusuha.
+$Shigeaki
+“Sorry to keep you waiting.”
+$Kusuha
+“I wasn't really... kept waiting at all, though.”
+$Shigeaki
+“True... well then, shall we go?”
+$Kusuha
+“Yeah.”
+...
 --------------------
 NEYUKI05_06
 ********************
-くす葉を連れ階段を上がった所で……俺は立ち止まり、あたりの様子を軽く見回していく。
-最初は話を聞くため、くす葉を自分の部屋に連れ込もうと思ったのだが……華穂の体調の事を、うっかり考慮に入れ忘れていた。
-……ただでさえ体調を崩しているのだ……くす葉の話でショックを受け、精神的にも疲弊するような展開は望ましくない。
-最終的に華穂を巻き込む事態になったとしても……まずは軽く俺一人で状況を把握しておくべきだろう。
-＃重明
-（……とはいえ……どこで話を聞こうか……適当に空いてる部屋とか、あればいいんだけど……）
-取り合えず落ち着いて話せそうな場所はないか……そんな事を考えつつ、俺は通路の曲がり角を覗き込む。
-……するとそこには、今朝顔を合わせた……尚人が居た。
-＃尚人
-「…………」
-＃重明
-「……よぉ、また会ったな」
-白花荘は、それほど大きくない宿……こう何度も遭遇するのも、別に珍しい事ではない。
-＃重明
-（……何度も会うのは別にいいんだけど……またこいつ、華穂と別れろとか、意味不明な事を言ってくるのか？）
-……今はくす葉の事があるから、お前の戯言には付き合っていられない……
-釘を刺すつもりでそう言おうとした所……こちらより先に、尚人が口を開いた。
-＃尚人
-「……そいつはもう駄目だ」
-＃重明
-「……はぁ？　……駄目？」
-＃尚人
-「そうだ」
-＃重明
-「……はぁ……意味わかんねぇんだけど……」
-だが【そいつ】という言葉がくす葉を指している事だけは理解出来る……何故なら俺なら【お前】、華穂なら【華穂くん】と言うだろうからだ。
-＃重明
-（……けど、なら何が駄目だって言うんだ？　……もしかしたら、尚人のヤツくす葉の事情を知ってるのか？）
-＃尚人
-「……一応、忠告はしてやったからな……じゃあな」
-＃重明
-「はぁ？　って、おい！」
-＃重明
-「……だから話の途中で行くなよ……毎々毎々、意味不明な上に自分勝手なヤツだな……たく……」
-＃くす葉
-「重明さん……いま誰と話してたの？」
-＃重明
-「ん？　……ああ、尚人ってヤツだよ……お前が今着てる制服を、華穂が身に着けてた時の先生なんだとさ」
-＃くす葉
-「へぇ……どんな人なの？」
-＃重明
-「どんなって……何というか……いかにも金持ちのお坊ちゃまって感じの野郎なんだけど……まぁ現物を見た方が早いか……」
-そう言いつつ、ヤツが立ち去った方向へと視線を向けたものの……姿が見えない。
-＃重明
-「……あれ？　……あいつドコに行ったんだ？」
-廊下は一直線……早足でもしなければ、後姿ぐらいは捉えられてもいいと思うのだが……
-＃重明
-（……もしかして近くの部屋にでも入ったのか？）
-＃くす葉
-「？？？　どうしたの？」
-＃重明
-「……いや……いま話題に出た尚人のヤツが近くに居ると思ったんだけど……」
-俺は何となく近くの扉に近づき、ドアノブに手を伸ばしていく。
-＃重明
-「……あ、開いてる……」
-続いて耳をそばだて中の様子をうかがってみたが、人が居る気配はない。
-もし無人なら……ここなら誰にも邪魔されず、くす葉と込み入った話が出来るかもしれない。
-仮に中に誰かが居たとしても【いやぁ、入る部屋を間違えました！】と元気良く謝罪し、また別の部屋を探すとしよう。
-俺は意を決し扉を開けると……くす葉と共に、見知らぬ部屋の中へと入ってみたのだった……
+After taking Kusuha up the stairs... I stopped and took a quick look around.
+At first I thought about bringing Kusuha to my room to hear her story, but I’d accidentally forgotten to take Kaho's condition into account.
+...She’s already feeling unwell... it’s not desirable for a development where she gets shocked by Kusuha's story and becomes mentally exhausted.
+Even if it ends up involving Kaho eventually... I should first grasp the situation lightly on my own.
+$Shigeaki
+(...That being said... where should we talk... I hope there’s some suitable empty room or something...)
+Wondering if there was a place where we could talk calmly... while thinking that, I peeked around a corner in the passage.
+...And there was Naoto, whom I had faced this morning.
+$Naoto
+“............”
+$Shigeaki
+“...Yo, we meet again.”
+Shirohana-sou isn't that large an inn... encountering him this many times isn't particularly unusual.
+$Shigeaki
+(...I don't mind meeting him many times, but is he going to say something nonsensical about breaking up with Kaho again?)
+...I have the matter with Kusuha right now, so I can't play along with your nonsense...
+Just as I was about to say that to head him off... Naoto spoke before me.
+$Naoto
+“...That one is already beyond help.”
+$Shigeaki
+“...Hah? ...Beyond help?”
+$Naoto
+“That is right.”
+$Shigeaki
+“...Hah... I have no idea what you're talking about...”
+But I could understand that the word [That one] referred to Kusuha... because if it were me he’d say [You], and if it were Kaho he’d say [Kaho-kun].
+$Shigeaki
+(...But then, what is it that’s 'beyond help'? ...Maybe Naoto knows Kusuha's circumstances?)
+$Naoto
+“...I've given you my warning, anyway... see you.”
+$Shigeaki
+“Hah? Wait, hey!”
+$Shigeaki
+“...Stop leaving in the middle of a conversation... he’s a nonsensical and selfish guy every single time... geez...”
+$Kusuha
+“Shigeaki-san... who were you talking to just now?”
+$Shigeaki
+“Hm? ...Ah, a guy named Naoto... apparently he was a teacher when Kaho was wearing the uniform you're wearing now.”
+$Kusuha
+“Heh... what kind of person is he?”
+$Shigeaki
+“What kind... well, how should I put it... he’s a guy who feels like a rich young master... well, I guess it’s faster if you see the real thing...”
+As I said that, I looked in the direction he had left, but... his figure was gone.
+$Shigeaki
+“...Wait? ...Where did that guy go?”
+The hallway was a straight line... unless he was walking very fast, I should have been able to at least catch his back...
+$Shigeaki
+(...Did he enter a nearby room or something?)
+$Kusuha
+“??? What’s wrong?”
+$Shigeaki
+“...No... I thought that Naoto guy we were talking about was nearby...”
+I casually approached a nearby door and reached for the doorknob.
+$Shigeaki
+“...Oh, it’s open...”
+Next, I strained my ears to listen for any sign of someone inside, but there was no presence of people.
+If it’s unoccupied... maybe I can have a private talk with Kusuha here without being interrupted.
+Even if someone were inside, I’d just say [Whoops, I entered the wrong room!] and apologize energetically, then look for another room.
+Making my decision, I opened the door... and stepped into an unfamiliar room with Kusuha...

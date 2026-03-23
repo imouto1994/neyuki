@@ -1,721 +1,721 @@
 --------------------
 NEYUKI06_01
 ********************
-トレイに乗った空の食器を持ち談話室に入ると、部屋には桔梗が居た。
-＃重明
-「朝からお仕事ご苦労様、桔梗ちゃん」
-＃桔梗
-「どうもありがとうございます、重明さん……そのトレイ、どうしたんですか？」
-＃重明
-「おはよう、桔梗ちゃん」
-＃桔梗
-「おはようございます、重明さん……そのトレイ、どうしたんですか？」
-＃重明
-「ああ、これ？」
-＃重明
-「実は今、華穂のヤツが具合悪くってね……それで藤子さんに部屋で食べられるモノを作ってもらって、その帰りってわけ」
-＃桔梗
-「そうだったんですか……では片付けますので、お預かりします」
-＃重明
-「どうも」
-食器の乗ったトレイを俺から受け取った桔梗は、談話室の端にある隣接した調理場へと移動していく。
-俺の居る談話室と桔梗の居る調理場には、現在二人以外誰も居ない。
-半ば貸し切り状態となった状況の中……俺は手早く食器を洗っている桔梗に声を掛けた。
-＃重明
-「そういえば俺達、今日の午後には帰る予定だったんだけど……この吹雪だし、帰るのは明日に延ばしたんだよね」
-＃桔梗
-「そうですか……確かに雪が積もった山道を移動するのは危険ですしね」
-＃重明
-「だね……とまぁそういう事でもう一日よろしく、桔梗ちゃん」
-＃桔梗
-「はい、ゆっくりしていって下さい」
-＃重明
-「ありがと……それで停電とか万一の事態を考えて、今のうちに暖房器具を貸してもらえないかなって思ってるんだけど……どうかな？」
-＃桔梗
-「何と」
-＃重明
-「いやそこで【何と】って……この話の流れで驚く桔梗ちゃんに、こっちの方が驚きだよ」
-＃桔梗
-「いえ……実は朝の時点で万一の事を考え、他のお客様の所に暖房器具を提供したのですが……」
-＃重明
-「が？」
-＃桔梗
-「故障しているものなどがあって数が足りず……重明さんの所は若いし、何か言うまでは放置しようかなと……考えていた所だったわけです」
-＃重明
-「あぁ確かに……華穂の具合が悪くなきゃ、俺もまず気にしなかっただろうな」
-＃桔梗
-「ですがあくまで直ぐに取り出せる場所には無い……というだけなので、用意する分には問題ありません」
-＃重明
-「そっか、よかった……けど桔梗ちゃんって、思いのほか気さくな性格しているんだね」
-＃桔梗
-「そうですか？」
-＃重明
-「うん、もっと大人しくてお人形さんみたいに無口で……喋っても堅苦しい事しか言わない生真面目な女の子だと思ってたよ」
-＃桔梗
-「確かにあまり騒がしい性格ではありませんが……こうして客商売をしている以上、無口では仕事にならないと思いますけど」
-＃重明
-「まぁね……ペンションを二人だけで運営するって時点で大変なのに、従業員が片方お人形とか……もはやバツゲームの領域だよな」
-＃桔梗
-「……まぁ……そうですね……」
-＃重明
-（うん？　……まるで実際にそういう状況を経験したような苦々しい顔をしてるけど……過去に似たような目にあったのかな？）
-＃桔梗
-「ですが今日は他の従業員が休みというだけで……別に常に２人だけで宿を運営しているというわけではありませんよ？」
-＃重明
-「え？　そうなの？　……確か藤子さんは娘とやってるって言ってたと思うんだけど」
-＃桔梗
-「基本はそうですね」
-＃桔梗
-「ですが流石に常時２人体制というのは肉体的に厳しいので、元この寮に住んでいた学生数人にバイトという形で定期的に来てもらっています」
-＃重明
-「ああ、そりゃそうか……この建物を２人でキレイに掃除とかしてたら、他のこと何も出来ないよね」
-＃桔梗
-「それはそうなのですが……実際の所この宿はそれほど繁盛していないので、あまり人が居てもやる事がなかったりするわけなのですが」
-＃重明
-「……昨日初めて来たばかりの客が言うのも何なんだけど……この宿、経営とか大丈夫なわけ？」
-＃桔梗
-「平気ですよ、そもそも半分趣味みたいなものですから」
-＃重明
-「そうなの？」
-＃桔梗
-「無料というわけではありませんが、基本的に儲けは度外視でやっています」
-＃重明
-「……ああ、もしかして金持ちの道楽とか、税金対策ってやつ？　……もしくはどこかの会社の慰安施設として契約しているとか」
-＃桔梗
-「まさにそれですね」
-＃重明
-「……なるほど……」
-山奥のペンションにしては妙に豪勢だと思ったが、道楽や慰安施設というなら納得もいく。
-＃重明
-「ちなみに、他のバイトの子も……そうやってメイド服着るのかな？」
-＃桔梗
-「そうですね」
-＃重明
-「……そのバイトの子はみんな可愛い？」
-＃桔梗
-「それなりに可愛いと思いますよ……全員、歳も私ぐらいですし」
-＃重明
-（ふむ……メイド喫茶ならぬメイドペンションか……何か急にこの宿、案外リピート率いいんじゃないかって気がしてきたぞ）
-だが流行らすには少々山奥過ぎる……もう少し大通りの方がいいかもしれない。
-＃重明
-（まぁそもそも道楽っぽいし、儲けなくていいのか）
-＃桔梗
-「では雑談はこの辺にして……暖房器具ですが、外の倉庫に纏めて仕舞ってあるので少々お待ちください」
-＃重明
-（……外の倉庫……か……）
-ちらっと窓の外を見たが、相変わらずアホみたいに吹雪いている……
-いくら仕事とはいえ、こんな悪天候の中を女の子１人で行かせるわけにはいかない。
-＃重明
-「俺も行くよ……吹雪の中、桔梗ちゃんに怪我して欲しくないし」
-＃桔梗
-「お気遣いありがとうございます……結構重いので、とても助かります」
-＃重明
-「気にしないでいいって、んじゃ行こうか桔梗ちゃん」
-＃桔梗
-「はい、重明さん」
-・・・
-＃重明
-「うほっ！？」
-玄関から出た瞬間、横殴りの強い風と雪が顔に当たり……思わず変な声が出てしまった。
-＃重明
-（……ハハッ……ここまでくると、もう３月に雪は季節ハズレとか大した問題じゃないレベルの異常気象だな……）
-＃桔梗
-「……重明さん……倉庫は……建物沿いに右へ行った先にあります……」
-＃重明
-「……右か……じゃあ俺が前に出て壁になるから、桔梗ちゃんは後ろから付いてきて」
-＃桔梗
-「……わかりました、お願いします……」
-……身体の熱を奪う、冷たく重い風が吹き荒れる中……俺は積もった雪の中に、ズボリと右足をめり込ませていく。
-＃重明
-（うぁ……膝下まで足がめり込みやがった……一晩でどんだけ積もったんだよ）
-＃重明
-「桔梗ちゃん、結構深いから足元をとられて転倒しないよう注意して……もし倒れそうになったら、俺に掴まっていいから」
-＃桔梗
-「……は、はい……重明さんは……大丈夫ですか？」
-＃重明
-「まぁね……俺、スキーで結構雪が深い所とか平気で行くし……このぐらい余裕余裕……任せてっんお！？」
-＃重明
-「…………」
-＃桔梗
-「…………」
-……玄関を出て５歩ぐらいは歩いただろうか？
-突然強くなった無慈悲な横風により……俺はなす術もなく深い雪の中へボスッと倒れこんでしまっていた。
-＃重明
-（……つ、冷たい……）
-雪の中を歩くなんて余裕だと思ったのだが……膝下まで埋まると、思いのほか身体のバランスが取りにくい……まるで満員電車の中のよう。
-とりあえず上体を起こし大丈夫だと言おうとした所……
-……俺の耳に思いもかけない言葉が降りかかってきた。
-＃桔梗
-「……えっと……余裕ですか？　重明さん」
-＃重明
-「………………」
-……君を守る的な事を言った直後に、間抜けにも倒れこんだのだ……
-失態を弄るとしたら、まさにここしかないというポイント。
-だが……いかにも真面目そうな桔梗が、仮にも客である俺をおちょくるとは……思いもよらなかった。
-＃重明
-（……けど、これって……ようするに桔梗ちゃんが俺に打ち解けてきている証拠……って事なんじゃないか？）
-……普通なら親しくもない人間の失敗を、弄るような真似はしない……
-……そう、つまり桔梗は俺と仲良くなりたい……
-もしくは冗談を言い合うような友達になってもいいという、彼女なりの俺へのメッセージなのではないだろうか？
-＃重明
-（……ふっ……そういう話なら……ならこっちもそれに応えないとな！）
-そんな彼女の可愛らしい想い（妄想）に応える為……
-……俺は起き上がると同時に、勢いよく桔梗に飛び掛かった。
-＃桔梗
-「……は？」
-＃重明
-「ウェーーーーーーーイ！！！」
-……雪が降る中……友達２人のうち１人が雪塗れになったら、もう片方の運命など決まっている。
-俺は正面から桔梗にしっかり抱きつくと同時に、勢いよく雪の中へ飛び込んでいく。
-そして吹雪に包まれた一面の雪化粧を、大部屋にしかれた布団に見立て……ゴロゴロと転がり始めた……
-＃重明
-「ウェーーーーーーイ！！！　ウェーーーーーーーイ！！！」
-＃桔梗
-「………………………………………………………………………………………………………………………………」
-＃重明
-「ウェーーーーーーイ！！！　ウェーーーーーーーイ！！！　ウェーーーーーーーイ！！！」
-＃桔梗
-「………………………………………………………………………………………………………………………………………………………………………………………………」
-・・・
-２分ほど桔梗と共に雪の中を転げまわった後……
-俺達は倉庫へ行く目的を、結局果たせぬまま……ボロボロになりロビーへと戻ってきていた。
-＃桔梗
-「……げほ……げほ……」
-＃重明
-「……はは、雪やべー……あの状況で、外を歩くとか無理すぎ……はは……降りすぎだって……はは……あはははっ！」
-スキー場でウェアを着込んだ状態で深い雪に寝転んだ事はあるものの……こんな薄着で新雪に飛び込み、全身でボスボスと雪を潰したのは当然初めて。
-我ながら馬鹿っぽい事をしたなと思う所もあるが……それ以上にやりきった感が強い。
-そんな中……俺は自信に満ちた満面の笑みで、まだ床にしゃがみこんだままの桔梗に声をかけた。
-＃重明
-「いやぁ……楽しかったね、桔梗ちゃん♪」
-＃桔梗
-「むーーーーーーーーーー」
-＃重明
-「はっはっはっ」
-＃桔梗
-「……重明さん……よくそこまで悪びれず笑顔でいられますね……」
-＃重明
-「……あれ……もしかして本気で怒ってる？　……凄い嫌な目にあったと思ってるのなら……今すぐ真面目に謝るんだけど……」
-＃桔梗
-「……ふぅ……」
-＃桔梗
-「やり過ぎですし凄いビックリしましたけど……別に怒っては居ません……」
-＃重明
-「けどあんなに積もった雪の中をボスボス潰して転がるなんて、中々出来る事じゃないし……いい経験になったと思わないか？」
-＃桔梗
-「……確かに……細かい発泡スチロールに飛び込むみたいで新鮮な感覚でしたけど……流石にこの格好で二度目は嫌です」
-＃重明
-「俺もこの格好でもう一度は嫌だ……寒いし」
-＃桔梗
-「寒いのなんて初めからわかってる事じゃないですか……それなのに私を巻き込んで何でわざわざ飛び込んだんですか」
-＃重明
-「……いや雪ってテンションあがるじゃん？　しかも自滅して倒れちゃったのもあって、もういいかなって何となく勢いで」
-＃桔梗
-「……重明さんって、もう少し冷静な方かと思ったんですが……結構子供っぽいんですね」
-＃重明
-「まぁつい最近までジャリガキやってたわけだし……実際親元で学生やってるうちは、まだまだガキでいいんじゃないか？」
-そんな風に〆る感じで話の流れを切った後……俺は両手で挟むように桔梗の肩を持ち、床に座ったままになっていた彼女の身体をグッと持ち上げ立たせていく。
-ついでに身体に付着した雪や水滴をハンカチで叩き、乱れた服や髪も手早く整えてやった。
-＃重明
-「……まぁ取り合えずこんなものか……」
-＃桔梗
-「……どうも、ありがとうございます……」
-＃重明
-「服と髪が乱れたのは俺のせいだし、気にすんなよ」
-＃桔梗
-「……重明さんの方は、整えなくていいんですか？」
-＃重明
-「男だし、少しぐらい乱れててもいいさ……それで、外の倉庫に行くのは諦めるとして……暖房、どうしよっか」
-＃桔梗
-「そうですね……階段裏の小さい物置にも……あったような、なかったような……」
-＃重明
-「じゃあ早速そこに移動しようか」
-＃桔梗
-「わかりました」
-・・・
+When I entered the common room carrying the tray of empty dishes, Kikyou was there.
+$Shigeaki
+“Hard at work even this early, Kikyou-chan.”
+$Kikyou
+“Thank you very much, Shigeaki-san... what happened with that tray?”
+$Shigeaki
+“Good morning, Kikyou-chan.”
+$Kikyou
+“Good morning, Shigeaki-san... what happened with that tray?”
+$Shigeaki
+“Ah, this?”
+$Shigeaki
+“Actually, Kaho's not feeling so great right now... so I had Touko-san make something she could eat in the room. I'm just on my way back.”
+$Kikyou
+“Is that so... in that case, I will take care of it for you.”
+$Shigeaki
+“Thanks.”
+Taking the tray from me, Kikyou moved to the adjacent kitchen at the edge of the common room.
+In the common room where I was and the kitchen where Kikyou was, there was currently no one else besides the two of us.
+In a situation that felt almost like we had the place to ourselves... I spoke to Kikyou as she quickly began washing the dishes.
+$Shigeaki
+“By the way, we were planning to head home this afternoon... but with this blizzard, we've pushed our departure back to tomorrow.”
+$Kikyou
+“I see... it certainly would be dangerous to travel on mountain roads with snow piling up.”
+$Shigeaki
+“Right... so anyway, looks like we'll be in your care for another day, Kikyou-chan.”
+$Kikyou
+“Yes, please take your time and relax.”
+$Shigeaki
+“Thanks... so, thinking about blackouts or other emergencies, I was wondering if I could borrow some kind of heating equipment while we're at it... think we can manage that?”
+$Kikyou
+“My goodness.”
+$Shigeaki
+“Wait, why the 'my goodness'? I'm more surprised that you're surprised by that request.”
+$Kikyou
+“No... actually, early this morning I provided heating equipment to the other guests in case of an emergency...”
+$Shigeaki
+“But?”
+$Kikyou
+“There were some malfunctions and we didn't have enough... since Shigeaki-san's room is occupied by young people, I thought I would just leave you be until you said something.”
+$Shigeaki
+“Ah, true enough... if Kaho weren't sick, I probably wouldn't have bothered either.”
+$Kikyou
+“However, it is merely that they are not in a place where I can get them immediately... so there is no problem in preparing them for you.”
+$Shigeaki
+“I see, that's a relief... but Kikyou-chan, you're surprisingly easy to talk to.”
+$Kikyou
+“Am I?”
+$Shigeaki
+“Yeah. I thought you were more of a quiet, doll-like person... a super serious girl who only says formal stuff when she does speak.”
+$Kikyou
+“I am certainly not a noisy person... but as long as I am in a service industry, I would not be able to do my job if I were silent.”
+$Shigeaki
+“Well, yeah... running a pension with just two people is hard enough. If one employee were a literal doll... that'd be straight-up punishment game territory.”
+$Kikyou
+“...Well... I suppose so...”
+$Shigeaki
+(Hm? ...She's making a bitter face like she's actually experienced a situation like that... did something similar happen to her in the past?)
+$Kikyou
+“However, it is simply that the other employees are off today... it is not as if the two of us are constantly running the inn alone, you know?”
+$Shigeaki
+“Eh? Really? ...I thought Touko-san said she was doing it with her daughter.”
+$Kikyou
+“That is the base of it, yes.”
+$Kikyou
+“But naturally, a permanent two-person system is physically demanding, so we have several students who used to live in this dormitory come regularly as part-time workers.”
+$Shigeaki
+“Ah, that makes sense... if you two were trying to keep this whole building clean by yourselves, you wouldn't have time for anything else.”
+$Kikyou
+“That is true... but in reality, this inn is not that prosperous, so even if there are many people, there is often not much to do.”
+$Shigeaki
+“...I know it's a bit much coming from a guest who only arrived yesterday... but is the management of this place okay?”
+$Kikyou
+“It's fine. In the first place, it's half-hobby.”
+$Shigeaki
+“Is that so?”
+$Kikyou
+“It's not as if it's free, but basically we do it without regard for profit.”
+$Shigeaki
+“...Ah, maybe a rich person's pastime, or some kind of tax write-off? ...Or maybe you're under contract as a retreat facility for some company.”
+$Kikyou
+“That is exactly it.”
+$Shigeaki
+“...I see...”
+I thought it was strangely lavish for a pension deep in the mountains, but a pastime or retreat facility makes sense.
+$Shigeaki
+“By the way, do the other part-time girls... wear maid outfits like that too?”
+$Kikyou
+“They do.”
+$Shigeaki
+“...And are they all cute?”
+$Kikyou
+“I believe they are reasonably cute... they're all around my age.”
+$Shigeaki
+(Hmm... a maid pension rather than a maid cafe? I'm starting to think this place might have a surprisingly high repeat rate.)
+But it's a bit too far in the mountains for it to really catch on... maybe somewhere closer to the main road would be better.
+$Shigeaki
+(Well, it's a pastime anyway, so I guess they don't need to make a profit.)
+$Kikyou
+“Well then, let us put the small talk aside... regarding the heating equipment, it is all stored in the outdoor warehouse, so please wait a moment.”
+$Shigeaki
+(...The outdoor warehouse... huh...)
+I glanced out the window, but it was still snowing like crazy...
+Even if it's her job, I can't let a girl go out alone in weather like this.
+$Shigeaki
+“I'll go too... I don't want you getting hurt in the blizzard, Kikyou-chan.”
+$Kikyou
+“Thank you for your concern... it is quite heavy, so it will be a great help.”
+$Shigeaki
+“Don't worry about it. Let's go, Kikyou-chan.”
+$Kikyou
+“Yes, Shigeaki-san.”
+...
+$Shigeaki
+“Whoa!?”
+The moment I stepped out of the front entrance, a strong, sideways wind and snow hit my face... and a weird sound escaped my lips before I could stop it.
+$Shigeaki
+(...Haha... at this point, it's not even a matter of March snow being out of season. This is abnormal weather on a whole different level...)
+$Kikyou
+“...Shigeaki-san... the warehouse is... just past the building to the right...”
+$Shigeaki
+“...To the right... okay, I'll go ahead and be the windbreaker. You follow behind me, Kikyou-chan.”
+$Kikyou
+“...Understood, please do...”
+...Amidst the cold, heavy wind that stripped the heat from my body... I buried my right leg into the accumulated snow with a thud.
+$Shigeaki
+(Whoa... it's in up to my knee... just how much did it snow overnight?)
+$Shigeaki
+“Kikyou-chan, it's pretty deep, so be careful not to lose your footing and fall... if you feel like you're going to fall, you can grab onto me.”
+$Kikyou
+“...Y-yes... are you alright, Shigeaki-san?”
+$Shigeaki
+“Yeah... I go skiing in deep snow all the time, so... this is a piece of cake. Leave it to m-whoa!?”
+$Shigeaki
+"............"
+$Kikyou
+"............"
+...I'd walked maybe five steps from the entrance?
+Due to a sudden, merciless gust of wind... I fell helplessly into the deep snow with a thud.
+$Shigeaki
+(...C-cold...)
+I thought walking through the snow would be easy, but once you're buried up to your knees, it's unexpectedly hard to keep your balance... it's like being on a crowded train.
+For now, I tried to sit up and say I was okay...
+...when some unexpected words hit my ears.
+$Kikyou
+“...Um... is it a 'piece of cake'? Shigeaki-san.”
+$Shigeaki
+"............"
+...I'd fallen like a total idiot right after saying I'd protect her...
+If there was ever a point to tease me for a failure, this was it.
+But... I never expected someone as serious-looking as Kikyou to poke fun at me, even if I am a guest.
+$Shigeaki
+(...But, doesn't this... basically mean Kikyou-chan is opening up to me?)
+...Normally, you don't tease someone you're not close to for their mistakes...
+...Yes, in other words, Kikyou wants to get closer to me...
+Or maybe this is her way of messaging me that it's okay for us to be friends who joke around?
+$Shigeaki
+(...Heh... if that's the case... then I've gotta respond in kind!)
+To respond to her adorable feelings (delusion)...
+...I leaped at Kikyou the moment I stood back up.
+$Kikyou
+“...Huh?”
+$Shigeaki
+“WEYYYYYYYYY!!”
+...When two friends are in the snow and one gets covered in it, the fate of the other is already decided.
+I grabbed Kikyou in a firm embrace and dove headlong into the snow with her.
+Treating the pure white blanket of the blizzard like a futon spread out in a large room... I started rolling around...
+$Shigeaki
+“WEYYYY!!! WEYYYYYYYYY!!”
+$Kikyou
+"................................................................................................"
+$Shigeaki
+“WEYYYY!!! WEYYYYYYYYY!!! WEYYYYYYYY!!”
+$Kikyou
+"................................................................................................................................"
+...
+After rolling around in the snow with Kikyou for about two minutes...
+We returned to the lobby in a bedraggled state, without ever fulfilling our purpose of going to the warehouse.
+$Kikyou
+“...*Cough*... *cough*...”
+$Shigeaki
+“...Haha, the snow is crazy... trying to walk outside in that is impossible... haha... it's just too much... haha... hahahaha!”
+I've lain in deep snow at ski resorts while wearing gear, but this was naturally my first time diving into fresh snow with such light clothing and crushing it with my whole body.
+I think I did something pretty stupid, but more than that, I feel a strong sense of accomplishment.
+In the midst of that... with a beaming, confident smile, I spoke to Kikyou, who was still crouching on the floor.
+$Shigeaki
+“Man... that was fun, wasn't it, Kikyou-chan?♪”
+$Kikyou
+“Muuuuuuuuuuuuuu.”
+$Shigeaki
+“Hah-hah-hah.”
+$Kikyou
+“...Shigeaki-san... I'm impressed you can stay so unrepentant and keep smiling like that...”
+$Shigeaki
+“...Oh... are you actually mad? ...If you feel like you've been put through something terrible... I'll apologize seriously right now...”
+$Kikyou
+“...Fuu...”
+$Kikyou
+“You went too far and I was very surprised... but I am not particularly angry...”
+$Shigeaki
+“But crushing and rolling in snow that's piled up that high isn't something you get to do every day... don't you think it was a good experience?”
+$Kikyou
+“...It certainly felt fresh, like diving into fine Styrofoam... but I have no desire for a second time in this outfit.”
+$Shigeaki
+“I don't want a second time in this outfit either... it's cold.”
+$Kikyou
+“You knew it would be cold from the start, didn't you... so why did you drag me into it and dive in on purpose?”
+$Shigeaki
+“...Well, doesn't snow just get you hyped? And since I'd already messed up and fallen, I just went with the flow.”
+$Kikyou
+“...I thought you were a bit more composed, Shigeaki-san... but you're quite childish, aren't you.”
+$Shigeaki
+“Well, I was a little brat until just recently... and as long as you're a student living at home, I guess it's okay to still be a kid, right?”
+After cutting off the flow of the conversation with that kind of conclusion... I took Kikyou's shoulders in both hands and pulled her body up from where she was sitting on the floor, helping her stand.
+While I was at it, I patted off the snow and water droplets with a handkerchief and quickly tidied her disheveled clothes and hair.
+$Shigeaki
+“...Well, I guess that's about it...”
+$Kikyou
+“...Thank you very much...”
+$Shigeaki
+“Your clothes and hair getting messed up was my fault anyway, don't worry about it.”
+$Kikyou
+“...Don't you need to tidy yourself up too, Shigeaki-san?”
+$Shigeaki
+“I'm a guy, it's fine if I'm a bit messy... so, giving up on the outdoor warehouse, what should we do about the heating?”
+$Kikyou
+“Let's see... in the small storage closet behind the stairs... I think there might have been something, or perhaps not...”
+$Shigeaki
+“Then let's head there right away.”
+$Kikyou
+“Understood.”
+...
 --------------------
 NEYUKI06_02
 ********************
-俺達はお風呂場へ向かう通路の途中にある、物置へとやってきていた。
-＃桔梗
-「では中に入って探してきますので、重明さんはここで待っていてください」
-＃重明
-「俺も一緒に探そうか？」
-＃桔梗
-「いえ、ここの収納スペースは狭いですし、まずはモノを見つけるだけなので私１人で十分です」
-＃重明
-「そっか……じゃあ寂しいけど、桔梗ちゃんに任せて俺はここで留守番してるよ」
-＃桔梗
-「……直ぐ戻ってきます」
-＃重明
-「おう、いってらっしゃい」
-＃重明
-「…………」
-＃重明
-「……………………」
-＃重明
-「………………………………」
-＃重明
-「……ヒマだ」
-突っ立っているだけでやる事もない俺は、物置の中でゴソゴソと探し物をしている桔梗の姿をぼけっと眺め始めた。
-＃重明
-（しかし、メイド服とか興味なかったんだけど……結構エロいもんなんだな）
-……母性を感じさせるエプロン……清楚さを演出するロングスカート……
-それら女らしさが男のリビドーを刺激するポイント、といった所なのだろうか？
-暖房器具を探して前かがみになり……無防備にこちらへ突き出した丸い尻を見ていると……何だか無性にハメたくなってしまう。
-……しかもこう言っては非常に失礼なのだが……桔梗は気にいった相手なら、簡単にヤラせてくれそうな……ゆる～い感じの空気を持っているような気がしてならない……
-＃重明
-「……ゴクッ……」
-＃重明
-（……ああ、いかんいかん……フリーの時ならいざ知らず、今は華穂が居るってのに……見境なくサカってどうする……）
-……ムラムラとし始めた気持ちをクールダウンさせる為、視線を逸らした所……見知った顔がこちらへ近づいてくるのが見えた。
-＃尚人
-「……また会ったな」
-＃重明
-「……よお」
-本日２度目の尚人との遭遇……やはりまた先程のように、早く出て行けとか桔梗と付き合えなどと……わけのわからない事を言ってくるのだろうか？
-＃尚人
-「あれから桔梗とは仲良くなったか？」
-＃重明
-（……やっぱり言ってきたか……）
-別に尚人に言われたから桔梗と仲良くしているわけではないのだが……何だか手のひらで踊らされているようで、何となく腹立たしい。
-だからと言ってヘソを曲げ、あえて嘘を言うのも格好が悪い……ここは正直に言ってやるとしよう。
-＃重明
-「ああ、さっきアンタと話した時よりは仲良くなったぞ……今も一緒に居て、こうして暖房器具を探しているわけだし」
-＃尚人
-「……暖房？　……そんなもの探してどうする」
-＃重明
-「あんたってホントおかしなこと言うよな……昨日の夜からずっと吹雪いてるんだぞ？　……いつ停電しても大丈夫なようにする為に決まってるだろうが」
-＃尚人
-「ふむ……まぁそれがしたいというなら止めはしない……地下のステージの裏に小さいストーブが一台放置されているはずだ……そいつを使うといい」
-＃重明
-（……地下のステージ？　……このペンションにはそんなものがあるのか……）
-＃重明
-「……そいつはマジな情報なのか？」
-＃尚人
-「俺がお前に嘘を言う理由があるのか？」
-＃重明
-「……昨日、初めて顔を合わせた時の険悪なムードを考えたら……嫌がらせをされてるって勘ぐっても、無理はない話だと思うんだが」
-＃尚人
-「あれはお前を見た瞬間、らしくもなく攻撃的になっただけだ……あまり気にするな」
-＃重明
-「……顔を見ただけで腹が立つとか、どんだけ俺の第一印象は悪かったんだよ……まあいいけど」
-＃尚人
-「では引き続き桔梗の事を頼んだぞ」
-＃重明
-「……いやいや、頼むって……お前は桔梗のお父さんか何かか？」
-こちらの突っ込みも待たず自分勝手に立ち去る尚人……そんな可愛げのない野郎と入れ替わるように、とても可愛らしいメイドが物置から出てきた。
-＃重明
-「おかえり、桔梗ちゃん」
-＃桔梗
-「ただいまです、重明さん……よく探してはみたのですが、残念な事にどうやらここに暖房器具はないみたいです」
-＃重明
-「お疲れ……その暖房なんだけど、今ここを通った何だかワケのわからないオッサンが地下のステージ裏にあるって教えてくれたよ」
-＃桔梗
-「……はぁ……ワケのわからないオッサンですか……」
-＃重明
-「そう……そいつ何故か昨日来たばかりの俺に、桔梗ちゃんと仲良くしろって言ってくるんだよ……かなり意味不明だろ？」
-＃桔梗
-「………………はぁ……それは確かに……わけがわかりませんね……」
-＃重明
-「まぁそもそも、別に誰かにそんなこと言われなくても……俺は最初から桔梗ちゃんと仲良くなる気なんだけどね」
-＃桔梗
-「……」
-＃重明
-「という事で俺ともっと仲良くなろう……改めて、そしてこれからよろしく、桔梗ちゃん」
-＃桔梗
-「……どうも……よろしくお願いします」
-友好の証として取り合えず勝手に手を握り何度かニギニギした後……続けて何となく、流れで軽くハグを交わしていく。
-＃桔梗
-「…………」
-＃重明
-（くす葉あたりなら【にょああぁ！！】とか叫ぶだろうに……このノーリアクション……反応が薄すぎて、イマイチ何を考えてるかわかりにくい子だな……）
-＃重明
-「よし交友も軽く深めたし、情報を貰った地下とやらに行ってみようか」
-＃桔梗
-「わかりました」
-・・・
-談話室から更に奥へと続く通路を抜け、暗がりの階段を降りると……明らかに他の場所とは雰囲気の違う部屋へと、俺は足を踏み入れていた。
-暗めの照明、部屋に設置された丸テーブルと立派なソファは、どこかキャバクラを連想させる。
-そして部屋の奥にはステージ……全体をぱっと見た感じ……くつろぎながら何かの催し物を見る施設といった所だろうか？
-＃重明
-（……しかし風呂場といい、ここといい……山奥の宿にしては、えらい金が掛かってるな……流石は金持ちの道楽ってヤツか？）
-＃重明
-「桔梗ちゃん、ここは団体客用の宴会場か何かなの？」
-＃桔梗
-「団体というか会員用ですね……表のお客さんを通す事はほとんどないので」
-＃重明
-「へぇ……じゃあここはその会員が泊まってる時に、あのステージで催しモノをやって客を楽しませるわけだ」
-＃桔梗
-「そうですね」
-何となくここの客の雰囲気に浸りたくなり、俺はソファに腰を下ろしてみた。
-＃重明
-（フカフカだ……横になったら凄い気持ち良さそうだな）
-＃重明
-「ちなみに……どんな催し物をやるのかな？」
-＃桔梗
-「……………………」
-俺の何気ない質問を受け……あまり表情を変えない桔梗が、少しだけ顔を強張らせる。
-……そしてほんの数秒の沈黙の後……彼女の口から……想像だにしない言葉が出た。
-＃桔梗
-「ステージでの催し物の大半は、調教ショーです」
-＃重明
-「……………………」
-＃重明
-「……へ……調教？」
-真っ先に頭に浮かんだのは犬の躾。
-……その繋がりと言った感じで、俺の脳内にパッと首輪をつけた女性の姿が浮かび上がる。
-＃重明
-「それって、犬とか動物じゃなく……人相手の性的な行為って事かな？」
-＃桔梗
-「そうですよ」
-＃重明
-「……うへ……」
-昨日の風呂場で見た桔梗と客の絡み……金持ちの道楽で運営されるペンション……会員限定で行われる地下室での調教ショー。
-それらの情報を経て……俺はここがどういう場所なのか……薄っすらと理解し始めていた。
-＃重明
-「……えっと……ちなみに桔梗ちゃんも、あのステージに立って調教されたりするわけ？」
-とりあえずここがどういう施設かというのは置いておいて……正面のステージで桔梗がエロい事をする催し物があるというなら、正直興味がある。
-いったい……いくらで見れるのだろうか？
-＃桔梗
-「私はまだステージに立った事はないですね……昨日みたいに要望があればお客様に奉仕はしますが……基本的に事務や雑用がメインですから」
-＃重明
-「奉仕って……本番あり？　それともなし？」
-＃桔梗
-「本番はなしです」
-＃重明
-「ないのか……じゃあ桔梗ちゃん、もしかして処女とか？」
-＃桔梗
-「そうですよ、膜もありますし……疑うようでしたら直接見ますか？」
-＃重明
-「いやいや！？　……見たいけど見ないって……」
-桔梗が立ち上がりロングスカートに手をかけようとした所で、俺は慌てて彼女の手を掴み、行動を停止させる。
-＃重明
-（って……止めなかったら本気で見せる気だったのかよ……）
-＃桔梗
-「見たいのに、いいんですか？」
-＃重明
-「……あ、ああ……何かここで見たら流れで桔梗ちゃんとＨしちゃいそうだから……今度そういう機会があったらでいいよ」
-＃桔梗
-「そうですか」
-こんな過激な流れでも、表情一つ変えてこない……どうやら桔梗は、性的な事に対しかなり寛容な考えの持ち主のようだ。
-＃重明
-（……まぁそもそも……性に寛容じゃなきゃ、オッサンと股間弄りあったり調教ショーとかやる場所で働いてないか……）
-＃重明
-「……う～ん、調教ショーか……ＳＭショーとかと似たようなものなのかな……」
-＃桔梗
-「やはり嫌悪感を感じますか？」
-＃重明
-「……まぁ正直に言うとちょっと引いたけど……実際どんな感じなのか、後学のためにも一度ぐらいは見てみたいかな」
-＃桔梗
-「今日の午後に開催予定ですけど、重明さん見られますか？」
-＃重明
-「いやいや、確かに見てみたいけど……外は吹雪なんだぜ？」
-＃桔梗
-「そうですね」
-＃重明
-「そうですねって……この天候じゃ客もステージに立つ人間も、この宿に来れないだろうが」
-＃桔梗
-「お客さんは確かに雪のせいでキャンセルした方も居ましたが、他は問題ありません」
-＃重明
-「じゃあ……観客は昨日の泊まり客として……ステージに立つ人も、もう来ているって事？」
-＃桔梗
-「はい……昨日の昼過ぎに来て、夜から今朝まで入念な準備をされていたようです」
-＃重明
-「……昨日の昼過ぎ……そんな人居たっけ？」
-＃桔梗
-「居たも何も……重明さん昨日、その方と一緒にお風呂へ入って居たじゃないですか」
-＃重明
-「………………は？」
-……昨日の昼、一緒に風呂に入った人物……
-一瞬恋人の華穂の顔が浮かんだが、即ありえないとその考えを叩ききった。
-……当然自分でもない事を考えると、残るのはただ１人……
-＃重明
-「その女の子って……もしかして、くす葉ちゃんの事？」
-＃桔梗
-「はい、そうです」
-＃重明
-（……おいおい……そんな馬鹿な……だって調教ショーだろ？）
-＃重明
-「いや、それ絶対何かの間違いだって……だってあの子は、どう見たって普通の素人だろうが……それなのに調教ショーとか……難易度高すぎだろうが……」
-＃桔梗
-「調教ですから、別に女の子の練度は関係ないと思いますけど」
-＃重明
-「いや、そうだけど……そもそも素人の女の子を、こういったショーに出しちゃマズくないか？」
-＃桔梗
-「初めは誰もが素人です」
-＃重明
-「そういう事じゃなくてだな……調教ショーだぞ？　……そういうのはだな……」
-＃桔梗
-「同意かそうでないかという話であれば、くす葉さんの同意は得ていますよ？」
-＃重明
-「……くす葉の……同意を得ている？」
-＃桔梗
-「はい、その為に……彼女はこの宿に来たわけですから」
-＃重明
-（……くす葉は調教ショーを受けるために……この宿に来た？）
-……くす葉は親に言われたバイトをする為に、この宿へ来たと言っていた。
-それにそもそも、よく考えると若い女が宿に呼ばれるバイトと言えば、その宿で働くか賑やかしのコンパニオン……あとは性的な仕事しかない気がする。
-＃重明
-「じゃあ何か？　……くす葉ちゃんをここにバイトで寄越した親は、くす葉ちゃんがどんな目に遭うかわかって……この宿に寄越したって事か？」
-＃桔梗
-「そもそもバイトじゃありません、くす葉さんは親の借金で身売りされたんです」
-＃重明
-「は、はぁ！？　身売り？　……いやいや……江戸時代の吉原じゃあるまいし……今の時代そんな事あるわけないだろうが……」
-＃桔梗
-「確かに時代は変わりましたが風俗業は今もあるじゃないですか」
-＃重明
-「いや、そうだけどさ……けど今の時代は、もっとこう……ＡＶとか風俗で、気楽な感じでお金を稼げるもんなんじゃないの？」
-＃桔梗
-「……身体を売る女の人の誰もが、楽にお金を稼ぐ為にやっている……重明さんは本気でそう思っているんですか？」
-＃重明
-「…………」
-＃桔梗
-「……若い彼女達は他の選択肢があったのに……誰もが誰も、喜んで身体を売る仕事を選んだと言うんですか？」
-＃重明
-「……いや……その……」
-比較的裕福な家庭で今まで過ごしてきたとはいえ……俺だって借金が理由で仕方なく風俗に身を堕とす女性が居る事は知っている。
-そんな人達の事情を無視して【気楽にやっている】などと言えば……実際、そういう世界で働く桔梗が腹を立てるのは無理もない話。
-＃重明
-「……そうだな……嫌でも仕方なくやっている人も居る……ゴメン……我ながらデリカシーのない発言だったと思う」
-＃桔梗
-「わかって頂ければいいです」
-＃重明
-「……けど、桔梗ちゃんも真剣に怒るんだね……もっと何事もふわっとして争いとか嫌いそうなタイプだと思ってたから……ちょっとビックリしちゃったよ」
-＃桔梗
-「……間接的とはいえ、仕事仲間や母の境遇を馬鹿にされるような発言をされれば……私だって本気で怒りますよ」
-＃重明
-「……うん……」
-＃重明
-「……って、母？　……藤子さんの境遇？？」
-＃桔梗
-「はい、私の母も親によってお金持ちの家に売られました」
-＃重明
-「……はあ……そう……なんだ……」
-＃桔梗
-「そうなんです」
-＃重明
-「………………」
-この地下室に来てから、余りに色々と衝撃的な事を聞かされ過ぎた結果……情報を処理しきれず、俺の頭はオーバーヒート寸前といった感じになっている。
-……これは一度、話題を切って……物事を整理する時間が必要かもしれない。
-＃重明
-「とりあえず……あれだ……」
-＃桔梗
-「何でしょうか」
-＃重明
-「取り合えず、表の客……つまりくす葉のように売られたわけじゃない俺や華穂は、裏の客である会員から手出しされる心配はない……って考えてもいいのかな？」
-＃桔梗
-「当然です、会員は皆さん立場のある方々ですから……そんな事をして、ここや他でした行為を世間にバラされ警察沙汰になって困るのは自分自身」
-＃桔梗
-「この白花荘は、そういうルールを守れる方達の遊び場なので……重明さんが考えているような心配は、基本的にないと考えていいと思います」
-＃重明
-「怪しい薬で前後不覚になり、無関係な人間に傍若無人な振る舞いをするような野郎は居ないと？」
-＃桔梗
-「身体を壊す薬なんて将来を考えられない人間がする遊びですから、売りはしても自分で使う人はまず居ないですね」
-＃重明
-「じゃあ……誰にも気付かれないよう、こっそり寝てる無関係な客を襲う下種野郎とかは？」
-＃桔梗
-「…………誰にも気付かれないのなら、私が知るわけないじゃないですか」
-＃重明
-「……確かに……」
-＃桔梗
-「鍵を盗むかピッキングして部屋に侵入して、寝ている重明さんに気付かれず華穂さんを襲うか連れ出す人間が居たとしたら……」
-＃重明
-「居たら？」
-＃桔梗
-「そんな忍者みたいな相手、私には対処不能です……もはや諦めてください」
-＃重明
-「……だよね……けどさ、ＡＶとかにはある展開だけど実際出来るのかな？」
-＃桔梗
-「……医者だとか薬品に精通してて、寝ている相手に麻酔を打つとか……」
-＃重明
-「俺に麻酔を打っておいて【彼氏の命を守りたければ……分かるよな？】とかいって一晩華穂を自由にした後、口止めするとか？」
-＃桔梗
-「たとえ話だとしても、自分の恋人相手によくそんな酷い事を考えますね」
-＃重明
-「けどもしそんな事があれば、必ず態度に出るだろうからバレちゃうよな……じゃあ２人して麻酔を打たれて、意識のないまま淫らな事をされていたら？」
-＃桔梗
-「そんな事はありえないとは思いますが……仮にもしここの信用に泥を塗るような無法なマネを会員の方がして、それが発覚したとしたら……」
-＃重明
-「したら？」
-＃桔梗
-「重明さんと華穂さんに誠意を持って謝罪した後、その方には無法には無法という事で財産をふんだくり、そのお金で外国の怖い方に処理してもらう事にします」
-＃重明
-「何か今、凄いあっさりと怖いこといったね……」
-＃桔梗
-「それが嫌なら余所でやってくれという感じですね……そもそもお金を払って淫らな事をしにきているのに、何故他のものに手を出そうとするのかが理解不能です」
-＃重明
-「遊園地に来てスマホでゲーム始めるようなものか？」
-＃桔梗
-「いえ、寿司屋に来てハンバーガーを食べるようなものですね」
-＃重明
-「……それは理解不能というより、ただただ失礼なやつだな……」
-＃桔梗
-「まぁここの会員には、そんな頭の悪い方は居ないと思うので……重明さんのされている心配はまず大丈夫だと思ってもらっていいと思います」
-＃重明
-「……ふむ……」
-仮に桔梗の言う事が嘘で、実際には見境ない野郎が居たとしたら、当然華穂ほどの上玉を放置するはずがないだろう。
-俺達の予定は１泊２日……つまり手を出す気なら、昨日の夜のうちに手を出している事になる。
-そして先程考えたように、気付かぬ内に手を出されていたら完全にアウト……
-だが、仮にそんな事が起きていたとしても、それはもう既に過去の話……今の俺にはどうする事も出来ないだろう。
-＃重明
-「……わかった、取り合えず今は大丈夫という桔梗ちゃんの言う事を信じるよ」
-＃桔梗
-「ありがとうございます」
-＃重明
-「よし……じゃあ雑談はこの辺にして、ステージ裏にあるっていう暖房器具を探そうか」
-＃桔梗
-「そうですね」
-とりあえず目的の場所であるステージ裏とやらは桔梗に任せ……俺は部屋を適当に眺め、ここで得た情報を頭の中で整理していく。
-この宿がヤバイ場所なのは間違いないが、働く桔梗は根っからの悪人という感じはしない……
-それにどの道、吹雪で宿から出れないのだ……今は無闇に華穂の身を心配する必要はないだろう。
-＃重明
-（……しかし……桔梗ちゃんって、一体何者なんだろう……）
-母親である藤子は金持ちに売られ、その母と共に淫らな山の中の宿を経営する謎の娘、桔梗……
-そんな悲惨な環境で生きているというのに……品のある外見や落ち着いた言動を見る限り、まるでどこぞの令嬢といった雰囲気がある。
-＃重明
-（……本当に謎だ……華穂とはまた違ったベクトルで、浮世離れしてるよな……この子は……）
-そんな謎の美少女桔梗の事を、自分なりに理解しようとしていると……ふと頭の片隅に、同じくよく分からない男……尚人の顔が浮かび上がった。
-＃重明
-（……華穂の元担任って言ってたけど……桔梗ちゃんの事、よく知ってるみたいだし……アイツもこの宿の裏の客なのか？）
-だが、もし淫らな事をしに来た客だというなら……何故あの男は俺に、桔梗と仲良くしろなどと……意味のわからない事を言ってきたのだろう。
-＃重明
-（……仲良くなって、この非常識な世界から彼女を救い出せってか？　……いやいや、それなら学生の俺より、社会人のヤツの方が適任だろうが……）
-そんな事を１人考えていた所……ステージの奥に行っていた桔梗が、四角いストーブを持ってこちらへ近づいてきた。
-＃桔梗
-「ありました……小さいので７畳ぐらいしか温まらないヤツですけど」
-＃重明
-「確かに小さいけど、形はいかにもって感じのストーブじゃないか……十分十分」
-＃桔梗
-「このままタンクに石油を入れて運ぶと重いので……本体とタンクは別々に運ぶ形で、重明さんには手伝ってもらいたいのですが……よろしいでしょうか？」
-＃重明
-「おう、もちろん……じゃあ重くて持ち難そうな本体の方を俺が持つよ」
-＃桔梗
-「ありがとうございます」
-・・・
+We had come to the storage closet in the middle of the passage leading to the bathroom.
+$Kikyou
+“I will go inside and look, so Shigeaki-san, please wait here.”
+$Shigeaki
+“Should I help you look?”
+$Kikyou
+“No, the storage space here is narrow, and since it is just finding the items first, I am enough on my own.”
+$Shigeaki
+“I see... well, it's lonely, but I'll leave it to you, Kikyou-chan, and keep watch here.”
+$Kikyou
+“...I will be right back.”
+$Shigeaki
+“Sure, see you then.”
+$Shigeaki
+"............"
+$Shigeaki
+".................."
+$Shigeaki
+"........................"
+$Shigeaki
+“...I'm bored.”
+With nothing to do but stand there, I began to vacantly watch Kikyou fumbling around looking for things inside the closet.
+$Shigeaki
+(Still, I never had an interest in maid outfits... but they really are pretty erotic, aren't they?)
+...The apron that made me feel motherhood... the long skirt that created an air of refinement...
+Is it those points of femininity that stimulate a man's libido, I wonder?
+Watching her round ass thrust toward me defenselessly as she leaned forward to look for the heater... I felt a sudden, intense urge to fuck her.
+...And, it's very rude to say this, but... I can't help but feel Kikyou has this loose air about her, like she'd easily let you have your way with her if she liked you...
+$Shigeaki
+“...*Gulp*...”
+$Shigeaki
+(...Ah, no, no... if I were single it'd be one thing, but Kaho's right here... I can't just be going into heat indiscriminately...)
+...To cool down my rising feelings, I averted my gaze, and I saw a familiar face approaching.
+$Naoto
+“...We meet again.”
+$Shigeaki
+“...Yo.”
+My second encounter with Naoto today... is he going to say something nonsensical again, like telling me to leave quickly or date Kikyou?
+$Naoto
+“Have you gotten closer to Kikyou since then?”
+$Shigeaki
+(...I knew he'd say that...)
+It's not like I'm getting close to Kikyou just because Naoto told me to... but being treated like I'm dancing in the palm of someone's hand is somewhat irritating.
+That said, it'd be uncool to get petty and tell an obvious lie... I might as well be honest.
+$Shigeaki
+“Yeah, we're closer than when I talked to you earlier... we're together now, looking for a heater like this.”
+$Naoto
+“...A heater? ...What are you doing looking for something like that?”
+$Shigeaki
+“You really do say the strangest things... it's been a blizzard since last night, you know? It's obviously to make sure we're okay whenever the power goes out.”
+$Naoto
+“Hmm... well, if that is what you wish to do, I will not stop you... there should be a small stove left behind the stage in the basement... you should use that.”
+$Shigeaki
+(...A stage in the basement? ...Does this pension have something like that?...)
+$Shigeaki
+“...Is that real info?”
+$Naoto
+“Do I have any reason to lie to you?”
+$Shigeaki
+“...Given the hostile mood when we first met yesterday... I think it's only natural to suspect I'm being messed with.”
+$Naoto
+“That was simply me becoming uncharacteristically aggressive the moment I saw you... do not worry about it too much.”
+$Shigeaki
+“...Getting angry just by looking at my face, just how bad was my first impression... well, whatever.”
+$Naoto
+“Well then, I continue to leave Kikyou to you.”
+$Shigeaki
+“...No, no, 'leave her to me'... are you Kikyou's father or something?”
+Without waiting for my retort, Naoto walked away selfishly... and as if switching places with that uncharming guy, a very cute maid came out of the closet.
+$Shigeaki
+“Welcome back, Kikyou-chan.”
+$Kikyou
+“I'm back, Shigeaki-san... I looked thoroughly, but unfortunately it seems there are no heaters here.”
+$Shigeaki
+“Good work... about that heater, some weird middle-aged guy who just passed by told me there's one behind the stage in the basement.”
+$Kikyou
+“...Hah... a weird middle-aged guy, is it...”
+$Shigeaki
+“Yeah... for some reason he keeps telling me, who only arrived yesterday, to get close to you, Kikyou-chan... makes zero sense, right?”
+$Kikyou
+“..............Hah... that certainly... does not make sense...”
+$Shigeaki
+“Well, even if nobody told me to do that... I was planning on getting close to you from the start anyway, Kikyou-chan.”
+$Kikyou
+"..."
+$Shigeaki
+“So let's get even closer. Once again, and from now on, nice to meet you, Kikyou-chan.”
+$Kikyou
+“...Likewise... I look forward to working with you.”
+As a sign of friendship, I took her hand without permission and gave it a few squeezes... then, just naturally following the flow, I gave her a light hug.
+$Kikyou
+"............"
+$Shigeaki
+(If it were Kusuha, she'd be screaming [Nyoaaa!!] or something... but this zero reaction... she's so unresponsive, it's hard to tell what she's thinking...)
+$Shigeaki
+“Alright, now that we've deepened our friendship a bit, let's head to this basement place I heard about.”
+$Kikyou
+“Understood.”
+...
+Passing through a passage that led further back from the common room and descending a dim staircase... I stepped into a room with an atmosphere clearly different from anywhere else.
+The dim lighting, and the round tables and lavish sofas installed in the room, somehow reminded me of a hostess club.
+And at the back of the room was a stage... from the look of the whole thing... it was likely a facility for watching some kind of performance while relaxing?
+$Shigeaki
+(...But between the bath and this place... they've spent a hell of a lot of money for an inn in the mountains... as expected of a rich person's pastime?)
+$Shigeaki
+“Kikyou-chan, is this a banquet hall for groups or something?”
+$Kikyou
+“It's for members rather than groups... we hardly ever show the public guests through here.”
+$Shigeaki
+“Heh... so this is where they have performances on that stage to entertain the guests when the members are staying.”
+$Kikyou
+“That is correct.”
+Somehow wanting to soak in the atmosphere of the guests here, I sat down on a sofa.
+$Shigeaki
+(It's soft... it looks like it'd feel great to lie down here.)
+$Shigeaki
+“By the way... what kind of performances do you do?”
+$Kikyou
+"........................"
+Receiving my casual question... Kikyou, who doesn't change her expression much, tensed her face slightly.
+...And after a few seconds of silence... words I never could have imagined came from her mouth.
+$Kikyou
+“Most of the performances on stage are training shows.”
+$Shigeaki
+"........................"
+$Shigeaki
+“...Eh... training?”
+The first thing that came to mind was dog discipline.
+...Following that connection, a vision of a woman wearing a collar flashed through my mind.
+$Shigeaki
+“Does that mean... not dogs or animals, but... sexual acts with humans?”
+$Kikyou
+“That is correct.”
+$Shigeaki
+“...Ugh...”
+The interaction between Kikyou and the guest I saw at the hot spring yesterday... the pension run as a rich person's pastime... the training shows in the basement for members only.
+With those pieces of info... I was starting to vaguely understand what kind of place this was.
+$Shigeaki
+“...Um... by the way, do you stand on that stage and get trained too, Kikyou-chan?”
+Setting aside for a moment what kind of facility this was... if there was a performance where Kikyou did erotic things on that stage in front, I was honestly interested.
+Just... how much would it cost to see?
+$Kikyou
+“I have not stood on the stage yet... I will serve the guests if there is a request like yesterday... but basically my main duties are administration and odd jobs.”
+$Shigeaki
+“Service... as in, do you go all the way? Or not?”
+$Kikyou
+“Not all the way.”
+$Shigeaki
+“You don't, huh... so Kikyou-chan, are you maybe... a virgin?”
+$Kikyou
+“I am, yes. I have my membrane... and if you doubt me, would you like to see for yourself?”
+$Shigeaki
+“No, no!? ...I mean, I want to see, but I won't...”
+Just as Kikyou stood up and reached for her long skirt, I hurriedly grabbed her hand and stopped her.
+$Shigeaki
+(Wait... she was actually going to show me if I hadn't stopped her...)
+$Kikyou
+“Even though you want to see, are you sure?”
+$Shigeaki
+“...A-ah... yeah... because I feel like if I see it here, I'll end up having sex with you, Kikyou-chan, just from the mood... so maybe some other time.”
+$Kikyou
+“I see.”
+Even with such an extreme flow, she didn't change her expression once... apparently Kikyou has a very liberal attitude toward sexual matters.
+$Shigeaki
+(...Well, I guess if you weren't liberal about sex, you wouldn't be working at a place where you fumble with cocks with middle-aged guys or perform training shows...)
+$Shigeaki
+“...Hmm, a training show... is it like an SM show or something?”
+$Kikyou
+“Do you feel a sense of aversion, after all?”
+$Shigeaki
+“...Well, to be honest I was a bit put off... but I'd like to see what it's actually like at least once, just for future reference.”
+$Kikyou
+“There is one scheduled for this afternoon. Would you like to see it, Shigeaki-san?”
+$Shigeaki
+“No, no, I'd like to see it, but... look at the blizzard outside.”
+$Kikyou
+“That is true.”
+$Shigeaki
+“What do you mean 'that is true'... in this weather, neither the guests nor the performers could even get to this inn.”
+$Kikyou
+“There were some guests who canceled because of the snow, but there are no problems for the others.”
+$Shigeaki
+“Then... the audience are yesterday's staying guests... and the performer is already here too?”
+$Kikyou
+“Yes... she arrived yesterday afternoon, and it seems she was undergoing thorough preparations from last night until this morning.”
+$Shigeaki
+“...Yesterday afternoon... was there someone like that?”
+$Kikyou
+“Of course there was... you were in the bath with her yesterday, weren't you, Shigeaki-san?”
+$Shigeaki
+“..................What?”
+...The person I was in the bath with yesterday afternoon...
+Kaho's face flashed in my mind for a split second, but I immediately shot that down as impossible.
+...Naturally, considering it wasn't me either, there was only one person left...
+$Shigeaki
+“That girl... is it... Kusuha-chan?”
+$Kikyou
+“Yes, that is correct.”
+$Shigeaki
+(...Hey now... that can't be... I mean, a training show?)
+$Shigeaki
+“No, that's definitely some kind of mistake... I mean, no matter how you look at her, she's just a normal amateur, right? And a training show... that's way too high level...”
+$Kikyou
+“It is training, so I do not think the girl's proficiency matters.”
+$Shigeaki
+“No, well, yeah... but in the first place, isn't it bad to put an amateur girl in a show like this?”
+$Kikyou
+“Everyone is an amateur at first.”
+$Shigeaki
+“That's not what I mean... it's a training show, you know? That kind of thing is...”
+$Kikyou
+“If you are asking if it is consensual or not, we have obtained Kusuha-san's consent, you know?”
+$Shigeaki
+“...You obtained... Kusuha's consent?”
+$Kikyou
+“Yes. After all... that is why she came to this inn.”
+$Shigeaki
+(...Kusuha came to this inn... to be in a training show?)
+...Kusuha had said she came to this inn for a part-time job her parents told her about.
+And anyway, when I think about it, a part-time job where a young woman is called to an inn... it's either working at the inn, being a companion to liven things up... or sexual work.
+$Shigeaki
+“Then what? ...The parents who sent Kusuha-chan here as a part-timer... sent her here knowing exactly what was going to happen to her?”
+$Kikyou
+“In the first place, it is not a part-time job. Kusuha-san was sold to cover her parents' debt.”
+$Shigeaki
+“H-hah!? Sold? ...No, no... this isn't Yoshiwara in the Edo period... there's no way that happens in this day and age...”
+$Kikyou
+“The times have indeed changed, but the sex industry still exists, does it not?”
+$Shigeaki
+“Well, yeah, but... in this day and age, isn't it more like... you can make money easily through AV or soaplands?”
+$Kikyou
+“...Do you truly believe, Shigeaki-san... that every woman who sells her body does so to make money easily?”
+$Shigeaki
+"............"
+$Kikyou
+“...Are you saying that these young girls had other options... and each and every one of them chose the job of selling their bodies of their own free will?”
+$Shigeaki
+“...No... well...”
+Even though I've lived in a relatively wealthy home... even I know that there are women who fall into the sex industry out of necessity because of debt.
+If I said they were [doing it easily] while ignoring the circumstances of people like that... it's only natural that Kikyou, who actually works in that world, would be angry.
+$Shigeaki
+“...You're right... there are people who do it because they have no choice, even if they hate it... I'm sorry... that was a very tactless thing for me to say.”
+$Kikyou
+“I appreciate your understanding.”
+$Shigeaki
+“...But, you can actually get seriously angry, Kikyou-chan. I thought you were the type who was always soft about everything and hated conflict... so I was a bit surprised.”
+$Kikyou
+“...Even if it is indirect, if someone makes remarks that mock the circumstances of my mother or my colleagues... I will get truly angry.”
+$Shigeaki
+“...Yeah...”
+$Shigeaki
+“...Wait, mother? ...Touko-san's circumstances??”
+$Kikyou
+“Yes. My mother was also sold to a wealthy home by her parents.”
+$Shigeaki
+“...I... see... is that... so...”
+$Kikyou
+“It is.”
+$Shigeaki
+".................."
+Since coming to this basement, I've been told too many shocking things... as a result, I'm unable to process the info, and my head feels like it's on the verge of overheating.
+...I might need to cut the topic for a moment... and take some time to organize things.
+$Shigeaki
+“For now... well...”
+$Kikyou
+“What is it?”
+$Shigeaki
+“For now, can I assume that public guests... like me and Kaho, who weren't sold like Kusuha... don't have to worry about being targeted by the members, who are the hidden guests?”
+$Kikyou
+“Of course. The members are all people of standing... if they were to do something like that and have their actions here or elsewhere exposed to the public and end up in a police matter, it would be they who are troubled.”
+$Kikyou
+“This Shirohana-sou is a playground for those who can follow such rules... so I believe the concerns you are having are basically non-existent.”
+$Shigeaki
+“There are no bastards who get high on some weird drug and behave arrogantly toward unrelated people?”
+$Kikyou
+“Drugs that destroy the body are a game for those who cannot think about the future. While some may sell them, there are almost none who use them themselves.”
+$Shigeaki
+“Then... what about some low-life who secretly attacks a guest while they're sleeping so no one notices?”
+$Kikyou
+“............If no one notices, how would I know?”
+$Shigeaki
+“...True enough...”
+$Kikyou
+“If there were someone who stole a key or picked a lock to break into a room and attacked or took Kaho-san away without you noticing while you were sleeping, Shigeaki-san...”
+$Shigeaki
+“If there were?”
+$Kikyou
+“I would be unable to deal with an opponent who was like a ninja... you would just have to give up.”
+$Shigeaki
+“...Right... but, that's a common plot in AVs, is it actually possible?”
+$Kikyou
+“...If they were a doctor or well-versed in medicine and gave someone an anesthetic while they were sleeping...”
+$Shigeaki
+“Giving me an anesthetic and then saying, [If you want to protect your boyfriend's life... you know what to do, right?] and then keeping her for a night and silencing her?”
+$Kikyou
+“Even if it is a hypothetical, you certainly think of terrible things to happen to your own girlfriend.”
+$Shigeaki
+“But if something like that happened, it would surely show in her attitude so it would be found out... what if both of us were given an anesthetic and had lewd things done to us while unconscious?”
+$Kikyou
+“I do not think such a thing is possible, but... if by any chance a member were to commit such a lawless act that dragged this place's credit through the mud, and it were discovered...”
+$Shigeaki
+“If it were?”
+$Kikyou
+“After apologizing sincerely to you and Kaho-san, we would meet lawlessness with lawlessness and take all of that person's assets, and then use that money to have some scary people from overseas dispose of them.”
+$Shigeaki
+“You just said something really scary in a very casual way...”
+$Kikyou
+“If they dislike that, they should do it elsewhere... in the first place, I cannot understand why someone who has paid money to come here and do lewd things would try to lay a hand on something else.”
+$Shigeaki
+“Like going to an amusement park and starting a game on your smartphone?”
+$Kikyou
+“No, it is like going to a sushi restaurant and eating a hamburger.”
+$Shigeaki
+“...That's not so much incomprehensible as it is just plain disrespectful...”
+$Kikyou
+“Well, I do not believe there are any such stupid people among the members here... so I think you can rest assured that the concerns you are having are most likely unnecessary.”
+$Shigeaki
+“...Hmm...”
+If Kikyou were lying and there actually was some indiscriminate bastard, there's no way they'd leave a prize like Kaho alone.
+Our plan is for one night and two days... in other words, if they were going to make a move, they would have done it last night.
+And just as I thought earlier, if they'd made a move without us noticing, it's game over...
+But even if something like that had happened, it's already in the past... there's likely nothing I can do about it now.
+$Shigeaki
+“...Understood. For now I'll believe you when you say things are okay, Kikyou-chan.”
+$Kikyou
+“Thank you very much.”
+$Shigeaki
+“Alright... let's put the small talk aside and look for that heater that's supposed to be behind the stage.”
+$Kikyou
+“Very well.”
+For now, I'll leave the intended spot behind the stage to Kikyou... and I'll just look around the room and organize the info I've gained here.
+This inn is definitely a dangerous place, but Kikyou, who works here, doesn't feel like a bad person at heart...
+And anyway, we can't leave the inn because of the blizzard... there's no need to worry about Kaho's safety pointlessly right now.
+$Shigeaki
+(...But... who on earth is Kikyou-chan...)
+The daughter of Touko, who was sold to a rich man... a mysterious girl who helps her mother run a lewd inn in the mountains...
+And yet, despite living in such a tragic environment... judging from her refined appearance and calm speech, she has an air like a lady from some high-ranking family.
+$Shigeaki
+(...She really is a mystery... she's otherworldly in a different way from Kaho... this girl...)
+While I was trying to understand the mysterious beauty Kikyou in my own way... the face of another man who was just as hard to read—Naoto—flashed through my mind.
+$Shigeaki
+(He said he was Kaho's former teacher... but he seems to know Kikyou-chan well... is he a hidden guest at this inn too?)
+But if he's a guest who came to do lewd things... why would that man tell me to get close to Kikyou and things like that... which made zero sense?
+$Shigeaki
+(To get close and save her from this abnormal world? ...No, no, a socialite like him would be more suited for that than a student like me...)
+While I was thinking that to myself... Kikyou, who had gone to the back of the stage, approached me carrying a square stove.
+$Kikyou
+“Found it... it's a small one that can only heat about seven mats, though.”
+$Shigeaki
+“It's definitely small, but it looks exactly like a stove should... it's enough, it's enough.”
+$Kikyou
+“It will be heavy if we put kerosene in the tank and carry it as is... so I would like you to help me carry the main unit and the tank separately... would that be alright?”
+$Shigeaki
+“Yeah, of course... I'll take the main unit, since it's heavy and looks hard to hold.”
+$Kikyou
+“Thank you very much.”
+...
 --------------------
 NEYUKI06_03
 ********************
-地下室から地上へ戻ると……俺はタンクに燃料を入れに行った桔梗を待つため、空の石油ストーブと共に１人談話室にたたずんでいた。
-＃重明
-（……しかし……ただのイチャラブ旅行のはずが、何だこの非常識な状況は……）
-３月だというのに、外はアホみたいな吹雪でペンションから出る事が出来ない。
-……そしてその閉じ込められた場所の裏の顔は、会員制の淫らな施設。
-＃重明
-（まぁ普段何気なく利用してた場所が、実は怪しい奴等の溜まり場だった……なんて事は別に珍しい話じゃない……偶々運が悪かったって話だよな）
-そう……ただ施設がいやらしい場所というだけで、俺も華穂も特に被害は受けていない。
-問題があるとしたら、天候不順で宿から出れないだけなのだ。
-＃重明
-（まぁだとしても……大切な恋人と一緒にいる所としては、あまりいい気分の場所じゃないよな……ここは）
-事情を知った途端、今まで何の気兼ねもなく利用していたこの談話室ですら……気の抜けない異質な空間のように思えてならない。
-一人そんな事を悶々と考えていると……用事を済ませた待ち人がこちらへと近づいてきた。
-＃桔梗
-「お待たせしました」
-＃重明
-「……ああ……じゃあ行こうか」
-……事実を知りペンションへの印象は大きく変わったものの……
-桔梗に対しての印象は、正直あまり変わっていないような気がする。
-＃桔梗
-「……」
-＃重明
-（……そもそも、彼女はここの従業員であって……別に好き好んでくす葉に酷い事をする極悪人ってわけじゃないんだもんな……）
-そしてこの施設も、桔梗の話を信じるなら売られた女を扱うだけ……決して外から拉致してきたり、客を騙して襲うとかではないのだ。
-つまり俺にとって、桔梗が淫らな宿で働く従業員という事実は……彼女の評価を変えるほどの事ではなかったのだろう。
-＃重明
-（……まぁどっちかと言うと……俺がまだこの浮世離れした女の子……桔梗ちゃんの事を、それほど知らなかったって事なんだろうけど）
-華穂の身を心配する必要はない……桔梗の方も、不必要に警戒したり、彼女の境遇をあれこれ心配する必要はないように思える。
-そうなると……今、俺が一番気になるのは……やはりくす葉の境遇という事になる。
-もしかしたら今も、ここの客達の手によって、酷い目に遭っているのかもしれない。
-彼女の全てを把握しているわけではないが、男慣れをしている印象はなかった……恐らく男性経験はゼロといった所だろう。
-＃重明
-（……昨日の感じだと、親に売られた事を知ってたってわけじゃなさそうだし……桔梗ちゃんは同意とは言ったけど……快諾ってわけじゃあ……ないんだろうな……）
-だが確か法律上は、財産を相続していなければ親の借金を子が払う義務はなかったのではないだろうか？
-その辺の細かい部分は、正直よくはわからないのだが……勉強が出来る華穂なら、専門家ではないとはいえ少しは詳しい事を知っているかもしれない。
-＃重明
-（……まぁ仮に華穂が知っていたとしても……外は吹雪で助けも呼べず逃げれもしないんだ……いまは殆ど八方塞な事に変わりはないんだけど……）
-親に身売りされた可哀想なくす葉……
-助けてやりたい……そう思う反面、薄情だが身内の借金なら仕方がないという気持ちもなくはなかったりする。
-そもそも……くす葉は親に売られ、ここの客に金で買われたのだ。
-身内でも恋人ですらないのに……可哀想だからというだけで、他人の俺が介入していい問題ではないのは明らか。
-仮にとにかく気に入らないからと、ここで俺が暴れたとしても……それでくす葉の家の借金が帳消しになるわけではないのだ。
-＃重明
-（少なくとも一応は両者合意の上、行われている事らしいからな……そこへ俺が介入したら、くす葉とその家族に更に迷惑をかけるなんて事になりかねない……）
-それに桔梗は同意したと言っていた……
-もしそれが本当なら……くす葉は自分を売った親を見捨てず、身を切って借金を返す選択を選んだ……という事になる。
-＃重明
-（……自分を売る親なんて、さっさと見限って……誰かに助けを求めりゃあいいのに……アイツ馬鹿だなぁ……）
-だとしても……俺はくす葉と知り合い、彼女の事情を知ってしまった。
-自分達の安全が何より第一とはいえ、何もせず初めから諦めるというのは……俺の性分ではない。
-＃重明
-（……さてと……どうすっかな……）
-出来ればくす葉の件で、華穂を深く巻き込みたくない。
-そして俺一人で出来る事があるとしたら……恐らく暴れて皆に迷惑をかけるぐらいだろう。
-＃重明
-（暴れるのはリスクが高いから無しとして……そうなるとまぁ……第三者に協力を仰ぐ事になるんだよなぁ……）
-＃桔梗
-「……」
-被害者がくす葉で出来れば華穂を巻き込みたくない以上……俺の相談に乗ってくれそうな人物と言えば、いま傍にいる桔梗ぐらいしか思いつかない。
-＃重明
-（ここの関係者だし、協力してくれれば心強いのは間違いない……まぁそもそも協力してくれるかが……厳しい所ではあるんだけど……）
-何かをするにしても、もう少し色々と詳しい話を聞いておきたい。
-それにこれ以上１人であれこれ考えるより、相手が居た方が刺激になり妙案が浮かぶかもしれない。
-＃重明
-（……よし、部屋にストーブを設置したら……桔梗ちゃんとちょっくら話をしてみるとしますか……）
-・・・
-＃重明
-「ただいま」
-＃桔梗
-「……失礼します」
-……まだ３０分程度しか経過していないのに、何だか久しぶりにこの部屋に戻ってきたような気がする。
-色々な事があり緊張していたのか、気が緩みホッとする中……俺はストーブを床に置き恋人の傍へと近づいていく。
-＃華穂
-「……すうぅ……すうぅ……」
-＃重明
-「……ただいま……華穂……」
-地下室で心が荒む話を聞いた後という事もあり……美しく可愛い華穂の寝顔を見ているだけで、心が癒されていく。
-＃重明
-（……具合は悪そうだけど、熱はないし顔色もそうでもない……これなら特にこっちが慌てる必要はなさそうだな）
-一通り華穂の様子を眺めると、俺は石油が詰まったタンクをストーブに差し込んでいた桔梗に合流する。
-＃重明
-「……これだけ苦労して探して、いざ点火しようとしたら点きませんでした……なんて事になったら、凄い凹めそうだな……」
-＃桔梗
-「機械式のファンヒーターと違って構造的には単純なアルコールランプと大差ないので、火さえ点けば大丈夫だと思います……一応マッチも持ってきましたし」
-こちらに相槌を打ちつつ、テキパキと準備を済ませた桔梗は……ストーブの下部にあるオレンジ色の点火ボタンを奥へグッと押しこませた。
-＃重明
-「……」
-＃桔梗
-「…………」
-＃重明
-「……お……点いたっぽいね」
-＃桔梗
-「……みたいですね……」
-赤く光りだしたストーブを眺めていると……じんわりとした柔らかな暖かさが身体に伝わってくる。
-＃重明
-「……とりあえず問題なく動く事も確認出来たし……まだそんなに寒くないから、今は消しておこうか」
-＃桔梗
-「わかりました、では消しますね」
-点火ボタンの隣にある消火ボタンを桔梗が押すと、ストーブの火が徐々に消えていく。
-……これでもし雪の影響で宿が停電になっても……しばらく寒さを凌ぐ事が出来るだろう。
-＃桔梗
-「くしゅん」
-確認作業を終え立ち上がった所で、桔梗が実に可愛らしいクシャミをした。
-＃桔梗
-「……失礼しました」
-＃重明
-「そういえば俺達、さっき雪の中へダイブしたんだっけ……身体、冷えちゃったのかな？」
-＃桔梗
-「そうですね……そこはかとなく温まりたい気がしなくもないです」
-＃重明
-「……そこはかとなく……か……」
-手っ取り早く身体を暖めたいなら風呂が一番だろう。
-＃重明
-（……でも、どうせなら身体を温めつつ……同時にくす葉の話を桔梗ちゃんとしておきたいよな……）
-一緒にお風呂……普通の女性なら誘った時点でセクハラと言われそうな所だが、桔梗は客のオッサンと一緒に入るような女性。
-……恐らく誘っても問題ないだろう。
-＃重明
-「ねえ桔梗ちゃん、もし仕事が忙しくないなら……よかったらこれから一緒にお風呂とかどうかな？」
-＃桔梗
-「いいですよ、行きましょうか」
-＃重明
-「ああ」
-・・・
+Returning from the basement to the ground level... I was standing alone in the common room with the empty kerosene stove, waiting for Kikyou who had gone to put fuel in the tank.
+$Shigeaki
+(...But man... what is this abnormal situation for what was supposed to be a simple lovey-dovey trip...)
+It's March, yet we can't leave the pension because of a crazy blizzard.
+...And the hidden face of the place we're trapped in is a members-only lewd facility.
+$Shigeaki
+(Well, it's not exactly rare to find that a place you use casually is actually a hangout for shady people... it's just a matter of bad luck, I guess)
+Right... just because the facility is lewd, doesn't mean Kaho or I have suffered any harm.
+The only problem is that we can't leave the inn because of the bad weather.
+$Shigeaki
+(Even so... it's not a place that leaves you feeling great as somewhere to be with your precious girlfriend... this place)
+As soon as I learned the circumstances, even this common room that I'd been using without any hesitation... felt like an alien space where I couldn't let my guard down.
+While I was brooding over such things, the person I was waiting for approached.
+$Kikyou
+“Sorry to keep you waiting.”
+$Shigeaki
+“...Ah... let's go, then.”
+...Although my impression of the pension had changed significantly once I learned the facts...
+my impression of Kikyou didn't really seem to have changed much, to be honest.
+$Kikyou
+"..."
+$Shigeaki
+(...In the first place, she's an employee here... it's not like she's a villain who's doing terrible things to Kusuha because she likes it...)
+And this facility, if I believe Kikyou's story, only handles women who were sold... they definitely don't kidnap people from outside or deceive and attack guests.
+In other words, to me, the fact that Kikyou was an employee at a lewd inn... wasn't something that changed my evaluation of her.
+$Shigeaki
+(...Well, if anything... it's more that I just didn't know this otherworldly girl... Kikyou-chan... that well yet)
+There's no need to worry about Kaho's safety... and for Kikyou too, it seems unnecessary to be pointlessly guarded or worry about her circumstances too much.
+If that's the case... then what I'm most curious about now... is naturally Kusuha's situation.
+Maybe she's being subjected to terrible things by the guests here even now.
+I don't know everything about her, but she didn't give me the impression of being used to men... she likely has zero experience with men.
+$Shigeaki
+(...From how she was yesterday, it didn't seem like she knew she'd been sold by her parents... Kikyou-chan said it was consensual, but... I bet it wasn't... a happy agreement...)
+But I recall that legally, a child has no obligation to pay a parent's debt unless they inherit assets?
+I don't know the specifics of that part, to be honest... but Kaho, being smart, might know a bit more, even if she's not a specialist.
+$Shigeaki
+(...Well, even if Kaho did know... we can't call for help or escape because of the blizzard... right now we're pretty much at a dead end anyway...)
+The poor Kusuha, sold by her parents...
+I want to help her... but on the other hand, it's heartless but I can't help but feel that if it's a relative's debt, there's nothing for it.
+In the first place... Kusuha was sold by her parents and bought by the guests here with money.
+I'm not a relative or even her boyfriend... it's clear as day that it's not a problem that I, a stranger, should interfere with just because I feel bad for her.
+Even if I went wild here just because I didn't like it... it wouldn't wipe out Kusuha's family debt.
+$Shigeaki
+(At the very least, it's apparently being done with the consent of both parties... if I were to interfere, I might end up causing even more trouble for Kusuha and her family...)
+And Kikyou had said she consented...
+If that's true... then Kusuha didn't abandon the parents who sold her, and chose to pay off the debt by sacrificing herself.
+$Shigeaki
+(...She should've just given up on parents who would sell her... and asked someone for help... she's such an idiot...)
+Even so... I've met Kusuha and learned about her circumstances.
+Even though our own safety is the number one priority, giving up from the start without doing anything... isn't in my nature.
+$Shigeaki
+(...Now then... what should I do...)
+If possible, I don't want to involve Kaho deeply in Kusuha's matter.
+And if there's anything I can do alone... it would likely just be going wild and causing trouble for everyone.
+$Shigeaki
+(Going wild is high risk so that's out... in that case, well... I'd have to ask for help from a third party...)
+$Kikyou
+"..."
+Since the victim is Kusuha and I want to avoid involving Kaho if possible... the only person I can think of who might be able to help me is Kikyou, who's by my side now.
+$Shigeaki
+(She's involved here, so if she helped it would definitely be a boost... well, whether she'd actually help... is a tough call...)
+Whatever I do, I'd like to hear more detailed info.
+And instead of thinking about all sorts of things alone, having someone to talk to might provide a stimulus and lead to a good idea.
+$Shigeaki
+(...Alright, once I've set up the stove in the room... I'll have a little talk with Kikyou-chan...)
+...
+$Shigeaki
+“I'm home.”
+$Kikyou
+“...Excuse me.”
+...It's only been about 30 minutes, but it feels like it's been a long time since I've returned to this room.
+Perhaps because I was tense after all that had happened, I felt a sense of relief as my tension eased... I placed the stove on the floor and approached my girlfriend.
+$Kaho
+“...*Zzz*............*zzz*...”
+$Shigeaki
+“...I'm home... Kaho...”
+Having heard that heart-wrenching story in the basement... just looking at Kaho's beautiful and cute sleeping face was healing to my soul.
+$Shigeaki
+(...She looks unwell, but she doesn't have a fever and her complexion isn't that bad either... it looks like I don't need to panic.)
+After checking on Kaho, I joined Kikyou, who was inserting the kerosene-filled tank into the stove.
+$Shigeaki
+“...After all that trouble finding it, if it didn't light when we tried... I'd be pretty depressed.”
+$Kikyou
+“Unlike a mechanical fan heater, its structure is not much different from a simple alcohol lamp, so as long as the flame catches it should be fine... I brought matches just in case.”
+Giving her acknowledgement as she spoke, Kikyou finished the preparations efficiently... and firmly pushed the orange ignition button at the bottom of the stove.
+$Shigeaki
+"..."
+$Kikyou
+"............"
+$Shigeaki
+“...Oh... looks like it's lit.”
+$Kikyou
+“...So it seems...”
+Staring at the stove as it began to glow red... a gentle, steady warmth began to transfer to my body.
+$Shigeaki
+“...For now, I've confirmed that it works without any problems... and it's not that cold yet, so let's turn it off for now.”
+$Kikyou
+“Understood, I will turn it off then.”
+When Kikyou pressed the extinction button next to the ignition button, the flame of the stove gradually went out.
+...With this, if the inn has a blackout because of the snow... we'll be able to withstand the cold for a while.
+$Kikyou
+“A-choo!”
+Just as she stood up after finishing the confirmation work, Kikyou let out a truly cute sneeze.
+$Kikyou
+“...Excuse me.”
+$Shigeaki
+“Come to think of it, we did just dive into the snow earlier... did your body get cold?”
+$Kikyou
+“It did, yes... I feel a vague desire to warm myself up.”
+$Shigeaki
+“...Vague... huh...”
+The fastest way to warm up would be a bath.
+$Shigeaki
+(...But, if possible, I'd like to talk to Kikyou-chan about Kusuha while warming our bodies at the same time...)
+Taking a bath together... with a normal woman, just suggesting it would be called sexual harassment, but Kikyou is a woman who gets in with middle-aged male guests.
+...There likely won't be any problem if I invite her.
+$Shigeaki
+“Hey Kikyou-chan, if you're not too busy with work... what do you think about having a bath together after this?”
+$Kikyou
+“That sounds fine, shall we go?”
+$Shigeaki
+“Yeah.”
+...
