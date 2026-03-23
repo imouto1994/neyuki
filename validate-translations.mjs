@@ -28,7 +28,7 @@ const HEADER_SEPARATOR = "********************";
 
 // Original uses full-width ＃, translated uses half-width #.
 const isSpeechSourceJP = (line) => line.startsWith("＃");
-const isSpeechSourceEN = (line) => line.startsWith("#");
+const isSpeechSourceEN = (line) => line.startsWith("$");
 
 // Original speech content can use 「」, （）, or 【】 brackets.
 const isSpeechContentJP = (line) =>
@@ -214,7 +214,7 @@ async function main() {
             );
           } else if (transName !== expectedEN) {
             sectionErrors.push(
-              `Line ${i + 1}: speaker name mismatch\n     expected: #${expectedEN}\n     got:      ${transLine}`,
+              `Line ${i + 1}: speaker name mismatch\n     expected: $${expectedEN}\n     got:      ${transLine}`,
             );
           }
         }
